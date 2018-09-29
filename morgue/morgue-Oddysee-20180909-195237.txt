@@ -1,0 +1,407 @@
+ Dungeon Crawl Stone Soup version 0.22.0 (tiles) character file.
+
+15150 Oddysee the Protected (level 12, -12/78 HPs)
+             Began as a Gargoyle Fighter on Sept 9, 2018.
+             Was the Champion of Okawaru.
+             Killed from afar by a red draconian (26 damage)
+             ... with a searing blast
+             ... in a volcano.
+             The game lasted 00:25:47 (9685 turns).
+
+Oddysee the Protected (Gargoyle Fighter)            Turns: 9685, Time: 00:25:48
+
+Health: -12/78     AC: 36    Str: 26    XL:     12   Next: 24%
+Magic:  18/18      EV:  7    Int: 11    God:    Okawaru [******]
+Gold:   592        SH: 16    Dex: 11    Spells: 11/11 levels left
+
+rFire    . . .     SeeInvis .   A - +1 whip (elec)
+rCold    + . .     Gourm    .   c - +0 shield
+rNeg     + . .     Faith    .   E - +0 crystal plate armour
+rPois    8         Spirit   .   (no helmet)
+rElec    +         Reflect  .   m - scarf {cloud immunity}
+rCorr    .         Harm     .   e - +2 pair of gloves {Str+3}
+MR       +....                  s - +0 pair of boots
+Stlth    ..........             (no amulet)
+HPRegen  0.23/turn              q - +3 ring of evasion
+MPRegen  0.16/turn              F - ring of protection from magic
+
+@: no status effects
+A: large bone plates 1, molten scales 1, clever 1, cold resistance 1, negative
+energy resistance 1, electricity resistance, unbreathing, petrification
+resistance, rot immunity, AC +8
+a: Heroism, Finesse, Renounce Religion
+
+
+You were in a volcano.
+You worshipped Okawaru.
+Okawaru was exalted by your worship.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 12 of its levels.
+You also visited: Volcano.
+
+You collected 592 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ A - a +1 whip of electrocution (weapon)
+Armour
+ c - a +0 shield (worn)
+ e - a +2 pair of gloves of strength (worn)
+ m - a scarf of cloud immunity (worn)
+ s - a +0 pair of boots (worn)
+ E - a +0 crystal plate armour (worn)
+ J - a +0 cloak of invisibility
+Jewellery
+ q - a +3 ring of evasion (left hand)
+ y - an uncursed ring of magical power
+ B - an uncursed ring of wizardry
+ F - a ring of protection from magic (right hand)
+ M - an uncursed ring of protection from magic
+ O - an uncursed ring of ice
+Wands
+ j - a wand of scattershot (7)
+ t - a wand of iceblast (18)
+ C - a wand of disintegration (10)
+ D - a wand of polymorph (14)
+ G - a wand of random effects (30)
+ H - a wand of digging (14)
+ K - a wand of enslavement (15)
+ L - a wand of flame (35)
+Scrolls
+ a - 7 scrolls of enchant weapon
+ b - a scroll of enchant armour
+ g - 3 scrolls of teleportation
+ i - 3 scrolls of magic mapping
+ k - a scroll of fog
+ n - 8 scrolls of identify
+ o - a scroll of fear
+ r - 6 scrolls of remove curse
+ w - 4 scrolls of amnesia
+Potions
+ d - 2 potions of might
+ h - a potion of mutation
+ l - a potion of agility
+ p - 2 potions of curing
+ u - 2 potions of flight
+ x - a potion of haste
+Miscellaneous
+ v - a phial of floods
+ z - a lamp of fire
+Comestibles
+ f - 18 rations
+
+
+   Skills:
+ + Level 10.4 Fighting
+ + Level 9.3 Maces & Flails
+ + Level 10.4 Armour
+ + Level 10.4 Shields
+ + Level 8.6 Invocations
+
+
+You had 11 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Magic Dart               Conj           #...         100%        1    ##.....
+ Conjure Flame            Conj/Fire      #.......     100%        3    ####...
+ Lightning Bolt           Conj/Air       #.........   100%        5    ######.
+ Slow                     Hex            #.......     100%        2    ###....
+ Mephitic Cloud           Conj/Pois/Air  #.......     100%        3    ####...
+ Blink                    Tloc           N/A          100%        2    ###....
+ Call Imp                 Summ           #.......     100%        2    ###....
+ Shock                    Conj/Air       #...         100%        1    ##.....
+ Swiftness                Chrm/Air       #.......     100%        2    ###....
+ Airstrike                Air            #.........   100%        4    #####..
+ Static Discharge         Conj/Air       #.......     100%        3    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (0/1) D:4            Lair (2/6) D:8
+ Shoals (0/4) Lair:2          Orc (0/2) D:10        
+ Snake: Lair:2-4    Spider: Lair:2-4    
+
+Altars:
+Cheibriados
+Hepliaklqana
+Nemelex Xobeh
+Okawaru
+Qazlal
+Wu Jian
+
+Annotations:
+D:10 Fannar
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +8)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+You are partially covered in large bone plates. (SH +4)
+You are partially covered in molten scales. (AC +2)
+Your mind is acute. (Int +2)
+Your flesh is cold resistant. (rC+)
+
+
+Message History
+
+You hit the red draconian.
+The red draconian is severely wounded.
+You block the red draconian's attack.
+You whack the red draconian!
+Lightning courses through the red draconian!
+The red draconian is almost dead.
+You closely miss the red draconian.
+The red draconian is almost dead.
+The red draconian breathes flames at you.
+The searing blast hits you!
+The red draconian breathes flames at you.
+The searing blast hits you!
+* * * LOW HITPOINT WARNING * * *
+You feel better. You block the red draconian's attack.
+As you read the scroll of fear, it crumbles to dust.
+You assume a fearsome visage. The red draconian looks frightened!
+The red draconian cowers, then darts away.
+The red draconian breathes flames at you.
+The searing blast hits you!
+You die...
+
+§§§˜˜§§§§˜˜˜§˜.˜˜§˜˜˜§.˜.§˜.˜˜
+˜˜ §§§˜§§.....................
+˜  ˜§˜˜§§§§########'########.˜
+   ˜˜§§˜˜§§#      #.#      #..
+   ˜˜˜˜˜˜˜.#      #.#      #..
+  §˜˜˜§˜˜..#      #.#      #.§
+  ˜˜§§˜˜˜˜.#      #.#      #..
+  ˜˜§˜§˜˜..######.#.#.######.˜
+  §§˜˜˜§˜˜.#......#(#......#§§
+  §§˜§§˜§.§###++###)###++###.˜
+  ˜˜§˜˜˜§.§#....#.))).#    #..
+  ˜˜˜˜˜˜§˜.#.nd@#.8_8.#    #.§
+  ˜˜˜˜§§§..#...§'.....+    #§.
+  ˜˜§§§§§˜.#################§§
+§˜˜§˜§˜˜§...........§........˜
+§§˜§˜§§˜§˜.˜§..§˜˜˜˜..˜˜.§§.˜˜
+˜˜§§˜˜˜˜˜˜˜˜˜˜§§˜˜˜˜§˜˜˜§§˜˜˜˜
+˜§˜§˜˜˜˜˜˜˜˜§§˜§§˜˜˜§§˜˜§§˜˜˜§
+˜˜˜˜˜§§§§§§˜˜˜˜§˜˜˜˜˜§§˜˜§˜˜˜˜
+§§§§˜§˜˜˜§˜˜˜˜˜˜§˜§§˜§§˜˜§˜§˜˜
+.˜˜˜˜˜˜˜˜˜˜§˜˜˜˜§§˜§§§˜§˜§˜˜§§
+....˜˜˜§˜§§§˜˜˜§§§§§§˜˜˜˜§§˜˜§
+
+
+You could see a red draconian (fleeing).
+
+Vanquished Creatures
+  A centaur warrior (Volcano)
+  2 two-headed ogres
+  Urug (D:10)
+  An unseen horror (D:6)
+  Pikel (D:4)
+  Maurice (D:10)
+  A spiny frog (Lair:1)
+  A yaktaur (Volcano)
+  2 komodo dragons (Lair:1)
+  2 trolls
+  Prince Ribbit (D:7)
+  2 hippogriffs
+  Sigmund (D:3)
+  A spriggan (D:7)
+  13 yaks
+  Eustachio (D:6)
+  2 fire bats (Volcano)
+  Grum (D:10)
+  Menkaure (D:7)
+  6 water moccasins
+  Edmund (D:6)
+  Duvessa (D:6)
+  A hornet zombie (D:10)
+  2 orc warriors
+  A slave (D:4)
+  3 sky beasts
+  6 ogres
+  A phantom (D:9)
+  4 centaurs
+  10 ice beasts
+  4 wolves (D:10)
+  A big kobold (D:10)
+  4 crocodiles (Lair:1)
+  9 bullfrogs
+  A gnoll sergeant (D:9)
+  Dowan (D:6)
+  2 scorpions (D:10)
+  A water moccasin skeleton (D:7)
+  6 killer bees
+  2 howler monkeys (D:10)
+  3 crimson imps
+  5 lava snakes (Volcano)
+  6 hounds
+  4 orc priests
+  2 centaur skeletons
+  A centaur zombie (D:5)
+  A gnoll shaman (D:8)
+  2 jellies
+  4 orc wizards
+  3 iguanas
+  6 worker ants
+  2 hound skeletons
+  A worker ant zombie (D:10)
+  11 gnolls
+  8 adders
+  2 shadow imps
+  An ooze (D:3)
+  2 adder skeletons (D:5)
+  2 adder zombies
+  4 worms
+  A dart slug (D:1)
+  6 leopard geckos
+  26 orcs
+  3 bats
+  2 giant cockroaches
+  8 goblins
+  12 hobgoblins
+  9 jackals
+  10 kobolds
+  2 quokkas
+  A ball python (D:2)
+  10 frilled lizards
+  2 leopard gecko skeletons
+  2 rats (D:3)
+267 creatures vanquished.
+
+Vanquished Creatures (others)
+  A frilled lizard (D:4)
+1 creature vanquished.
+
+Grand Total: 268 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Gargoyle Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+    61 | D:1      | Reached XP level 2. HP: 19/19 MP: 2/2
+   650 | D:2      | Reached XP level 3. HP: 23/23 MP: 3/3
+  1189 | D:2      | Found an ornate altar of the Wu Jian Council.
+  1190 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  1192 | D:2      | Reached XP level 4. HP: 29/29 MP: 4/4
+  1193 | D:2      | Found a snail-covered altar of Cheibriados.
+  1395 | D:3      | Found an iron altar of Okawaru.
+  1399 | D:3      | Became a worshipper of Warmaster Okawaru
+  1540 | D:3      | Noticed Sigmund
+  1559 | D:3      | Killed Sigmund
+  1559 | D:3      | Reached XP level 5. HP: 32/34 MP: 5/5
+  1559 | D:3      | Reached XP level 6. HP: 37/39 MP: 6/6
+  1999 | D:4      | Noticed a slave
+  2001 | D:4      | Noticed Pikel
+  2002 | D:4      | Noticed a slave
+  2007 | D:4      | Noticed a slave
+  2011 | D:4      | Killed a slave
+  2016 | D:4      | Noticed a slave
+  2040 | D:4      | Killed Pikel
+  2040 | D:4      | Reached * piety under Okawaru
+  2040 | D:4      | Reached ** piety under Okawaru
+  2040 | D:4      | Reached skill level 5 in Fighting
+  2040 | D:4      | Reached skill level 5 in Armour
+  2040 | D:4      | Reached skill level 5 in Shields
+  2040 | D:4      | Reached XP level 7. HP: 43/44 MP: 7/7
+  2537 | D:4      | Found a staircase to the Ecumenical Temple.
+  2570 | D:4      | Gained mutation: Armour fits poorly on your strangely shaped body. [potion of mutation]
+  2570 | D:4      | Gained mutation: You are somewhat resistant to further mutation. [potion of mutation]
+  2614 | D:5      | Entered Level 5 of the Dungeon
+  2648 | D:5      | Reached XP level 8. HP: 43/51 MP: 8/8
+  2854 | D:5      | Reached skill level 1 in Invocations
+  3035 | D:5      | Lost mutation: Armour fits poorly on your strangely shaped body. [potion of mutation]
+  3035 | D:5      | Lost mutation: You are somewhat resistant to further mutation. [potion of mutation]
+  3035 | D:5      | Gained mutation: Your mind is acute. (Int +2) [potion of mutation]
+  3035 | D:5      | Gained mutation: You are partially covered in molten scales. (AC +2) [potion of mutation]
+  3035 | D:5      | Gained mutation: You are partially covered in large bone plates. (SH +4) [potion of mutation]
+  3035 | D:5      | Gained mutation: Your flesh is cold resistant. (rC+) [potion of mutation]
+  3053 | D:5      | Reached skill level 5 in Maces & Flails
+  3180 | D:5      | Noticed a hippogriff
+  3192 | D:5      | Killed a hippogriff
+  3242 | D:5      | Noticed a two-headed ogre
+  3258 | D:5      | Killed a two-headed ogre
+  3258 | D:5      | Reached *** piety under Okawaru
+  3258 | D:5      | Reached XP level 9. HP: 40/56 MP: 9/11
+  3646 | D:6      | Reached **** piety under Okawaru
+  3646 | D:6      | Noticed Duvessa
+  3653 | D:6      | Noticed Dowan
+  3654 | D:6      | Killed Duvessa
+  3656 | D:6      | Killed Dowan
+  3802 | D:6      | Killed an unseen horror
+  3802 | D:6      | Reached ***** piety under Okawaru
+  3904 | D:6      | Noticed Eustachio
+  3939 | D:6      | Killed Eustachio
+  3969 | D:6      | Noticed Edmund
+  3981 | D:6      | Killed Edmund
+  4555 | D:7      | Reached XP level 10. HP: 64/64 MP: 13/13
+  4578 | D:7      | Reached skill level 5 in Invocations
+  4717 | D:7      | Noticed Prince Ribbit
+  4817 | D:7      | Found a stormy altar of Qazlal.
+  4964 | D:7      | Killed Prince Ribbit
+  5010 | D:7      | Noticed Menkaure
+  5017 | D:7      | Killed Menkaure
+  5249 | D:8      | Found a staircase to the Lair.
+  6380 | D:9      | Found a hazy altar of Hepliaklqana.
+  7112 | D:10     | Entered Level 10 of the Dungeon
+  7138 | D:10     | Noticed Grum
+  7154 | D:10     | Reached XP level 11. HP: 67/71 MP: 15/15
+  7175 | D:10     | Killed Grum
+  7317 | D:10     | Noticed Maurice
+  7341 | D:10     | Noticed a two-headed ogre
+  7354 | D:10     | Reached ****** piety under Okawaru
+  7366 | D:10     | Killed a two-headed ogre
+  7366 | D:10     | Received a gift from Okawaru
+  7410 | D:10     | Killed Maurice
+  7453 | D:10     | Found a staircase to the Orcish Mines.
+  7614 | D:10     | Noticed Urug
+  7620 | D:10     | Noticed Fannar
+  7629 | D:10     | Killed Urug
+  7969 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  8264 | Lair:1   | Received a gift from Okawaru
+  8264 | Lair:1   | Reached skill level 10 in Fighting
+  8274 | Lair:1   | Reached skill level 10 in Armour
+  8344 | Lair:1   | Reached skill level 10 in Shields
+  8634 | Lair:1   | Reached XP level 12. HP: 77/77 MP: 18/18
+  9278 | Lair:2   | Found a dark tunnel.
+  9286 | Volcano  | Entered a volcano
+  9613 | Volcano  | Found a radiant altar of Vehumet.
+  9613 | Volcano  | Noticed a centaur warrior
+  9631 | Volcano  | Killed a centaur warrior
+  9653 | Volcano  | Noticed a red draconian
+  9685 | Volcano  | Killed from afar by a red draconian
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Armour         |           4     5     6  7  9 10 | 10.4
+Fighting       |           4     5     6  7  9 10 | 10.4
+Shields        |           4     5     6  7  9 10 | 10.4
+Maces & Flails |           3     4     5  6  7  9 |  9.3
+Invocations    |                       3  4  6  8 |  8.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Flail             |   162 |    52 |       |       ||   214
+       Whip              |       |    96 |   260 |   961 ||  1317
+  Use: Scroll            |     5 |     4 |     2 |    13 ||    24
+       Potion            |       |     2 |     8 |     3 ||    13
+  Eat: Chunk             |     1 |     3 |     4 |    11 ||    19
+       Ration            |       |       |     1 |     3 ||     4
+Armor: Scale mail        |    79 |    63 |    24 |       ||   166
+       Chain mail        |       |       |    66 |   110 ||   176
+       Crystal plate arm |       |       |       |   243 ||   243
+Dodge: Dodged            |    36 |    40 |    54 |   159 ||   289
+Block: Shield            |    91 |    59 |   132 |   611 ||   893
+

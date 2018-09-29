@@ -1,0 +1,301 @@
+ Dungeon Crawl Stone Soup version 0.22.0 (tiles) character file.
+
+Oddysee the Covered (Gargoyle Fighter)              Turns: 4506, Time: 00:12:29
+
+Health: 58/58      AC: 23    Str: 26    XL:     9   Next: 96%
+Magic:  21/21      EV: 10    Int: 10    God:    Okawaru [*****.]
+Gold:   229        SH: 15    Dex: 10    Spells: 8/8 levels left
+
+rFire    . . .     SeeInvis .   A - +1 whip (elec)
+rCold    + . .     Gourm    .   c - +0 shield
+rNeg     + . .     Faith    .   v - +0 chain mail
+rPois    8         Spirit   .   (no helmet)
+rElec    +         Reflect  .   m - scarf {cloud immunity}
+rCorr    .         Harm     .   e - +2 pair of gloves {Str+3}
+MR       .....                  s - +0 pair of boots
+Stlth    ..........             (no amulet)
+HPRegen  0.19/turn              q - +3 ring of evasion
+MPRegen  0.17/turn              y - ring of magical power
+
+@: no status effects
+A: large bone plates 1, molten scales 1, clever 1, cold resistance 1, negative
+energy resistance 1, electricity resistance, unbreathing, petrification
+resistance, rot immunity, AC +6
+a: Heroism, Finesse, Renounce Religion
+
+
+You are on level 6 of the Dungeon.
+You worship Okawaru.
+Okawaru is extremely pleased with you.
+You are very hungry.
+
+You have visited 1 branch of the dungeon, and seen 6 of its levels.
+
+You have collected 229 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ A - a +1 whip of electrocution (weapon)
+Armour
+ b - a +0 scale mail
+ c - a +0 shield (worn)
+ e - a +2 pair of gloves of strength (worn)
+ m - a scarf of cloud immunity (worn)
+ s - a +0 pair of boots (worn)
+ v - a +0 chain mail (worn)
+Jewellery
+ q - a +3 ring of evasion (left hand)
+ y - a ring of magical power (right hand)
+Wands
+ j - a wand of scattershot (7)
+ t - a wand of iceblast (10)
+Scrolls
+ a - 4 scrolls of enchant weapon
+ g - 3 scrolls of teleportation
+ i - 3 scrolls of magic mapping
+ k - a scroll of fog
+ n - 7 scrolls of identify
+ r - 4 scrolls of remove curse
+Potions
+ d - 2 potions of might
+ h - a potion of heal wounds
+ l - a potion of agility
+ p - 4 potions of curing
+ x - a potion of haste
+Miscellaneous
+ z - a lamp of fire
+Comestibles
+ f - 9 rations
+
+
+   Skills:
+ + Level 7.7 Fighting
+ + Level 6.7 Maces & Flails
+ + Level 7.8 Armour
+ + Level 7.7 Shields
+ + Level 4.9 Invocations
+
+
+You have 8 spell levels left.
+You don't know any spells.
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Magic Dart               Conj           #...         99%         1    ##.....
+ Conjure Flame            Conj/Fire      #.......     100%        3    ####...
+ Slow                     Hex            #.......     100%        2    ###....
+ Mephitic Cloud           Conj/Pois/Air  #.......     100%        3    ####...
+ Blink                    Tloc           N/A          100%        2    ###....
+ Call Imp                 Summ           #.......     100%        2    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (0/1) D:4         
+
+Altars:
+Cheibriados
+Nemelex Xobeh
+Okawaru
+Wu Jian
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +6)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+You are partially covered in large bone plates. (SH +4)
+You are partially covered in molten scales. (AC +2)
+Your mind is acute. (Int +2)
+Your flesh is cold resistant. (rC+)
+
+
+Message History
+
+You feel weaker.
+Your roots penetrate the ground.
+You start waiting.
+Your transformation is almost over.
+You start waiting.
+You feel less wooden.
+Your scarf of cloud immunity unmelds from your body.
+Your +2 pair of gloves of strength unmelds from your body.
+Your +0 pair of boots unmelds from your body.
+Your +0 chain mail unmelds from your body.
+You feel immune to the effects of clouds.
+You feel stronger.
+You start waiting.
+Done waiting.
+You start waiting.
+You are feeling very hungry.
+Done exploring.
+Done exploring.
+Done exploring.
+Save game and exit? 
+
+.'........)....#.......##.#
+##.............#.......##.#
+#..............#####..###.#
+#..............#   ##.# #.#
+#............÷.#    #.# #.#
+#....^..######'##   #.# #.#
+#.......#   #...#   #.# #.#
+........#   #...#   #.###.#
+##......#   #...#   #..##.#
+ #...####   #...### ##.##.#
+ #...#      #.....#  #.##.#
+ #...#      #..@..#  #.##.#
+ #...#      #.....#  #.##.#
+ #...#      #.....####.##.#
+ #...#      #.....'..#..#.#
+ #####      #.....##.##.#.#
+            #.....##.##.#.#
+            ########.##...#
+                   #.###..#
+                  ##.###..#
+                  #......>#
+####              #########
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A two-headed ogre (D:5)
+  An unseen horror (D:6)
+  Pikel (D:4)
+  A hippogriff (D:5)
+  Sigmund (D:3)
+  Eustachio (D:6)
+  A water moccasin (D:6)
+  Edmund (D:6)
+  Duvessa (D:6)
+  A slave (D:4)
+  A sky beast (D:5)
+  2 ogres
+  A centaur (D:6)
+  Dowan (D:6)
+  A crimson imp (D:4)
+  A hound (D:4)
+  A centaur skeleton (D:6)
+  A centaur zombie (D:5)
+  2 worker ants
+  A hound skeleton (D:5)
+  4 gnolls (D:5)
+  5 adders
+  A shadow imp (D:5)
+  An ooze (D:3)
+  2 adder skeletons (D:5)
+  2 adder zombies
+  4 worms
+  A dart slug (D:1)
+  4 leopard geckos
+  12 orcs
+  3 bats
+  2 giant cockroaches
+  8 goblins
+  12 hobgoblins
+  9 jackals
+  7 kobolds
+  2 quokkas
+  A ball python (D:2)
+  10 frilled lizards
+  A leopard gecko skeleton (D:6)
+  2 rats (D:3)
+115 creatures vanquished.
+
+Vanquished Creatures (others)
+  A frilled lizard (D:4)
+1 creature vanquished.
+
+Grand Total: 116 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Gargoyle Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+    61 | D:1      | Reached XP level 2. HP: 19/19 MP: 2/2
+   650 | D:2      | Reached XP level 3. HP: 23/23 MP: 3/3
+  1189 | D:2      | Found an ornate altar of the Wu Jian Council.
+  1190 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  1192 | D:2      | Reached XP level 4. HP: 29/29 MP: 4/4
+  1193 | D:2      | Found a snail-covered altar of Cheibriados.
+  1395 | D:3      | Found an iron altar of Okawaru.
+  1399 | D:3      | Became a worshipper of Warmaster Okawaru
+  1540 | D:3      | Noticed Sigmund
+  1559 | D:3      | Killed Sigmund
+  1559 | D:3      | Reached XP level 5. HP: 32/34 MP: 5/5
+  1559 | D:3      | Reached XP level 6. HP: 37/39 MP: 6/6
+  1999 | D:4      | Noticed a slave
+  2001 | D:4      | Noticed Pikel
+  2002 | D:4      | Noticed a slave
+  2007 | D:4      | Noticed a slave
+  2011 | D:4      | Killed a slave
+  2016 | D:4      | Noticed a slave
+  2040 | D:4      | Killed Pikel
+  2040 | D:4      | Reached * piety under Okawaru
+  2040 | D:4      | Reached ** piety under Okawaru
+  2040 | D:4      | Reached skill level 5 in Fighting
+  2040 | D:4      | Reached skill level 5 in Armour
+  2040 | D:4      | Reached skill level 5 in Shields
+  2040 | D:4      | Reached XP level 7. HP: 43/44 MP: 7/7
+  2537 | D:4      | Found a staircase to the Ecumenical Temple.
+  2570 | D:4      | Gained mutation: Armour fits poorly on your strangely shaped body. [potion of mutation]
+  2570 | D:4      | Gained mutation: You are somewhat resistant to further mutation. [potion of mutation]
+  2614 | D:5      | Entered Level 5 of the Dungeon
+  2648 | D:5      | Reached XP level 8. HP: 43/51 MP: 8/8
+  2854 | D:5      | Reached skill level 1 in Invocations
+  3035 | D:5      | Lost mutation: Armour fits poorly on your strangely shaped body. [potion of mutation]
+  3035 | D:5      | Lost mutation: You are somewhat resistant to further mutation. [potion of mutation]
+  3035 | D:5      | Gained mutation: Your mind is acute. (Int +2) [potion of mutation]
+  3035 | D:5      | Gained mutation: You are partially covered in molten scales. (AC +2) [potion of mutation]
+  3035 | D:5      | Gained mutation: You are partially covered in large bone plates. (SH +4) [potion of mutation]
+  3035 | D:5      | Gained mutation: Your flesh is cold resistant. (rC+) [potion of mutation]
+  3053 | D:5      | Reached skill level 5 in Maces & Flails
+  3180 | D:5      | Noticed a hippogriff
+  3192 | D:5      | Killed a hippogriff
+  3242 | D:5      | Noticed a two-headed ogre
+  3258 | D:5      | Killed a two-headed ogre
+  3258 | D:5      | Reached *** piety under Okawaru
+  3258 | D:5      | Reached XP level 9. HP: 40/56 MP: 9/11
+  3646 | D:6      | Reached **** piety under Okawaru
+  3646 | D:6      | Noticed Duvessa
+  3653 | D:6      | Noticed Dowan
+  3654 | D:6      | Killed Duvessa
+  3656 | D:6      | Killed Dowan
+  3802 | D:6      | Killed an unseen horror
+  3802 | D:6      | Reached ***** piety under Okawaru
+  3904 | D:6      | Noticed Eustachio
+  3939 | D:6      | Killed Eustachio
+  3969 | D:6      | Noticed Edmund
+  3981 | D:6      | Killed Edmund
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Armour         |           4     5     6  7 |  7.8
+Fighting       |           4     5     6  7 |  7.7
+Shields        |           4     5     6  7 |  7.7
+Maces & Flails |           3     4     5  6 |  6.7
+Invocations    |                       3  4 |  4.9
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Flail             |   162 |    52 |       ||   214
+       Whip              |       |    96 |   257 ||   353
+  Use: Scroll            |     5 |     4 |     2 ||    11
+       Potion            |       |     2 |     8 ||    10
+  Eat: Chunk             |     1 |     3 |     4 ||     8
+       Ration            |       |       |     1 ||     1
+Armor: Scale mail        |    79 |    63 |    24 ||   166
+       Chain mail        |       |       |    66 ||    66
+Dodge: Dodged            |    36 |    40 |    52 ||   128
+Block: Shield            |    91 |    59 |   130 ||   280
+

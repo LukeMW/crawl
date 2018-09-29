@@ -1,0 +1,357 @@
+ Dungeon Crawl Stone Soup version 0.22.0 (tiles) character file.
+
+5137 Oddysee the Slinger (level 10, -1/71 HPs)
+             Began as a Halfling Hunter on Sept 8, 2018.
+             Was an Elder of Okawaru.
+             Slain by Snorg (9 damage)
+             ... on level 10 of the Dungeon.
+             The game lasted 00:25:28 (8301 turns).
+
+Oddysee the Slinger (Halfling Hunter)               Turns: 8301, Time: 00:25:28
+
+Health: -1/71      AC: 16    Str: 16    XL:     10   Next: 89%
+Magic:  14/14      EV: 12    Int:  9    God:    Okawaru [****..]
+Gold:   459        SH:  0    Dex: 16    Spells: 9/9 levels left
+
+rFire    . . .     SeeInvis .   a - +2 hunting sling
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   i - +1 plate armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   o - scarf {repulsion}
+rCorr    +         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.21/turn              t - ring of resist corrosion
+MPRegen  0.14/turn              (no ring)
+
+@: confused, about to teleport, heroism, repel missiles
+A: small, mutation resistance 1, screaming 1, wild magic 1
+a: Heroism, Renounce Religion
+
+
+You were on level 10 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was greatly pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 11 of its levels.
+
+You collected 459 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 hunting sling (weapon)
+ b - a +2 war axe
+ d - a +0 flail of protection
+Missiles
+ g - 273 stones (quivered)
+ l - 4 tomahawks of returning
+Armour
+ i - a +1 plate armour (worn)
+ o - a scarf of repulsion (worn)
+Jewellery
+ t - a ring of resist corrosion (left hand)
+Wands
+ k - a wand of paralysis (18)
+ q - a wand of random effects (52)
+Scrolls
+ j - 4 scrolls of identify
+ n - 4 scrolls of remove curse
+ p - 7 scrolls of teleportation
+ r - a scroll of magic mapping
+Potions
+ c - 2 potions of curing
+ h - a potion of cancellation
+ m - 2 potions of brilliance
+ u - a potion of resistance
+ v - 2 potions of mutation
+Comestibles
+ f - 15 rations
+ w - 2 chunks of flesh
+
+
+   Skills:
+ + Level 7.0(12.0) Fighting
+   Level 4.9(9.9) Short Blades
+ + Level 3.2(8.2) Axes
+ + Level 11.8(16.8) Slings
+ + Level 8.0(13.0) Armour
+ - Level 2.3(7.3) Dodging
+ - Level 1.1(6.1) Stealth
+ + Level 6.6 Invocations
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Fireball                 Conj/Fire      #.........   100%        5    ######.
+ Lightning Bolt           Conj/Air       #.........   100%        5    ######.
+ Iron Shot                Conj/Erth      #.........   100%        6    #######
+ Stone Arrow              Conj/Erth      #.....       100%        3    ####...
+ Spider Form              Tmut/Pois      #.........   100%        3    ####...
+ Blade Hands              Tmut           #.........   100%        5    ######.
+ Ice Form                 Ice/Tmut       #.......     100%        4    #####..
+ Flame Tongue             Conj/Fire      #....        100%        1    ##.....
+ Sticks to Snakes         Tmut           #.......     100%        2    ###....
+ Beastly Appendage        Tmut           #.....       100%        1    ##.....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:5            Lair (0/6) D:9
+    Orc (0/2) D:9         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:9 3 runed doors, Oddysee's ghost, novice HaHu
+D:10 Snorg
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are somewhat resistant to further mutation.
+You occasionally shout uncontrollably at your foes.
+Your spells are a little harder to cast, but a little more powerful.
+
+
+Message History
+
+Firing (i - inventory. (/) - cycle) g - 275 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - Snorg
+Aim: Snorg (heavily wounded, berserk, fast, unusually strong)
+You shoot a stone. The stone hits Snorg.
+Snorg is heavily wounded.
+Snorg barely misses you. Snorg claws you! Snorg barely misses you.
+Firing (i - inventory. (/) - cycle) g - 274 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - Snorg
+Aim: Snorg (heavily wounded, berserk, fast, unusually strong)
+You shoot a stone. The stone hits Snorg.
+Snorg is heavily wounded.
+Snorg bites you!
+* * * LOW HITPOINT WARNING * * *
+Snorg closely misses you. Snorg claws you!
+* * * LOW HITPOINT WARNING * * *
+You are confused.
+You feel invigorated. Snorg bites you.
+* * * LOW HITPOINT WARNING * * *
+Snorg claws you!
+You die...
+
+      #............#
+      #............#
+      ########'##..#+#
+            #...#..#..
+....        #...#..#..
+.....       #...#..#..
+.....       #...#..#..
+.....###+####.#'##.###
+ .....[..#....#..#...#
+   ......#....#..#...#
+######...#....#..#..##
+(....(T@.#....#.......
+..(((##'##....#.......
+...  #...######..#'##.
+.    #...........#..#.
+     #......)....#..#.
+     #........####..##
+     #...##'###.......
+     #...#....#.......
+     #...#....########
+     #...##'###..#...'
+     #...#.......#...#
+
+
+You could see Snorg (berserk).
+
+Vanquished Creatures
+  Erolcha (D:9)
+  A hippogriff (D:9)
+  3 yaks
+  2 hogs (D:7)
+  A human (D:7)
+  Edmund (D:5)
+  Menkaure (D:4)
+  2 porcupines (D:9)
+  2 orc warriors
+  A sky beast (D:9)
+  A black bear (D:9)
+  A phantom (D:7)
+  An ice beast (D:8)
+  An ogre (D:7)
+  An eye of draining (D:4)
+  2 necrophages
+  A centaur (D:7)
+  3 bullfrogs
+  A wyvern skeleton (D:9)
+  A scorpion (D:8)
+  5 wights (D:8)
+  6 killer bees (D:9)
+  A howler monkey (D:5)
+  6 crimson imps
+  3 hounds
+  2 bullfrog zombies (D:5)
+  A centaur zombie (D:9)
+  2 jellies
+  An orc priest (D:4)
+  2 bullfrog skeletons
+  8 orc wizards
+  Terence (D:2)
+  A centaur skeleton (D:5)
+  3 iguanas
+  3 worker ants
+  A worker ant zombie (D:5)
+  Robin (D:4)
+  12 adders
+  2 shadow imps
+  An adder skeleton (D:9)
+  3 worms
+  3 dart slugs
+  A leopard gecko (D:7)
+  13 orcs
+  5 giant cockroaches
+  10 goblins
+  5 hobgoblins
+  2 jackals (D:8)
+  2 quokkas
+  2 ball pythons
+  8 bats
+  6 frilled lizards
+  5 kobolds
+  10 rats
+165 creatures vanquished.
+
+Vanquished Creatures (others)
+  An adder (D:9)
+  2 fungi (D:9)
+  2 plants (D:9)
+5 creatures vanquished.
+
+Grand Total: 170 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Halfling Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+   108 | D:1      | Reached skill level 6 in Slings
+   147 | D:1      | Reached XP level 2. HP: 19/19 MP: 2/2
+   391 | D:1      | Reached skill level 1 in Armour
+   504 | D:1      | Reached XP level 3. HP: 24/24 MP: 3/3
+  1115 | D:2      | Reached XP level 4. HP: 30/30 MP: 4/4
+  1468 | D:2      | Noticed Terence
+  1490 | D:2      | Killed Terence
+  1587 | D:3      | Reached XP level 5. HP: 36/36 MP: 5/5
+  1640 | D:3      | Found a blossoming altar of Fedhas.
+  1833 | D:3      | Found a hide-covered altar of Uskayaw.
+  1840 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  2445 | D:4      | Noticed Menkaure
+  2451 | D:4      | Killed Menkaure
+  2451 | D:4      | Reached skill level 7 in Slings
+  2451 | D:4      | Reached XP level 6. HP: 36/42 MP: 6/6
+  2475 | D:4      | Noticed Robin
+  2487 | D:4      | Killed Robin
+  2527 | D:4      | Noticed an eye of draining
+  2534 | D:4      | Killed an eye of draining
+  2644 | D:4      | Reached skill level 8 in Slings
+  2644 | D:4      | Reached XP level 7. HP: 45/47 MP: 7/7
+  2787 | D:4      | Identified Sonn's Handbook of Feathers and Attacks
+  2907 | D:4      | Gained mutation: You occasionally shout uncontrollably at your foes. [potion of mutation]
+  2907 | D:4      | Gained mutation: Your spells are a little harder to cast, but a little more powerful. [potion of mutation]
+  2953 | D:5      | Entered Level 5 of the Dungeon
+  3085 | D:5      | Found a staircase to the Ecumenical Temple.
+  3103 | Temple   | Entered the Ecumenical Temple
+  3211 | Temple   | Became a worshipper of Warmaster Okawaru
+  3421 | D:5      | Reached skill level 1 in Invocations
+  3447 | D:5      | Noticed Edmund
+  3478 | D:5      | Killed Edmund
+  3478 | D:5      | Reached XP level 8. HP: 53/54 MP: 7/9
+  3522 | D:5      | Found a glowing silver altar of Zin.
+  3695 | D:5      | Reached * piety under Okawaru
+  3701 | D:5      | Reached skill level 9 in Slings
+  3852 | D:6      | Reached skill level 5 in Armour
+  4277 | D:6      | Found a shadowy altar of Dithmenos.
+  4506 | D:6      | Reached skill level 5 in Fighting
+  4506 | D:6      | Reached skill level 1 in Short Blades
+  5156 | D:7      | Noticed a yak
+  5156 | D:7      | Noticed a yak
+  5156 | D:7      | Noticed a human
+  5156 | D:7      | Noticed a hog
+  5156 | D:7      | Noticed a hog
+  5168 | D:7      | Killed a hog
+  5184 | D:7      | Killed a hog
+  5184 | D:7      | Reached XP level 9. HP: 21/61 MP: 8/11
+  5211 | D:7      | Reached ** piety under Okawaru
+  5211 | D:7      | Reached skill level 10 in Slings
+  5979 | D:8      | Reached skill level 5 in Invocations
+  6008 | D:8      | Reached *** piety under Okawaru
+  6200 | D:8      | Reached XP level 10. HP: 68/68 MP: 13/13
+  6565 | D:9      | Reached skill level 11 in Slings
+  6586 | D:9      | Found a runed gate.
+  6586 | D:9      | Found a runed gate.
+  6586 | D:9      | Noticed a kobold demonologist
+  6586 | D:9      | Noticed a kobold demonologist
+  6586 | D:9      | Noticed Oddysee's ghost (novice HaHu)
+  6655 | D:9      | Reached skill level 1 in Axes
+  7016 | D:9      | Found a runed gate.
+  7084 | D:9      | Reached **** piety under Okawaru
+  7367 | D:9      | Found a staircase to the Lair.
+  7525 | D:9      | Noticed Erolcha
+  7556 | D:9      | Killed Erolcha
+  7988 | D:9      | Found a staircase to the Orcish Mines.
+  8135 | D:10     | Entered Level 10 of the Dungeon
+  8273 | D:10     | Noticed Snorg
+  8301 | D:10     | Slain by Snorg
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Slings         |  6           7  8     9 10 11 | 11.8
+Fighting       |  2           3     4  5  6  7 |  7.0
+Armour         |     1     2  3     4  5  6  8 |  8.0
+Invocations    |                    1  3  5  6 |  6.6
+Short Blades   |                       2  4    |  4.9
+Axes           |                             3 |  3.2
+Dodging        |                               |  2.3
+Stealth        |                               |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Short sword       |       |       |    30 |       ||    30
+       War axe           |       |       |       |     6 ||     6
+ Fire: Hunting sling     |   107 |   109 |   402 |   262 ||   880
+Invok: Heroism           |       |       |     1 |     2 ||     3
+  Use: Scroll            |     1 |     8 |     4 |     2 ||    15
+       Potion            |       |       |    11 |     5 ||    16
+  Eat: Chunk             |       |     5 |    10 |     3 ||    18
+       Ration            |       |       |       |     1 ||     1
+Armor: Chain mail        |     5 |       |       |       ||     5
+       Plate armour      |    16 |    20 |   114 |    80 ||   230
+Dodge: Dodged            |    16 |     7 |    47 |    61 ||   131
+

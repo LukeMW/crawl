@@ -1,0 +1,330 @@
+ Dungeon Crawl Stone Soup version 0.22.0 (tiles) character file.
+
+3875 Oddysee the Blocker (level 10, -1/91 HPs)
+             Began as a Minotaur Fighter on Aug 21, 2018.
+             Was an Elder of Cheibriados.
+             Slain by an orc knight
+             ... wielding a +0 war axe
+              (23 damage)
+             ... in a bailey.
+             The game lasted 00:15:15 (5318 turns).
+
+Oddysee the Blocker (Minotaur Fighter)              Turns: 5318, Time: 00:15:17
+
+Health: -1/91      AC: 15    Str: 39    XL:     10   Next: 0%
+Magic:  9/9        EV:  7    Int: 18    God:    Cheibriados [****..]
+Gold:   293        SH: 14    Dex: 19    Spells: 9/9 levels left
+
+rFire    + . .     SeeInvis .   m - +7 whip {venom, rPois rF+ Str-3 Int+4}
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   p - +0 plate armour
+rPois    +         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   C - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.25/turn              h - +4 ring of strength
+MPRegen  0.11/turn              (no ring)
+
+@: mighty, very slow
+A: retaliatory headbutt, horns 2
+a: Bend Time, Temporal Distortion, Slouch, Renounce Religion
+
+
+You were in a bailey.
+You worshipped Cheibriados.
+Cheibriados was greatly pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 7 of its levels.
+You also visited: Ossuary and Bailey.
+
+You collected 293 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 war axe
+ m - the +7 whip of Desperation (weapon) {venom, rPois rF+ Str-3 Int+4}
+   (You found it on level 4 of the Dungeon)   
+   
+   It poisons the flesh of those it strikes.
+   
+   It affects your strength (-3).
+   It affects your intelligence (+4).
+   It protects you from fire.
+   It protects you from poison.
+Armour
+ b - a +0 scale mail
+ c - a +0 shield (worn)
+ k - a +1 cloak
+ p - a +0 plate armour (worn)
+ C - a +0 cloak (worn)
+Jewellery
+ h - a +4 ring of strength (left hand)
+ l - an uncursed ring of magical power
+ v - a +2 ring of intelligence
+Wands
+ D - a wand of acid (7)
+ E - a wand of paralysis (9)
+Scrolls
+ e - 9 scrolls of teleportation
+ g - 10 scrolls of identify
+ i - 3 scrolls of enchant weapon
+ j - 2 scrolls of amnesia
+ s - a scroll of fog
+ u - a scroll of enchant armour
+ y - 2 scrolls of blinking {unknown}
+ A - 4 scrolls of remove curse
+Potions
+ d - 2 potions of might
+ n - 3 potions of heal wounds
+ o - a potion of invisibility {unknown}
+ q - 4 potions of degeneration {unknown}
+ r - 2 potions of berserk rage {unknown}
+ t - 6 potions of curing {unknown}
+ w - 2 potions of flight {unknown}
+ x - 3 potions of agility {unknown}
+ z - a potion of lignification {unknown}
+ B - a potion of cancellation {unknown}
+Comestibles
+ f - 13 rations
+
+
+   Skills:
+ + Level 9.3 Fighting
+ - Level 4.3(6.5) Axes
+ + Level 7.7(8.2) Maces & Flails
+ + Level 9.3 Armour
+ + Level 9.4 Shields
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Confuse                  Hex            #.......     100%        3    ####...
+ Confusing Touch          Hex            #.....       91%         1    ##.....
+ Metabolic Englaciation   Hex/Ice        #.........   100%        5    ######.
+ Petrify                  Tmut/Erth      #.......     100%        4    #####..
+ Gell's Gravitas          Tloc           #.........   100%        3    ####...
+ Yara's Violent Unravell  Hex/Tmut       #.........   100%        5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (0/1) D:7         
+
+Altars:
+Cheibriados
+Dithmenos
+Gozag
+Okawaru
+Ru
+Trog
+Xom
+Zin
+The Shining One
+
+Annotations:
+D:4 3 runed doors, Oddysee's ghost, amateur MiFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+The orc knight roars a battlecry!
+The orc warrior goes into a battle-frenzy!
+You hit the orc warrior. The orc warrior is poisoned. You headbutt the orc warrior.
+The orc warrior is moderately wounded.
+The orc warrior no longer looks unusually strong.
+You hit the orc knight. The orc knight looks even sicker.
+The orc knight is lightly wounded.
+The orc knight roars a battlecry!
+The orc warrior goes into a battle-frenzy!
+You whack the orc knight!
+The orc knight looks as sick as possible!
+Your headbutt misses the orc knight.
+The orc knight is moderately wounded.
+Your plate armour prevents you from hitting the orc knight.
+The orc knight is moderately wounded.
+The orc warrior no longer looks unusually strong.
+The orc warlord no longer looks unusually strong.
+The orc warrior no longer looks unusually strong.
+The orc knight hits you with a war axe!!
+You die...
+
+.......)#...........#
+......))'...........#
+..(....)#.....(.....#
+........#...........#
+........#...........#
+.......###.......))###
+.....###.###.....#'#.###
+##.### ....###.###.....###
+.###   ......###.........##
+..#    ....go##8..........#
+..#    ....ogo#8..........#
+..#    ....ggoo@....(....n#
+..#    .....go#8..........#
+..#    .....o##8..........#
+.###   ......###.........##
+##.### ....###.###))...###
+.....###.###.....#'#.###
+.......###.........###
+........#...........#
+........#...........#
+..(.....#)....(.....#
+........))..........#
+
+
+You could see an orc warlord, 2 orc knights, 4 orc warriors, 2 gnolls, a
+hobgoblin and 2 goblins.
+
+Vanquished Creatures
+  2 orc knights (Bailey)
+  A wraith (Ossuary)
+  A water moccasin (D:7)
+  Duvessa (D:6)
+  7 orc warriors
+  An ice beast (D:6)
+  2 sky beasts (D:6)
+  5 ogres
+  2 elf skeletons (D:5)
+  Dowan (D:6)
+  2 scorpions (D:4)
+  A human zombie (D:5)
+  An orc priest (D:4)
+  3 hounds
+  2 bullfrog zombies (D:5)
+  A bullfrog skeleton (D:7)
+  An iguana (D:6)
+  6 orc wizards
+  3 worker ants
+  A big kobold zombie (Ossuary)
+  3 mummies (Ossuary)
+  A worker ant zombie (D:5)
+  20 gnolls
+  10 adders
+  A shadow imp (D:3)
+  An ooze (D:2)
+  An adder skeleton (D:4)
+  2 worms
+  2 dart slugs (D:1)
+  4 leopard geckos
+  22 orcs
+  4 ball pythons
+  3 giant cockroaches (D:1)
+  24 hobgoblins
+  4 jackals (D:3)
+  5 quokkas
+  8 bats
+  9 frilled lizards
+  15 goblins
+  6 goblin zombies (Ossuary)
+  2 hobgoblin zombies (Ossuary)
+  A jackal zombie (D:3)
+  12 kobolds
+  2 kobold zombies (Ossuary)
+  2 leopard gecko skeletons (D:4)
+  3 orc skeletons (D:5)
+  9 rats
+220 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    36 | D:1      | Reached XP level 2. HP: 19/27 MP: 1/1
+   289 | D:1      | Reached XP level 3. HP: 31/33 MP: 2/2
+   885 | D:2      | Found a glowing golden altar of the Shining One.
+   978 | D:2      | Reached XP level 4. HP: 40/40 MP: 3/3
+  1239 | D:2      | Noticed an ogre
+  1244 | D:2      | Killed an ogre
+  1244 | D:2      | Reached XP level 5. HP: 47/47 MP: 4/4
+  1257 | D:2      | Found an iron altar of Okawaru.
+  1668 | D:3      | Reached skill level 5 in Fighting
+  1668 | D:3      | Reached skill level 5 in Shields
+  1687 | D:3      | Reached skill level 5 in Armour
+  1849 | D:4      | Found a glowing silver altar of Zin.
+  1890 | D:4      | Got a bloodstained whip
+  1891 | D:4      | Identified the +7 whip of Desperation {venom, rPois rF+ Str-3 Int+4} (You found it on level 4 of the Dungeon)
+  1920 | D:4      | Reached XP level 6. HP: 56/56 MP: 5/5
+  1944 | D:4      | Reached skill level 1 in Maces & Flails
+  2103 | D:4      | Found a runed gate.
+  2446 | D:4      | Found a runed gate.
+  2446 | D:4      | Found a runed gate.
+  2448 | D:4      | Noticed a slime creature
+  2453 | D:4      | Found an opulent altar of Gozag.
+  2453 | D:4      | Noticed Oddysee's ghost (amateur MiFi)
+  2679 | D:4      | Noticed an orc warrior
+  2695 | D:4      | Killed an orc warrior
+  2695 | D:4      | Reached XP level 7. HP: 28/62 MP: 6/6
+  3035 | D:4      | Found a snail-covered altar of Cheibriados.
+  3039 | D:4      | Became a worshipper of Cheibriados the Contemplative
+  3057 | D:5      | Entered Level 5 of the Dungeon
+  3386 | D:5      | Found a sand-covered staircase.
+  3391 | Ossuary  | Entered an ossuary
+  3391 | Ossuary  | Noticed a wraith
+  3391 | Ossuary  | Noticed a wraith
+  3391 | Ossuary  | Noticed a wraith
+  3412 | Ossuary  | Reached * piety under Cheibriados
+  3443 | Ossuary  | Reached XP level 8. HP: 71/71 MP: 7/7
+  4176 | D:5      | Found a sacrificial altar of Ru.
+  4274 | D:5      | Found a bloodstained altar of Trog.
+  4276 | D:5      | Found a bloodstained altar of Trog.
+  4276 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+  4278 | D:5      | Found a shadowy altar of Dithmenos.
+  4278 | D:5      | Found a shimmering altar of Xom.
+  4278 | D:5      | Found a shadowy altar of Dithmenos.
+  4401 | D:6      | Reached skill level 5 in Maces & Flails
+  4552 | D:6      | Noticed Duvessa
+  4552 | D:6      | Noticed Dowan
+  4558 | D:6      | Killed Duvessa
+  4566 | D:6      | Killed Dowan
+  4627 | D:6      | Reached ** piety under Cheibriados
+  4627 | D:6      | Reached XP level 9. HP: 81/81 MP: 8/8
+  4897 | D:7      | Found a flagged portal.
+  4910 | Bailey   | Entered a bailey
+  4981 | Bailey   | Reached *** piety under Cheibriados
+  5010 | Bailey   | Noticed an orc knight
+  5027 | Bailey   | Killed an orc knight
+  5300 | Bailey   | Noticed an orc knight
+  5300 | Bailey   | Noticed an orc warlord
+  5300 | Bailey   | Noticed an orc knight
+  5300 | Bailey   | Noticed an orc knight
+  5309 | Bailey   | Reached **** piety under Cheibriados
+  5314 | Bailey   | Killed an orc knight
+  5314 | Bailey   | Reached XP level 10. HP: 22/91 MP: 9/9
+  5318 | Bailey   | Slain by an orc knight
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |     4        5     6  7  9 |  9.3
+Armour         |     4        5     6  7  9 |  9.3
+Shields        |     4        5     6  8  9 |  9.4
+Axes           |     3        4             |  4.3
+Maces & Flails |                 2  3  5  7 |  7.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |    75 |    73 |       |       ||   148
+       Headbutt          |     9 |    21 |    88 |     1 ||   119
+       Whip              |       |    41 |   326 |     4 ||   371
+  Use: Scroll            |     1 |     5 |     5 |       ||    11
+       Potion            |       |       |     2 |       ||     2
+  Eat: Ration            |     1 |       |       |       ||     1
+       Chunk             |       |     1 |     7 |       ||     8
+Armor: Scale mail        |    31 |    34 |       |       ||    65
+       Plate armour      |       |    14 |    95 |       ||   109
+Dodge: Dodged            |    36 |    44 |    56 |       ||   136
+Block: Shield            |    49 |    60 |   158 |       ||   267
+

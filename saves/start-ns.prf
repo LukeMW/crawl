@@ -1,0 +1,6 @@
+type = normal
+name = Oddysee
+species = Gargoyle
+background = Fighter
+weapon = flail
+fully_random = no

@@ -1,0 +1,414 @@
+ Dungeon Crawl Stone Soup version 0.22.0 (tiles) character file.
+
+22886 Oddysee the Fighter (level 12, 0/112 HPs)
+             Began as a Minotaur Hunter on Sept 7, 2018.
+             Was a High Priest of Okawaru.
+             Slain by an ice beast (9 damage)
+             ... in an ice cave.
+             The game lasted 00:42:38 (12585 turns).
+
+Oddysee the Fighter (Minotaur Hunter)              Turns: 12585, Time: 00:42:38
+
+Health: 0/112      AC: 20    Str: 22    XL:     12   Next: 67%
+Magic:  11/11      EV:  7    Int:  8    God:    Okawaru [*****.]
+Gold:   582        SH: 14    Dex: 11    Spells: 11/11 levels left
+
+rFire    . . .     SeeInvis .   F - +3 hunting sling
+rCold    . . .     Gourm    .   b - +2 shield
+rNeg     . . .     Faith    .   x - +0 plate armour
+rPois    .         Spirit   .   B - +0 hat
+rElec    .         Reflect  .   k - +1 cloak
+rCorr    +         Harm     .   r - +0 pair of gloves
+MR       +....                  e - +0 pair of boots
+Stlth    ..........             (no amulet)
+HPRegen  0.28/turn              n - ring of resist corrosion
+MPRegen  0.12/turn              E - ring of protection from magic
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: Heroism, Finesse, Renounce Religion
+
+
+You were in an ice cave.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You were hungry.
+
+You visited 3 branches of the dungeon, and saw 14 of its levels.
+You also visited: Ice Cave.
+
+You collected 582 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ o - a +0 flail of venom
+ v - a +0 morningstar of holy wrath
+ z - the +6 flail of Ceutax {crush, *Rage +Inv rC+}
+   (You found it on level 8 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It protects you from cold.
+   It lets you turn invisible.
+   It may make you go berserk in combat.
+ F - a +3 hunting sling (weapon)
+Missiles
+ g - 330 stones
+ s - 9 sling bullets (quivered)
+Armour
+ b - a +2 shield (worn)
+ e - a +0 pair of boots (worn)
+ k - a +1 cloak (worn)
+ r - a +0 pair of gloves (worn)
+ x - a +0 plate armour (worn)
+ B - a +0 hat (worn)
+Jewellery
+ h - an uncursed ring of flight
+ n - a ring of resist corrosion (left hand)
+ E - a ring of protection from magic (right hand)
+Wands
+ p - a wand of polymorph (19)
+ u - a wand of flame (61)
+ y - a wand of acid (13)
+ C - a wand of digging (10)
+Scrolls
+ c - 5 scrolls of teleportation
+ d - 6 scrolls of remove curse
+ i - 2 scrolls of enchant weapon
+ j - 2 scrolls of magic mapping
+ m - 4 scrolls of identify
+ A - a scroll of fog
+ D - a scroll of enchant armour
+Potions
+ l - a potion of heal wounds
+ q - 2 potions of curing
+ t - a potion of agility
+ w - a potion of haste
+Comestibles
+ f - 17 rations
+
+
+   Skills:
+ + Level 11.9 Fighting
+ + Level 10.9 Maces & Flails
+ + Level 11.5 Slings
+ + Level 10.9 Armour
+ - Level 4.2 Dodging
+ - Level 4.0 Stealth
+ + Level 9.7 Shields
+
+
+You had 11 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Confuse                  Hex            #.......     100%        3    ####...
+ Spider Form              Tmut/Pois      #.........   100%        3    ####...
+ Blade Hands              Tmut           #.........   100%        5    ######.
+ Ice Form                 Ice/Tmut       #.......     100%        4    #####..
+ Confusing Touch          Hex            #.....       100%        1    ##.....
+ Sticks to Snakes         Tmut           #.......     100%        2    ###....
+ Metabolic Englaciation   Hex/Ice        #.........   100%        5    ######.
+ Petrify                  Tmut/Erth      #.......     100%        4    #####..
+ Beastly Appendage        Tmut           #.....       100%        1    ##.....
+ Gell's Gravitas          Tloc           #.........   100%        3    ####...
+ Yara's Violent Unravell  Hex/Tmut       #.........   100%        5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:6            Lair (1/6) D:11
+    Orc (0/2) D:11        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:12 *
+
+Annotations:
+D:10 3 runed doors, Oddysee's ghost, journeyman MiHu
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Firing (i - inventory. (/) - cycle) s - 12 sling bullets (quivered)
+Press: ? - help, Shift-Dir - straight line, f - ice beast
+Aim: an ice beast (moderately wounded)
+You shoot a sling bullet.
+The sling bullet completely misses the ice beast.
+You block the ice beast's attack.
+Firing (i - inventory. (/) - cycle) s - 11 sling bullets (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - ice beast
+Aim: an ice beast (moderately wounded)
+You shoot a sling bullet.
+The sling bullet closely misses the ice beast.
+Firing (i - inventory. (/) - cycle) s - 10 sling bullets (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - ice beast
+Aim: an ice beast (moderately wounded)
+You shoot a sling bullet. The sling bullet hits the ice beast.
+The ice beast is moderately wounded.
+The ice beast hits you.
+* * * LOW HITPOINT WARNING * * *
+The ice beast freezes you!
+You die...
+
+  ####
+ ##..##
+##....###
+#....(..##..
+#.n.@(.(....
+#....Y.....#
+##....##..##
+ ##..##  ##
+  ####
+
+
+You could see an ice beast.
+
+Vanquished Creatures
+  2 hydras
+  4 two-headed ogres
+  2 unseen horrors
+  A necromancer (D:9)
+  4 ugly things
+  2 manticores
+  2 deep elf magi
+  A spiny frog (Lair:1)
+  2 gargoyles
+  Psyche (D:10)
+  A rime drake (Lair:1)
+  5 komodo dragons
+  2 trolls
+  A hippogriff (D:7)
+  4 flying skulls (D:9)
+  4 shadows (D:9)
+  5 wraiths
+  11 yaks
+  Edmund (D:4)
+  2 vampire mosquitoes (D:12)
+  A water moccasin (D:6)
+  4 wargs (D:11)
+  3 porcupines (Lair:1)
+  A hornet zombie (D:9)
+  6 orc warriors
+  5 sky beasts
+  A necrophage (D:5)
+  4 ice beasts
+  A black bear (D:10)
+  A phantom (D:5)
+  3 ogres
+  8 centaurs
+  A crocodile (Lair:1)
+  A gnoll sergeant (D:9)
+  7 bullfrogs
+  A wyvern skeleton (D:9)
+  A water moccasin zombie (D:9)
+  3 scorpions
+  20 wights
+  2 howler monkeys
+  5 crimson imps
+  2 centaur zombies
+  6 bullfrog skeletons
+  A bullfrog zombie (D:11)
+  4 hounds
+  3 quasits
+  4 orc priests
+  13 orc wizards
+  An iron imp (D:9)
+  3 centaur skeletons
+  3 iguanas
+  5 worker ants
+  A hound zombie (D:9)
+  A hound skeleton (D:9)
+  2 worker ant zombies
+  A howler monkey zombie (D:7)
+  Robin (D:4)
+  11 gnolls
+  A howler monkey skeleton (D:9)
+  11 adders
+  4 shadow imps
+  An ooze (D:2)
+  4 adder zombies
+  3 adder skeletons
+  A worm (D:2)
+  3 dart slugs
+  4 leopard geckos
+  39 orcs
+  A ball python (D:6)
+  9 giant cockroaches
+  17 goblins
+  18 hobgoblins
+  3 jackals (D:7)
+  4 quokkas
+  4 bats
+  8 frilled lizards
+  11 kobolds
+  A leopard gecko skeleton (D:9)
+  A quokka skeleton (D:9)
+  5 rats (D:1)
+351 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:11)
+1 creature vanquished.
+
+Grand Total: 352 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+    70 | D:1      | Reached skill level 1 in Stealth
+   142 | D:1      | Reached XP level 2. HP: 25/25 MP: 1/1
+   820 | D:1      | Reached XP level 3. HP: 30/30 MP: 2/2
+   968 | D:2      | Reached skill level 1 in Shields
+  1179 | D:2      | Reached XP level 4. HP: 38/38 MP: 3/3
+  2025 | D:3      | Reached skill level 5 in Slings
+  2268 | D:3      | Reached XP level 5. HP: 45/45 MP: 4/4
+  2301 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  2392 | D:3      | Found a deep blue altar of Sif Muna.
+  2873 | D:4      | Noticed Robin
+  2885 | D:4      | Killed Robin
+  2885 | D:4      | Reached XP level 6. HP: 50/52 MP: 5/5
+  2931 | D:4      | Noticed Edmund
+  2950 | D:4      | Killed Edmund
+  3514 | D:4      | Reached XP level 7. HP: 60/60 MP: 6/6
+  4133 | D:5      | Entered Level 5 of the Dungeon
+  4205 | D:5      | Reached skill level 1 in Maces & Flails
+  4205 | D:5      | Reached skill level 1 in Armour
+  4704 | D:5      | Reached skill level 5 in Fighting
+  4913 | D:5      | Reached XP level 8. HP: 45/69 MP: 7/7
+  5055 | D:5      | Found a deep blue altar of Sif Muna.
+  5584 | D:6      | Found a staircase to the Ecumenical Temple.
+  5598 | Temple   | Entered the Ecumenical Temple
+  6456 | D:7      | Found a hazy altar of Hepliaklqana.
+  6518 | D:7      | Reached XP level 9. HP: 78/78 MP: 8/8
+  6633 | D:7      | Reached skill level 5 in Armour
+  6678 | D:7      | Reached skill level 5 in Maces & Flails
+  7250 | D:8      | Noticed an eight-headed hydra
+  7262 | D:8      | Killed an eight-headed hydra
+  7721 | D:8      | Noticed a two-headed ogre
+  7729 | D:8      | Killed a two-headed ogre
+  7729 | D:8      | Reached XP level 10. HP: 82/90 MP: 9/9
+  7894 | D:8      | Got a translucent flail
+  7895 | D:8      | Identified the +6 flail of Ceutax {crush, *Rage +Inv rC+} (You found it on level 8 of the Dungeon)
+  8160 | D:8      | Reached skill level 5 in Shields
+  8436 | D:9      | Noticed a necromancer
+  8478 | D:9      | HP: 4/91 [shadow (4)]
+  8513 | D:9      | Killed a necromancer
+  8743 | D:9      | Reached XP level 11. HP: 66/99 MP: 10/10
+  8947 | D:9      | Found a glowing golden altar of the Shining One.
+  8963 | D:9      | Found an iron altar of Okawaru.
+  8965 | D:9      | Found a hide-covered altar of Uskayaw.
+  8965 | D:9      | Found a sparkling altar of Nemelex Xobeh.
+  8965 | D:9      | Found an opulent altar of Gozag.
+  8965 | D:9      | Found a bloodstained altar of Trog.
+  8966 | D:9      | Found a sacrificial altar of Ru.
+  8969 | D:9      | Became a worshipper of Warmaster Okawaru
+  8978 | D:9      | Found an ornate altar of the Wu Jian Council.
+  8979 | D:9      | Found a glowing silver altar of Zin.
+  9095 | D:9      | Found a snail-covered altar of Cheibriados.
+  9153 | D:9      | Noticed a green ugly thing
+  9161 | D:9      | Killed a green ugly thing
+  9161 | D:9      | Reached skill level 10 in Fighting
+  9162 | D:9      | Noticed a deep elf mage
+  9172 | D:9      | Killed a deep elf mage
+  9172 | D:9      | Reached skill level 10 in Slings
+  9547 | D:9      | Noticed a two-headed ogre
+  9556 | D:9      | Killed a two-headed ogre
+  9556 | D:9      | Reached * piety under Okawaru
+  9833 | D:10     | Entered Level 10 of the Dungeon
+  9854 | D:10     | Found a runed gate.
+  9855 | D:10     | Found a runed gate.
+  9914 | D:10     | Noticed a two-headed ogre
+  9924 | D:10     | Killed a two-headed ogre
+  9993 | D:10     | Killed an unseen horror
+ 10286 | D:10     | Reached ** piety under Okawaru
+ 10476 | D:10     | Found a runed gate.
+ 10498 | D:10     | Noticed Psyche
+ 10500 | D:10     | You fall through a shaft for 2 floors!
+ 10734 | D:12     | Found Ohackaeh's Assorted Antiques.
+ 10864 | D:12     | Noticed a deep elf mage
+ 10874 | D:12     | Killed a deep elf mage
+ 10874 | D:12     | Reached *** piety under Okawaru
+ 10881 | D:11     | Noticed a white ugly thing
+ 10890 | D:11     | Killed a white ugly thing
+ 11149 | D:10     | Killed Psyche
+ 11229 | D:10     | Noticed a two-headed ogre
+ 11240 | D:10     | Killed a two-headed ogre
+ 11240 | D:10     | Reached skill level 10 in Maces & Flails
+ 11240 | D:10     | Reached skill level 10 in Armour
+ 11240 | D:10     | Reached XP level 12. HP: 59/110 MP: 11/11
+ 11414 | D:10     | Noticed Oddysee's ghost (journeyman MiHu)
+ 11528 | D:11     | Received a gift from Okawaru
+ 11685 | D:11     | Reached **** piety under Okawaru
+ 11732 | D:11     | Found a staircase to the Lair.
+ 11778 | D:11     | Received a gift from Okawaru
+ 12030 | D:11     | Found a staircase to the Orcish Mines.
+ 12165 | D:11     | Noticed an eight-headed hydra
+ 12171 | D:11     | Killed an eight-headed hydra
+ 12171 | D:11     | Received a gift from Okawaru
+ 12211 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 12396 | Lair:1   | Reached ***** piety under Okawaru
+ 12548 | Lair:1   | Found a frozen archway.
+ 12559 | IceCv    | Entered an ice cave
+ 12585 | IceCv    | Slain by an ice beast
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Stealth        |  1        2        3  4             |  4.0
+Fighting       |        3     4     5  6  8  9 11    | 11.9
+Shields        |        1  2     3  4        6  8  9 |  9.7
+Dodging        |        3        4                   |  4.2
+Slings         |           5        6  7  8  9 10 11 | 11.5
+Maces & Flails |                    2  4  7  8 10    | 10.9
+Armour         |                    2  4  7  8 10    | 10.9
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Flail             |       |       |       |   498 ||   498
+       Headbutt          |       |       |       |   106 ||   106
+ Fire: Hunting sling     |   113 |   245 |   444 |   146 ||   948
+  Use: Scroll            |     3 |     2 |     8 |     9 ||    22
+       Potion            |       |     2 |       |     3 ||     5
+  Eat: Chunk             |     1 |     3 |     9 |     9 ||    22
+       Ration            |       |     1 |     1 |     2 ||     4
+Armor: Leather armour    |     9 |    10 |    12 |       ||    31
+       Ring mail         |       |    17 |    13 |       ||    30
+       Plate armour      |       |       |    32 |   335 ||   367
+Dodge: Dodged            |    25 |    53 |    78 |   133 ||   289
+Block: Buckler           |     4 |    12 |    27 |       ||    43
+       Shield            |       |       |     4 |   402 ||   406
+

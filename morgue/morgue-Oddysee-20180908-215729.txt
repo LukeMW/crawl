@@ -1,0 +1,452 @@
+ Dungeon Crawl Stone Soup version 0.22.0 (tiles) character file.
+
+43277 Oddysee the Fighter (level 13, -2/113 HPs)
+             Began as a Demonspawn Berserker on Sept 8, 2018.
+             Was a High Priest of Trog.
+             Slain by a freezing wraith (6 damage)
+             ... in an ice cave.
+             The game lasted 00:49:04 (14518 turns).
+
+Oddysee the Fighter (Demonspawn Berserker)         Turns: 14518, Time: 00:49:05
+
+Health: -2/113     AC: 30    Str: 21    XL:     13   Next: 90%
+Magic:  0/23       EV:  8    Int: 14    God:    Trog [*****.]
+Gold:   1073       SH:  0    Dex: 14    Spells: 12/12 levels left
+
+rFire    . . .     SeeInvis +   J - +9 demon trident (pierce)
+rCold    + . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   M - +0 plate armour
+rPois    +         Spirit   +   p - +3 hat of Pondering {ponderous, MR+ MP+10 Int+5}
+rElec    .         Reflect  .   w - +2 cloak {rPois}
+rCorr    .         Harm     .   o - +0 pair of gloves
+MR       +....                  x - +2 pair of boots
+Stlth    ..........             (no amulet)
+HPRegen  0.28/turn              t - ring of protection from cold
+MPRegen  0.36/turn              L - ring of see invisible
+
+@: slowed, very slow
+A: claws 2, molten scales 2, powered by death 1, magic shield, magic
+regeneration
+a: Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were in an ice cave.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 16 of its levels.
+You also visited: Ice Cave.
+
+You collected 1073 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - the +2 halberd of Ucoucoth {venom, Stlth+}
+   (Trog gifted it to you on level 4 of the Lair of Beasts)   
+   
+   It poisons the flesh of those it strikes.
+   
+   It makes you more stealthy.
+ n - a +0 battleaxe
+ E - a +0 lajatang
+ G - a +0 glaive
+ J - a +9 demon trident of piercing (weapon)
+Missiles
+ h - 6 steel tomahawks
+ r - 2 poisoned tomahawks (quivered)
+Armour
+ o - a +0 pair of gloves (worn)
+ p - the +3 hat of Pondering (worn) {ponderous, MR+ MP+10 Int+5}
+   (You took it off Gastronok on level 8 of the Dungeon)   
+   
+   It affects your intelligence (+5).
+   It affects your resistance to hostile enchantments.
+   It affects your magic capacity (+10).
+ w - a +2 cloak of poison resistance (worn)
+ x - a +2 pair of boots (worn)
+ M - a +0 plate armour (worn)
+Jewellery
+ k - an uncursed amulet of the gourmand
+ m - an uncursed ring of positive energy
+ q - an uncursed ring of resist corrosion
+ t - a ring of protection from cold (left hand)
+ D - an uncursed ring of flight
+ L - a ring of see invisible (right hand)
+Wands
+ e - a wand of iceblast (34)
+ z - a wand of paralysis (6)
+ K - a wand of flame (35)
+Scrolls
+ a - 3 scrolls of enchant weapon
+ i - 2 scrolls of identify
+ y - 5 scrolls of teleportation
+ A - 3 scrolls of fear
+ C - a scroll of blinking
+ F - 3 scrolls of remove curse
+ N - a scroll of enchant armour
+ O - a scroll of fog
+Potions
+ b - a potion of cancellation {unknown}
+ f - a potion of might
+ g - a potion of resistance
+ j - a potion of berserk rage
+ l - 4 potions of heal wounds
+ s - 4 potions of curing
+ u - 2 potions of magic
+ v - a potion of agility
+ B - a potion of brilliance {unknown}
+ I - a potion of invisibility
+Miscellaneous
+ H - a fan of gales
+Comestibles
+ c - 15 rations
+
+
+   Skills:
+ + Level 14.0 Fighting
+ + Level 13.0 Polearms
+ + Level 12.8 Armour
+ - Level 1.7 Dodging
+
+
+You had 12 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (0/1) D:4            Lair (6/6) D:8
+ Shoals (0/4) Lair:4       Spider (0/4) Lair:4        Slime (0/5) Lair:5
+    Orc (0/2) D:9         
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Trog
+Wu Jian
+Yredelemnul
+Zin
+
+Shops:
+D:4 }
+
+Annotations:
+D:4 1 runed door, Oddysee's ghost, amateur MiHu
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have very sharp fingernails.
+You are mostly covered in molten scales. (AC +3)
+You regenerate a little health from kills.
+When hurt, damage is shared between your health and your magic reserves.
+You regenerate magic rapidly.
+
+
+Message History
+
+The freezing wraith hits you but does no damage.
+Your iron troll goes berserk!
+You feel somewhat more hungry. The freezing wraith hits you. The freezing wraith freezes you. You resist.
+* * * LOW HITPOINT WARNING * * *
+The freezing wraith hits you but does no damage.
+The freezing wraith hits you.
+* * * LOW HITPOINT WARNING * * *
+The freezing wraith freezes you! You resist.
+* * * LOW HITPOINT WARNING * * *
+The freezing wraith hits you but does no damage.
+The freezing wraith hits you.
+* * * LOW HITPOINT WARNING * * *
+The freezing wraith freezes you. You resist.
+* * * LOW HITPOINT WARNING * * *
+The freezing wraith hits you!
+* * * LOW HITPOINT WARNING * * *
+The freezing wraith drains your vigour!
+You feel as though you will be slow longer.
+The freezing wraith hits you!
+You die...
+
+    ##...###..##
+   ##...###..##
+ ###...###...#
+##....## #..##     #####
+#....##  #...### ###...###
+#..###   ##....###........
+#...##    ##..............
+##...###   ####...........
+ ###...###    ##..........
+   ###...###   ##.........
+     ##...T###  ##.#....#.
+      ###..@W##  ####..##
+        ###.WY##   ##..#
+          ###..#  ##..##
+           #..##  #..##
+     .......Y##   #...##
+     ........#    ##...##
+     ........#     ##...#
+     ........#     ##...#
+     .......##     #...##
+     ##...##      ##...##
+      ##..       ##.....##
+
+
+You could see 2 freezing wraiths, an ice beast and a friendly iron troll
+(berserk).
+
+Vanquished Creatures
+  Rupert (Lair:4)
+  Gastronok (D:8)
+  Kirke (Lair:4)
+  Josephine (D:10)
+  Erolcha (D:9)
+  A hydra (Lair:6)
+  6 death yaks
+  Sonja (Lair:5)
+  Urug (Lair:5)
+  A necromancer (Lair:3)
+  A manticore (D:10)
+  5 black mambas
+  A centaur zombie (D:10)
+  5 elephants (Lair:6)
+  Maurice (D:10)
+  10 spiny frogs
+  2 rime drakes
+  7 komodo dragons
+  5 freezing wraiths (IceCv)
+  2 ice devils (Lair:6)
+  A polar bear (Lair:6)
+  2 trolls (D:9)
+  A slime creature (Lair:4)
+  A jumping spider (Lair:4)
+  5 dream sheep (Lair:4)
+  5 hippogriffs
+  10 blink frogs
+  A wyvern (Lair:2)
+  3 wraiths (D:10)
+  27 yaks
+  A hungry ghost (D:8)
+  A hog (Lair:4)
+  3 basilisks (Lair:2)
+  2 wargs (D:9)
+  7 water moccasins
+  7 porcupines
+  4 orc warriors
+  3 black bears
+  8 ice beasts
+  2 phantoms
+  A sky beast (D:7)
+  4 ogres
+  An alligator simulacrum (IceCv)
+  16 wolves
+  8 centaurs
+  9 crocodiles
+  A big kobold (D:8)
+  Blork the orc (D:5)
+  A gnoll sergeant (D:9)
+  9 bullfrogs
+  A wyvern skeleton (D:10)
+  2 scorpions
+  2 killer bees (D:6)
+  2 elephant simulacra (IceCv)
+  4 wights (D:9)
+  4 crimson imps
+  A centaur skeleton (D:8)
+  3 bullfrog zombies
+  4 hounds
+  12 jellies
+  7 orc priests
+  Crazy Yiuf (D:6)
+  8 orc wizards
+  An iguana (D:4)
+  7 worker ants
+  A polar bear simulacrum (Lair:3)
+  3 yak simulacra (Lair:3)
+  6 wolf simulacra
+  A worker ant zombie (D:7)
+  3 gnolls (D:9)
+  2 howler monkey skeletons
+  13 adders
+  A shadow imp (D:8)
+  5 white imps (IceCv)
+  16 oozes
+  2 adder skeletons (D:9)
+  2 adder zombies (D:6)
+  5 worms
+  7 leopard geckos
+  35 orcs
+  2 ball pythons (D:6)
+  9 bats
+  7 giant cockroaches
+  2 goblins (D:3)
+  7 hobgoblins
+  8 jackals
+  3 quokkas
+  A ball python skeleton (D:4)
+  3 frilled lizards
+  A jackal skeleton (D:6)
+  10 kobolds
+  A quokka skeleton (D:4)
+  A quokka zombie (D:8)
+  3 rats
+  2 river rat simulacra (Lair:3)
+  A fungus (D:6)
+421 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A death yak (D:8)
+  An elephant (Lair:6)
+  2 wolves (Lair:6)
+4 creatures vanquished.
+
+Vanquished Creatures (others)
+  A spiny frog (Lair:4)
+  18 fungi
+  6 plants (Lair:6)
+25 creatures vanquished.
+
+Grand Total: 450 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Demonspawn Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+   313 | D:1      | Gained mutation: You regenerate a little health from kills. [demonic ancestry]
+   313 | D:1      | Reached XP level 2. HP: 22/24 MP: 2/2
+   866 | D:2      | Gained mutation: When hurt, damage is shared between your health and your magic reserves. [demonic ancestry]
+   866 | D:2      | Reached XP level 3. HP: 28/29 MP: 3/3
+  1019 | D:2      | Reached ** piety under Trog
+  1369 | D:3      | Found a faded altar of an unknown god.
+  1406 | D:3      | Gained mutation: You have sharp fingernails. [demonic ancestry]
+  1406 | D:3      | Reached XP level 4. HP: 26/37 MP: 2/4
+  1750 | D:3      | Found a white marble altar of Elyvilon.
+  1772 | D:3      | Reached skill level 4 in Fighting
+  1827 | D:3      | Found a shadowy altar of Dithmenos.
+  2224 | D:4      | Reached XP level 5. HP: 42/42 MP: 5/5
+  2247 | D:4      | Found Kopinit's Gadget Boutique.
+  2435 | D:4      | Found a runed door.
+  2436 | D:4      | Noticed Oddysee's ghost (amateur MiHu)
+  2701 | D:4      | Reached XP level 6. HP: 49/49 MP: 4/6
+  2705 | D:4      | Reached *** piety under Trog
+  2754 | D:4      | Found a staircase to the Ecumenical Temple.
+  2775 | D:5      | Entered Level 5 of the Dungeon
+  2829 | D:5      | Noticed Blork the orc
+  2837 | D:5      | Killed Blork the orc
+  2922 | D:5      | Reached skill level 5 in Fighting
+  2943 | D:5      | Gained mutation: You are partially covered in molten scales. (AC +2) [demonic ancestry]
+  2943 | D:5      | Reached XP level 7. HP: 43/56 MP: 5/7
+  3151 | D:5      | Reached skill level 5 in Polearms
+  3444 | D:5      | Reached skill level 6 in Fighting
+  3444 | D:5      | Reached skill level 5 in Armour
+  3661 | D:6      | Reached XP level 8. HP: 50/64 MP: 6/8
+  3924 | D:6      | Reached **** piety under Trog
+  3924 | D:6      | Reached skill level 7 in Fighting
+  4091 | D:6      | Found an ornate altar of the Wu Jian Council.
+  4308 | D:6      | Found a runed door.
+  4312 | D:6      | Noticed Crazy Yiuf
+  4315 | D:6      | Killed Crazy Yiuf
+  4411 | D:7      | Gained mutation: You are mostly covered in molten scales. (AC +3) [demonic ancestry]
+  4411 | D:7      | Reached XP level 9. HP: 60/72 MP: 7/9
+  4869 | D:7      | Reached skill level 8 in Fighting
+  5002 | D:8      | Noticed a death yak
+  5002 | D:8      | Noticed a death yak
+  5030 | D:7      | Killed a death yak
+  5123 | D:8      | Reached ***** piety under Trog
+  5231 | D:8      | Noticed a death yak
+  5236 | D:8      | Noticed a death yak
+  5242 | D:8      | Noticed a death yak
+  5244 | D:8      | Noticed a death yak
+  5253 | D:8      | Killed a death yak
+  5253 | D:8      | Reached skill level 9 in Fighting
+  5253 | D:8      | Reached XP level 10. HP: 73/83 MP: 10/10
+  5628 | D:8      | Noticed Gastronok
+  5668 | D:8      | Killed Gastronok
+  5975 | D:8      | Found a staircase to the Lair.
+  6063 | D:8      | Killed a death yak
+  6079 | D:8      | Killed a death yak
+  6079 | D:8      | Reached skill level 10 in Fighting
+  6094 | D:8      | Killed a death yak
+  6241 | D:8      | Noticed a moth of wrath
+  6250 | D:8      | Found a bloodstained altar of Trog.
+  6442 | D:9      | Found a snail-covered altar of Cheibriados.
+  6442 | D:9      | Found a glowing silver altar of Zin.
+  6447 | D:9      | Gained mutation: You have very sharp fingernails. [demonic ancestry]
+  6447 | D:9      | Reached XP level 11. HP: 91/91 MP: 11/11
+  6618 | D:9      | Found a staircase to the Orcish Mines.
+  6711 | D:9      | Killed a death yak
+  7220 | D:9      | Found a basalt altar of Yredelemnul.
+  7406 | D:9      | Noticed Erolcha
+  7426 | D:9      | Killed Erolcha
+  7426 | D:9      | Reached skill level 10 in Polearms
+  7696 | D:10     | Entered Level 10 of the Dungeon
+  7876 | D:10     | Reached skill level 11 in Fighting
+  7888 | D:10     | Noticed Maurice
+  7987 | D:10     | Killed Maurice
+  7987 | D:10     | Reached skill level 10 in Armour
+  8207 | D:10     | Noticed Josephine
+  8207 | D:10     | Noticed a death yak
+  8225 | D:10     | Killed Josephine
+  8242 | D:10     | Killed a death yak
+  8649 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  8908 | Lair:1   | Received a gift from Trog
+  8922 | Lair:1   | Gained mutation: You regenerate magic rapidly. [demonic ancestry]
+  8922 | Lair:1   | Reached XP level 12. HP: 94/100 MP: 12/12
+  9912 | Lair:2   | Reached skill level 12 in Fighting
+ 10944 | Lair:3   | Reached ****** piety under Trog
+ 11627 | Lair:4   | Found a staircase to the Shoals.
+ 11689 | Lair:4   | Noticed Kirke
+ 11707 | Lair:4   | Killed Kirke
+ 11723 | Lair:4   | HP: 5/103 [poisoned by a spiny frog]
+ 11969 | Lair:4   | Noticed Rupert
+ 11973 | Lair:4   | Paralysed by Rupert for 6 turns
+ 12011 | Lair:4   | Killed Rupert
+ 12011 | Lair:4   | Reached skill level 13 in Fighting
+ 12011 | Lair:4   | Reached XP level 13. HP: 61/111 MP: 13/13
+ 12195 | Lair:4   | Received a gift from Trog
+ 12223 | Lair:4   | Got a scorched halberd {god gift}
+ 12224 | Lair:4   | Identified the +2 halberd of Ucoucoth {venom, Stlth+} (Trog gifted it to you on level 4 of the Lair of Beasts)
+ 12358 | Lair:4   | Found a hole to the Spider Nest.
+ 12972 | Lair:5   | Noticed Sonja
+ 12986 | Lair:5   | Killed Sonja
+ 13049 | Lair:5   | Noticed Urug
+ 13056 | Lair:5   | Killed Urug
+ 13136 | Lair:5   | Found a staircase to the Slime Pits.
+ 13544 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 13592 | Lair:6   | Received a gift from Trog
+ 14026 | Lair:6   | Got a faintly glowing chain mail
+ 14027 | Lair:6   | Identified the cursed +1 chain mail "Zuhofung" {rPois rC- Str+2 Int+8} (You found it on level 6 of the Lair of Beasts)
+ 14134 | Lair:6   | Found a frozen archway.
+ 14164 | IceCv    | Entered an ice cave
+ 14318 | IceCv    | Reached skill level 14 in Fighting
+ 14518 | IceCv    | HP: 4/113 [freezing wraith (6)]
+ 14518 | IceCv    | Slain by a freezing wraith
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Armour         |  2        3     4  5  6  8  9 10 11 12 | 12.8
+Polearms       |     3        4     5  6  8  9 10 12 13 | 13.0
+Fighting       |           4     5  6  7  9 10 11 13 14 | 14.0
+Dodging        |                                        |  1.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Spear             |   123 |   141 |   395 |   249 |       ||   908
+       Trident           |       |       |       |   352 |       ||   352
+       Demon trident     |       |       |       |   273 |   345 ||   618
+Throw: Tomahawk          |       |       |    13 |       |       ||    13
+Invok: Berserk           |       |       |     4 |     6 |     2 ||    12
+       Brothers in Arms  |       |       |       |     5 |     2 ||     7
+  Use: Scroll            |       |     7 |    12 |    13 |     2 ||    34
+       Potion            |       |     4 |     4 |     4 |     1 ||    13
+ Stab: Invisible         |       |     1 |       |       |       ||     1
+  Eat: Chunk             |     1 |     6 |     8 |    24 |    11 ||    50
+       Ration            |       |       |     1 |     3 |     1 ||     5
+Armor: Chain mail        |    71 |    60 |   209 |   171 |       ||   511
+       Animal skin       |     1 |       |       |       |       ||     1
+       Plate armour      |       |       |       |   255 |   398 ||   653
+Dodge: Dodged            |    44 |    40 |   121 |   242 |   178 ||   625
+
