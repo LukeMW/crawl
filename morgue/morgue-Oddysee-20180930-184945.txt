@@ -1,0 +1,342 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+6958 Oddysee the Blocker (level 10, -2/93 HPs)
+             Began as a Minotaur Fighter on Sept 30, 2018.
+             Was a High Priest of Okawaru.
+             Succumbed to a killer bee's poison
+             ... on level 9 of the Dungeon.
+             The game lasted 00:19:45 (7828 turns).
+
+Oddysee the Blocker (Minotaur Fighter)              Turns: 7828, Time: 00:19:46
+
+Health: -2/93      AC: 17    Str: 25    XL:     10   Next: 81%
+Magic:  13/13      EV:  6    Int:  5    God:    Okawaru [*****.]
+Gold:   405        SH: 13    Dex: 12    Spells: 9/9 levels left
+
+rFire    . . .     SeeInvis .   O - +1 war axe (chop)
+rCold    + . .     Gourm    .   c - +1 shield
+rNeg     . . .     Faith    .   s - +0 plate armour
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   r - scarf {repulsion}
+rCorr    .         Harm     .   (no gloves)
+MR       +....                  a - +2 pair of boots
+Stlth    ..........             w - amulet of regeneration
+HPRegen  0.65/turn              q - ring of protection from magic
+MPRegen  0.13/turn              o - ring of protection from cold
+
+@: mighty, lethally poisoned (-2 -> -23), about to teleport, studying Air Magic,
+repel missiles
+A: retaliatory headbutt, horns 2, weak 1, wild magic 1
+a: Heroism, Finesse, Renounce Religion
+
+
+You were on level 9 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 10 of its levels.
+
+You collected 405 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ v - a cursed -3 spear
+ F - a +0 hand axe of chopping
+ G - the +7 scimitar "Xaadgham" {flame, MR+}
+   (You found it on level 7 of the Dungeon)   
+   
+   It has been specially enchanted to burn those struck by it, causing extra
+   injury to most foes and up to half again as much damage against particularly
+   susceptible opponents. Big, fiery blades are also staple armaments of
+   hydra-hunters.
+   
+   It affects your resistance to hostile enchantments.
+ K - a +5 morningstar
+ O - a +1 war axe of chopping (weapon)
+Armour
+ a - a +2 pair of boots (worn)
+ b - a +0 scale mail
+ c - a +1 shield (worn)
+ r - a scarf of repulsion (worn)
+ s - a +0 plate armour (worn)
+Jewellery
+ e - an uncursed ring of stealth
+ m - an uncursed ring of magical power
+ o - a ring of protection from cold (right hand)
+ q - a ring of protection from magic (left hand)
+ w - an amulet of regeneration (around neck)
+ A - an uncursed ring of ice
+ D - a +3 amulet of reflection {unknown}
+Wands
+ i - a wand of iceblast (9)
+ k - a wand of scattershot (4)
+ u - a wand of flame (24)
+ z - a wand of digging (17)
+ C - a wand of polymorph (15)
+Scrolls
+ g - 2 scrolls of enchant armour
+ j - 3 scrolls of teleportation
+ n - 2 scrolls of remove curse
+ y - a scroll of fog
+ J - a scroll of identify
+Potions
+ d - 2 potions of might
+ h - 3 potions of flight
+ l - 8 potions of curing
+ p - 3 potions of brilliance
+ B - a potion of haste
+ H - a potion of lignification
+ M - a potion of mutation
+ N - a potion of heal wounds
+Books
+ t - a manual of Air Magic
+Miscellaneous
+ E - a lamp of fire
+Comestibles
+ f - 21 rations
+
+
+   Skills:
+ + Level 9.8 Fighting
+ + Level 9.4 Axes
+ + Level 9.8 Armour
+ + Level 9.9 Shields
+ + Level 6.5 Invocations
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (0/1) D:6         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Dithmenos
+Elyvilon
+Gozag
+Makhleb
+Okawaru
+Sif Muna
+Xom
+Zin
+
+Shops:
+D:9 =
+
+Annotations:
+D:6 1 runed door, Oddysee's ghost, novice FoFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+You are weak. (Str -2)
+Your spells are a little harder to cast, but a little more powerful.
+
+
+Message History
+
+The killer bee is heavily wounded.
+You closely miss the killer bee. You feel sick. The killer bee stings you.
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+The killer bee poisons you! The killer bee stings you!
+* * * LOW HITPOINT WARNING * * *
+The killer bee stings you!
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+The killer bee poisons you! You block the killer bee's attack. x3
+You feel very mighty all of a sudden.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The killer bee barely misses you.
+The killer bee stings you but does no damage. x3
+The killer bee rages.
+You block the killer bee's attack. x2
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable.
+You die...
+
+             ###
+             #..
+             ##.
+              ##
+              #.
+              #.
+              #.
+              #.
+              #.
+    #######   #.
+#####.....#####.
+#@y.'.....'.....
+#y###.....###...
+#y..'.....'.#...
+#..##.....#.#...
+#..########n#...
+#...............
+##.#.########.#.
+ #.#.#      #.#.
+ #.#.#      #.#.
+ #.#.#      #.#.
+ #.#.#      #.#.
+
+
+You could see 3 killer bees.
+
+Vanquished Creatures
+  An unseen horror (D:9)
+  Maurice (D:9)
+  A komodo dragon (shapeshifter) (D:7)
+  A slime creature (D:7)
+  3 hippogriffs
+  Sigmund (D:4)
+  A steam dragon (D:9)
+  A water moccasin (D:5)
+  2 orc warriors (D:8)
+  2 ice beasts (D:7)
+  A hornet zombie (D:5)
+  4 black bears
+  2 necrophages
+  7 ogres
+  4 centaurs
+  A big kobold (D:8)
+  5 bullfrogs
+  A gnoll sergeant (D:8)
+  5 scorpions
+  5 killer bees (D:9)
+  12 wights
+  3 centaur zombies
+  3 crimson imps
+  A bullfrog zombie (D:8)
+  4 jellies
+  A quasit (D:6)
+  5 hounds
+  2 orc priests
+  A bullfrog skeleton (D:6)
+  An iguana (D:9)
+  8 orc wizards
+  5 worker ants
+  A hound zombie (D:5)
+  2 hound skeletons
+  11 gnolls
+  13 adders
+  A shadow imp (D:9)
+  3 oozes
+  An adder zombie (D:7)
+  4 worms
+  2 dart slugs (D:1)
+  11 leopard geckos
+  28 orcs
+  3 ball pythons
+  9 bats
+  8 giant cockroaches
+  11 goblins
+  7 hobgoblins
+  4 jackals (D:4)
+  6 quokkas
+  6 frilled lizards
+  A jackal skeleton (D:7)
+  9 kobolds
+  11 rats
+247 creatures vanquished.
+
+Vanquished Creatures (others)
+  A withered plant (D:6)
+1 creature vanquished.
+
+Grand Total: 248 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    88 | D:1      | Reached XP level 2. HP: 25/27 MP: 1/1
+   299 | D:1      | Reached XP level 3. HP: 33/33 MP: 2/2
+   658 | D:1      | Gained mutation: You are weak. (Str -2) [potion of
+                  | mutation]
+   658 | D:1      | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+   929 | D:2      | Found a white marble altar of Elyvilon.
+   931 | D:2      | Found an opulent altar of Gozag.
+   931 | D:2      | Found a shimmering altar of Xom.
+   963 | D:2      | Reached XP level 4. HP: 35/41 MP: 3/3
+  1401 | D:3      | Reached XP level 5. HP: 44/47 MP: 4/4
+  1456 | D:3      | Found a shadowy altar of Dithmenos.
+  1677 | D:3      | Found a white marble altar of Elyvilon.
+  1963 | D:4      | Noticed an ogre
+  1968 | D:4      | Killed an ogre
+  1968 | D:4      | Reached skill level 5 in Fighting
+  1968 | D:4      | Reached skill level 5 in Armour
+  1968 | D:4      | Reached skill level 5 in Shields
+  2223 | D:4      | Noticed Sigmund
+  2234 | D:4      | Killed Sigmund
+  2234 | D:4      | Reached XP level 6. HP: 38/56 MP: 5/5
+  2480 | D:4      | Found an iron altar of Okawaru.
+  2491 | D:4      | Became a worshipper of Warmaster Okawaru
+  2548 | D:5      | Entered Level 5 of the Dungeon
+  2595 | D:5      | Reached skill level 5 in Axes
+  2595 | D:5      | Reached XP level 7. HP: 14/62 MP: 6/6
+  2832 | D:5      | Reached skill level 1 in Invocations
+  3071 | D:5      | Reached * piety under Okawaru
+  3446 | D:5      | Reached XP level 8. HP: 27/71 MP: 8/8
+  3995 | D:6      | Found a burning altar of Makhleb.
+  4002 | D:6      | Reached ** piety under Okawaru
+  4226 | D:6      | Found a staircase to the Ecumenical Temple.
+  4275 | D:6      | Found a runed door.
+  4277 | D:6      | Noticed Oddysee's ghost (novice FoFi)
+  4899 | D:7      | Reached XP level 9. HP: 73/79 MP: 10/10
+  4920 | D:7      | Reached *** piety under Okawaru
+  5154 | D:7      | Noticed a spiny frog
+  5159 | D:7      | Noticed a komodo dragon
+  5159 | D:7      | a spiny frog changed into a komodo dragon
+  5170 | D:7      | Killed a komodo dragon
+  5197 | D:7      | Got a crystal scimitar
+  5237 | D:7      | Identified the +7 scimitar "Xaadgham" {flame, MR+} (You
+                  | found it on level 7 of the Dungeon)
+  5485 | D:7      | Reached skill level 5 in Invocations
+  5571 | D:7      | Reached **** piety under Okawaru
+  5971 | D:8      | Reached XP level 10. HP: 88/90 MP: 13/13
+  6186 | D:8      | Found a glowing silver altar of Zin.
+  6243 | D:8      | Found a deep blue altar of Sif Muna.
+  6923 | D:9      | Reached ***** piety under Okawaru
+  6975 | D:9      | Found Pemaps's Jewellery Shop.
+  7028 | D:9      | Noticed Maurice
+  7045 | D:9      | Killed Maurice
+  7251 | D:9      | Killed an unseen horror
+  7251 | D:9      | Received a gift from Okawaru
+  7808 | D:10     | Entered Level 10 of the Dungeon
+  7826 | D:9      | HP: 3/93 [killer bee (12)]
+  7827 | D:9      | HP: 1/93 [poisoned by a killer bee]
+  7828 | D:9      | Succumbed to a killer bee's poison
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |     4        5     6  7  8  9 |  9.8
+Shields        |     4        5     6  7  8  9 |  9.9
+Armour         |     4        5     6  7  8  9 |  9.8
+Axes           |     3        4  5     6  8  9 |  9.4
+Invocations    |                    2  3  5  6 |  6.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |    92 |   145 |   284 |   262 ||   783
+       Headbutt          |    17 |    17 |    58 |    50 ||   142
+Invok: Heroism           |       |       |     1 |       ||     1
+  Use: Potion            |     8 |     2 |     2 |     4 ||    16
+       Scroll            |     2 |     5 |     5 |     3 ||    15
+  Eat: Chunk             |       |     6 |    11 |     5 ||    22
+       Ration            |       |       |       |     1 ||     1
+Armor: Scale mail        |    52 |    51 |    19 |       ||   122
+       Plate armour      |       |       |   142 |   179 ||   321
+Dodge: Dodged            |    26 |    53 |    48 |    57 ||   184
+       Deflected         |       |       |     4 |     3 ||     7
+Block: Shield            |    54 |    94 |   197 |   221 ||   566
+
