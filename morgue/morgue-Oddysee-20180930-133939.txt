@@ -1,0 +1,424 @@
+ Dungeon Crawl Stone Soup version 0.22.0 (tiles) character file.
+
+9130 Oddysee the Blocker (level 11, 0/72 HPs)
+             Began as a Gargoyle Fighter on Sept 30, 2018.
+             Was a High Priest of Okawaru.
+             Slain by an ettin zombie (13 damage)
+             ... on level 1 of the Abyss.
+             The game lasted 00:26:20 (9780 turns).
+
+Oddysee the Blocker (Gargoyle Fighter)              Turns: 9780, Time: 00:26:21
+
+Health: 0/72       AC: 25    Str: 17    XL:     11   Next: 41%
+Magic:  15/15      EV:  5    Int: 13    God:    Okawaru [*****.]
+Gold:   495        SH: 11    Dex: 13    Spells: 10/10 levels left
+
+rFire    . . .     SeeInvis .   F - +7 war axe "Dyjeep" {holy, Dex+2}
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     + + .     Faith    .   D - +0 plate armour
+rPois    8         Spirit   .   o - +2 helmet of Meuc {rF- Int+4}
+rElec    +         Reflect  .   I - scarf {repulsion}
+rCorr    .         Harm     .   s - +1 pair of gloves
+MR       .....                  g - +0 pair of boots
+Stlth    ..........             (no amulet)
+HPRegen  0.22/turn              B - ring of wizardry
+MPRegen  0.14/turn              b - ring of positive energy
+
+@: repel missiles
+A: [deformed body], fire resistance 1, high mp 1, negative energy resistance 1,
+sense surroundings 1, shaggy fur 1, electricity resistance, [weak 2],
+unbreathing, petrification resistance, rot immunity, MP-powered wands, AC +8
+a: Heroism, Finesse, Renounce Religion
+
+
+You were on level 1 of the Abyss.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 12 of its levels.
+You visited the Abyss 1 time.
+You also visited: Sewer and Ossuary.
+
+You collected 592 gold pieces.
+You spent 97 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 broad axe
+ m - a +3 flail
+ y - a +2 flail of holy wrath
+ C - a +1 battleaxe of venom
+ F - the +7 war axe "Dyjeep" (weapon) {holy, Dex+2}
+   (You found it on level 10 of the Dungeon)   
+   
+   It has been blessed by the Shining One to cause great damage to the undead
+   and demons.
+   
+   It affects your dexterity (+2).
+ K - a +7 battleaxe
+Armour
+ c - a +0 shield (worn)
+ g - a +0 pair of boots (worn)
+ j - a +0 cloak
+ o - the +2 helmet of Meuc (worn) {rF- Int+4}
+   (You found it on level 5 of the Dungeon)   
+   
+   It affects your intelligence (+4).
+   It makes you vulnerable to fire.
+ s - a +1 pair of gloves (worn)
+ D - a +0 plate armour (worn)
+ I - a scarf of repulsion (worn)
+Jewellery
+ b - a ring of positive energy (right hand)
+ h - an uncursed amulet of guardian spirit
+ B - a ring of wizardry (left hand)
+ J - an uncursed ring of ice
+ L - an uncursed ring of protection from cold {unknown}
+Wands
+ w - a wand of flame (34)
+Scrolls
+ i - 2 scrolls of enchant weapon
+ n - 6 scrolls of teleportation
+ r - 5 scrolls of identify
+ t - 4 scrolls of remove curse
+ u - 2 scrolls of fog
+ x - 2 scrolls of enchant armour
+ A - 4 scrolls of magic mapping
+ G - a scroll of amnesia
+ H - a scroll of fear
+ M - a scroll of silence {unknown}
+Potions
+ d - 2 potions of might
+ e - 7 potions of curing
+ k - 3 potions of haste
+ l - 4 potions of agility
+ p - 2 potions of mutation
+ q - 6 potions of flight
+ v - a potion of resistance
+ z - a potion of heal wounds
+ E - a potion of lignification
+Comestibles
+ f - 21 rations
+
+
+   Skills:
+ + Level 9.9 Fighting
+ + Level 3.0(5.5) Axes
+ - Level 8.0(8.3) Maces & Flails
+ + Level 10.0 Armour
+ + Level 10.0 Shields
+ + Level 4.0 Invocations
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Dead             Necr           N/A          100%        4    #####..
+ Pain                     Necr           #...         99%         1    ##.....
+ Animate Skeleton         Necr           N/A          99%         1    ##.....
+ Vampiric Draining        Necr           #.........   100%        3    ####...
+ Regeneration             Chrm/Necr      #.........   100%        3    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:6         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:6 *   D:7 :   D:8 [   D:10 ?   D:11 !:
+
+Annotations:
+D:5 1 runed door
+D:11 Sonja
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +8)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+Your flesh is heat resistant. (rF+)
+You have an increased reservoir of magic. (+10% MP)
+You passively map a small area around you.
+You are covered in fur. (AC +1)
+You expend magic power (3 MP) to strengthen your wands.
+[Armour fits poorly on your strangely shaped body.]
+[You are very weak. (Str -4)]
+
+
+Message History
+
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You hit the worldbinder.
+The worldbinder is lightly damaged.
+You slash the ancient zyme! You slash the ettin zombie! The ettin zombie convulses.
+You block the ancient zyme's attack. The ancient zyme barely misses you.
+The worldbinder hits you but does no damage.
+You block the worldbinder's attack. The ettin zombie hits you!!
+* * * LOW HITPOINT WARNING * * *
+The ettin zombie hits you but does no damage.
+You slice the worldbinder!!
+The worldbinder is severely damaged.
+You slash the ettin zombie! The ettin zombie convulses. You hit the ancient zyme.
+You block the worldbinder's attack.
+The worldbinder hits you but does no damage.
+The ancient zyme hits you but does no damage. x2
+The worldbinder calls forth creatures from the Vaults!
+The ettin zombie completely misses you. The ettin zombie hits you!
+You die...
+
+ #.    ..#
+#..#   #.#
+..#..  #...
+ ....# #..##
+  #.# ##...#
+   #.#.....##
+   #..#..#..#
+#.##...#..#.## #
+ #......#.. ...#
+ #.#.x@###..##
+#....xZ# #.#.#.## #
+####.c*.###§#.....#
+  ..##.#..##....#.#
+ #.# .####. ..#..#.
+ ##  .     ...# .# .
+     .   .#. .# ##
+    ..   #...#..§##
+       # ....#..##
+      ....#.. . # .
+
+
+You could see a wretched star, an ancient zyme, a yaktaur, a worldbinder and an
+ettin zombie.
+
+Vanquished Creatures
+  Harold (D:11)
+  A two-headed ogre (D:10)
+  Urug (D:10)
+  Psyche (D:8)
+  A troll (D:11)
+  A hippogriff (D:8)
+  A ynoxinul (Abyss:1)
+  A wyvern (D:9)
+  Grum (D:11)
+  A large abomination (Abyss:1)
+  Purgy (Sewer)
+  2 black bears
+  3 orc warriors
+  3 sky beasts
+  3 ice beasts
+  A necrophage (D:10)
+  A phantom (D:5)
+  A small abomination (Abyss:1)
+  6 ogres
+  3 wolves (D:11)
+  3 centaurs
+  A wyvern zombie (D:8)
+  8 bullfrogs
+  2 wyvern skeletons
+  3 scorpions
+  6 killer bees (D:8)
+  5 wights (D:11)
+  4 howler monkeys
+  A centaur zombie (Ossuary)
+  5 crimson imps
+  A bullfrog zombie (D:9)
+  7 hounds
+  2 centaur skeletons
+  2 human zombies (Ossuary)
+  7 orc priests
+  4 jellies
+  7 orc wizards
+  2 bullfrog skeletons
+  2 iguanas
+  12 worker ants
+  2 hound zombies
+  2 hound skeletons (D:4)
+  2 mummies (Ossuary)
+  A howler monkey zombie (D:10)
+  A worker ant zombie (D:9)
+  20 adders
+  A shadow imp (D:9)
+  An ooze (D:3)
+  2 adder zombies
+  4 worms
+  2 dart slugs
+  3 leopard geckos
+  29 orcs
+  2 ball pythons
+  10 giant cockroaches
+  11 hobgoblins
+  8 jackals
+  6 quokkas
+  A ball python zombie (D:1)
+  8 bats
+  14 frilled lizards
+  6 goblins
+  8 hobgoblin zombies (Ossuary)
+  A jackal skeleton (D:4)
+  13 kobolds
+  17 kobold zombies (Ossuary)
+  A leopard gecko skeleton (D:8)
+  2 leopard gecko zombies
+  4 orc zombies (Ossuary)
+  A quokka skeleton (D:8)
+  14 rats
+  3 rat zombies (Ossuary)
+318 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:11)
+1 creature vanquished.
+
+Grand Total: 319 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Gargoyle Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+    96 | D:1      | Reached XP level 2. HP: 15/19 MP: 2/2
+   330 | D:1      | Reached XP level 3. HP: 23/23 MP: 3/3
+   839 | D:1      | Gained mutation: You have an increased reservoir of magic. (+10% MP) [potion of mutation]
+   839 | D:1      | Gained mutation: You expend magic power (3 MP) to strengthen your wands. [potion of mutation]
+   839 | D:1      | Gained mutation: Scrolls take you a little longer to read. [potion of mutation]
+   839 | D:1      | Gained mutation: You are agile. (Dex +2) [potion of mutation]
+   938 | D:2      | Reached XP level 4. HP: 29/29 MP: 4/4
+  1030 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
+  1031 | D:2      | Found a radiant altar of Vehumet.
+  1053 | D:2      | Lost mutation: You are agile. (Dex +2) [potion of mutation]
+  1053 | D:2      | Lost mutation: Scrolls take you a little longer to read. [potion of mutation]
+  1053 | D:2      | Gained mutation: You are covered in fur. (AC +1) [potion of mutation]
+  1053 | D:2      | Gained mutation: You passively map a small area around you. [potion of mutation]
+  1053 | D:2      | Gained mutation: Your flesh is heat resistant. (rF+) [potion of mutation]
+  1296 | D:2      | Reached XP level 5. HP: 32/33 MP: 5/5
+  1522 | D:2      | Found a faded altar of an unknown god.
+  1889 | D:3      | Reached XP level 6. HP: 39/39 MP: 6/6
+  1983 | D:3      | Found a burning altar of Makhleb.
+  2162 | D:3      | Found an ornate altar of the Wu Jian Council.
+  2540 | D:4      | Reached skill level 5 in Armour
+  2550 | D:4      | Reached skill level 5 in Shields
+  2553 | D:4      | Found a sand-covered staircase.
+  2566 | Ossuary  | Entered an ossuary
+  2633 | Ossuary  | Reached skill level 5 in Fighting
+  2649 | Ossuary  | Reached XP level 7. HP: 42/44 MP: 7/7
+  3786 | D:5      | Entered Level 5 of the Dungeon
+  3825 | D:5      | Reached XP level 8. HP: 45/51 MP: 8/8
+  3878 | D:5      | Found a glowing golden altar of the Shining One.
+  4020 | D:5      | Found a runed door.
+  4033 | D:5      | Found a runed door.
+  4085 | D:5      | Got a fine helmet
+  4091 | D:5      | Identified the +2 helmet of Meuc {rF- Int+4} (You found it on level 5 of the Dungeon)
+  4269 | D:5      | Found an iron altar of Okawaru.
+  4276 | D:5      | Became a worshipper of Warmaster Okawaru
+  4651 | D:5      | Reached skill level 5 in Maces & Flails
+  4790 | D:6      | Reached * piety under Okawaru
+  4887 | D:6      | Reached XP level 9. HP: 56/56 MP: 9/9
+  5161 | D:6      | Reached ** piety under Okawaru
+  5238 | D:6      | Found a glowing drain.
+  5256 | Sewer    | Entered a sewer
+  5361 | Sewer    | Noticed Purgy
+  5369 | Sewer    | Killed Purgy
+  5536 | D:6      | Found a staircase to the Ecumenical Temple.
+  5748 | Temple   | Entered the Ecumenical Temple
+  5928 | D:6      | Found Edudog's Assorted Antiques.
+  5936 | D:6      | Bought a yellow potion for 27 gold pieces
+  6038 | D:6      | You fall through a shaft!
+  6501 | D:7      | Found Cethrud's Book Shop.
+  6965 | D:8      | Reached XP level 10. HP: 64/64 MP: 11/11
+  7181 | D:8      | Noticed Psyche
+  7186 | D:8      | Killed Psyche
+  7186 | D:8      | Reached *** piety under Okawaru
+  7592 | D:8      | Found Adghausch's Antique Armour Emporium.
+  7946 | D:9      | Reached **** piety under Okawaru
+  8192 | D:9      | Found a stormy altar of Qazlal.
+  8369 | D:9      | Reached skill level 1 in Invocations
+  8394 | D:10     | Entered Level 10 of the Dungeon
+  8455 | D:10     | Found Eczafi Jebu's Magic Scroll Shoppe.
+  8573 | D:10     | Got a crude war axe
+  8576 | D:10     | Identified the +7 war axe "Dyjeep" {holy, Dex+2} (You found it on level 10 of the Dungeon)
+  8778 | D:10     | Noticed a two-headed ogre
+  8791 | D:10     | Killed a two-headed ogre
+  8791 | D:10     | Reached skill level 1 in Axes
+  9370 | D:10     | Noticed Urug
+  9382 | D:10     | Killed Urug
+  9382 | D:10     | Reached ***** piety under Okawaru
+  9382 | D:10     | Reached XP level 11. HP: 58/71 MP: 14/14
+  9455 | D:11     | Found Etuv's Book Shoppe.
+  9486 | D:11     | Found Ozeonemu's Distillery.
+  9495 | D:11     | Bought a potion of heal wounds for 70 gold pieces
+  9535 | D:11     | Noticed Sonja
+  9540 | D:11     | Noticed Harold
+  9568 | D:11     | Killed Harold
+  9568 | D:11     | Received a gift from Okawaru
+  9579 | D:11     | Noticed Grum
+  9599 | D:11     | Killed Grum
+  9624 | D:11     | Cast into level 1 of the Abyss (Sonja)
+  9650 | Abyss:1  | Reached skill level 10 in Shields
+  9674 | Abyss:1  | Reached skill level 10 in Armour
+  9774 | Abyss:1  | Noticed a wretched star
+  9774 | Abyss:1  | Noticed a worldbinder
+  9780 | Abyss:1  | Slain by an ettin zombie
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Armour         |        4        5     6  8  9 10 | 10.0
+Shields        |           4     5     6  8  9 10 | 10.0
+Fighting       |           4     5     6  8  9    |  9.9
+Maces & Flails |              3     4  5  7  8    |  8.0
+Invocations    |                             3  4 |  4.0
+Axes           |                             2  3 |  3.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Flail             |   139 |   294 |   581 |   266 ||  1280
+       War axe           |       |       |       |   120 ||   120
+Invok: Heroism           |       |       |       |     2 ||     2
+  Use: Potion            |     4 |     1 |     7 |     3 ||    15
+       Scroll            |     1 |     4 |     8 |     7 ||    20
+  Eat: Chunk             |       |     5 |    13 |    10 ||    28
+       Ration            |       |       |     1 |       ||     1
+Armor: Scale mail        |    92 |   192 |    79 |       ||   363
+       Chain mail        |       |       |   144 |       ||   144
+       Plate armour      |       |       |   167 |   276 ||   443
+Dodge: Dodged            |    48 |   110 |   154 |    74 ||   386
+       Deflected         |       |       |       |     2 ||     2
+Block: Shield            |    73 |   212 |   372 |   256 ||   913
+

@@ -1,0 +1,512 @@
+Oddysee
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 short sword
+(4, 2, D:1)
+  a +0 short sword
+(11, -2, D:1)
+  a +0 dagger
+(11, -1, D:1)
+  a +0 hand axe
+(16, -1, D:1)
+  a +0 dagger
+(18, -26, D:1)
+  26 sling bullets
+(18, -1, D:1)
+  a +0 dagger
+(19, -29, D:1)
+  a +0 club
+(24, -1, D:1)
+  a +0 ring mail
+(32, -32, D:1)
+  a +0 robe
+(42, -35, D:1)
+  a stone
+(43, -36, D:1)
+  a stone
+(43, -17, D:1)
+  a +0 short sword
+  3 stones
+(44, -6, D:1)
+  a +0 short sword
+
+Level 2 of the Dungeon
+(11, 18, D:2)
+  10 bolts
+(12, -6, D:2)
+  14 poisoned needles
+(21, 18, D:2)
+  a +0 dagger
+(23, 1, D:2)
+  23 bolts
+(24, 12, D:2)
+  a +0 leather armour
+(29, 27, D:2)
+  a +0 hunting sling
+(31, -2, D:2)
+  a +0 club
+(37, -12, D:2)
+  a +0 club
+(39, 22, D:2)
+  a +0 short sword
+(40, 19, D:2)
+  a stone
+(44, -13, D:2)
+  a stone
+(47, -14, D:2)
+  a stone
+(47, -13, D:2)
+  a stone
+(48, -16, D:2)
+  10 stones
+(48, -13, D:2)
+  a +0 whip
+(51, 26, D:2)
+  29 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 leather armour
+(1, -3, D:3)
+  14 arrows
+(22, -21, D:3)
+  a cursed +0 robe
+(23, -1, D:3)
+  a +0 war axe
+(25, -7, D:3)
+  a +0 club
+(25, 5, D:3)
+  a +0 club
+  a +0 ring mail
+  a +0 trident
+  a +0 chain mail
+(25, 6, D:3)
+  a +0 dagger
+  a +0 robe
+  a cursed +0 club
+(25, 7, D:3)
+  a +0 leather armour
+(29, -20, D:3)
+  a +0 dagger
+(37, -38, D:3)
+  a +0 whip
+  a +0 robe
+(40, -2, D:3)
+  a cursed -3 hand axe
+(44, -28, D:3)
+  a +0 hand axe
+(44, 0, D:3)
+  13 stones
+(47, -13, D:3)
+  a stone
+(47, -12, D:3)
+  a stone
+(47, -11, D:3)
+  a stone
+(47, -8, D:3)
+  a +0 dagger
+(53, -9, D:3)
+  a +0 robe
+(54, -11, D:3)
+  a +0 whip
+  a +0 scale mail
+(54, -10, D:3)
+  a +0 leather armour
+(54, -4, D:3)
+  a +0 robe
+(55, -11, D:3)
+  a +0 club
+  a cursed +0 scale mail
+(60, -29, D:3)
+  20 sling bullets
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 leather armour
+  a +1 dagger of venom
+  a +0 scale mail
+  a +0 mace
+(1, 0, D:4)
+  a +0 club
+(2, -1, D:4)
+  a +0 robe
+  a +0 dagger
+(10, -7, D:4)
+  a +0 giant spiked club
+(18, -6, D:4)
+  a +0 hand axe
+(22, -17, D:4)
+  a +0 dagger
+(24, -10, D:4)
+  a +0 short sword
+  a +0 leather armour
+(25, -10, D:4)
+  a +0 hand axe
+  a +0 club
+  a +0 leather armour
+(25, -9, D:4)
+  a +0 short sword
+  a +0 club
+(26, 17, D:4)
+  20 stones
+(31, -16, D:4)
+  the cursed +0 short sword of False Accusations {flame, +Inv rC+}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It protects you from cold.
+    It lets you turn invisible.
+    It has a curse placed upon it.
+(32, 2, D:4)
+  16 sling bullets
+(37, 10, D:4)
+  a +0 ring mail
+(38, 2, D:4)
+  a +0 leather armour
+(40, -12, D:4)
+  a +0 club
+  a +0 leather armour
+(41, -12, D:4)
+  a +0 short sword
+  a +0 leather armour
+(41, 8, D:4)
+  a +0 leather armour
+(42, -14, D:4)
+  a +0 pair of boots
+(42, -12, D:4)
+  a +0 dagger
+  a +0 robe
+(42, -11, D:4)
+  a +0 dagger
+  a +0 robe
+(46, 25, D:4)
+  a +0 robe
+
+Level 5 of the Dungeon
+(1, 0, D:5)
+  a cursed -2 hand crossbow
+(44, -17, D:5)
+  a +0 giant club
+(44, -13, D:5)
+  a +0 leather armour
+(52, -49, D:5)
+  15 sling bullets
+(58, -29, D:5)
+  19 sling bullets
+
+Level 6 of the Dungeon
+[Shop] Edudog's Assorted Antiques
+  a +0 scale mail (124 gold)
+  a +0 falchion (93 gold)
+  a scroll of teleportation (93 gold)
+  a scroll of fog (62 gold)
+  a scroll of enchant weapon (232 gold)
+  a scroll of enchant weapon (232 gold)
+  a +0 club (31 gold)
+  a book of Changes (775 gold)
+  a wand of polymorph (11) (403 gold)
+(0, 0, D:6)
+  a +0 robe
+(1, -6, D:6)
+  an arrow
+(1, -5, D:6)
+  an arrow
+(2, -4, D:6)
+  an arrow
+(4, -2, D:6)
+  a +0 shortbow
+  25 arrows
+(15, 19, D:6)
+  a +0 leather armour
+  a +0 hand axe
+(16, 11, D:6)
+  a +0 trident
+(18, 20, D:6)
+  a +0 chain mail
+  a +0 scale mail
+  a +1 flail
+(24, 7, D:6)
+  17 arrows
+(24, 42, D:6)
+  a potion of degeneration
+(28, 4, D:6)
+  a +2 trident of venom
+(35, 6, D:6)
+  a +0 flail
+  a +0 leather armour
+  a +0 club
+(35, 7, D:6)
+  a cursed -1 mace
+(46, 31, D:6)
+  21 sling bullets
+(50, 25, D:6)
+  24 sling bullets
+(55, 41, D:6)
+  a +0 giant spiked club
+(57, 33, D:6)
+  20 stones
+(60, 28, D:6)
+  a +0 whip
+
+Level 7 of the Dungeon
+[Shop] Cethrud's Book Shop
+  Ezueb's Volume of the Entourage and Toxins (865 gold)
+    Spells                           Type                      Level
+     a - Summon Small Mammal          Summoning                     1
+     b - Call Imp                     Summoning                     2
+     c - Ignite Poison                Fire/Transmutation/Poison     3
+     d - Summon Ice Beast             Ice/Summoning                 4
+     e - Olgreb's Toxic Radiance      Poison                        4
+     f - Alistair's Intoxication      Transmutation/Poison          5
+  the Volume of Cold (979 gold)
+    Spells                           Type                      Level
+     a - Ensorcelled Hibernation      Hexes/Ice                     2
+     b - Summon Ice Beast             Ice/Summoning                 4
+     c - Ice Form                     Ice/Transmutation             4
+     d - Ozocubu's Refrigeration      Ice                           6
+  Sif Muna's Guide on Battle Magic and Aid (720 gold)
+    Spells                           Type                      Level
+     a - Magic Dart                   Conjuration                   1
+     b - Shock                        Conjuration/Air               1
+     c - Conjure Flame                Conjuration/Fire              3
+     d - Spectral Weapon              Hexes/Charms                  3
+     e - Sticky Flame                 Conjuration/Fire              4
+     f - Deflect Missiles             Charms/Air                    6
+  the Handbook of Harmful Transformation (960 gold)
+    Spells                           Type                      Level
+     a - Throw Frost                  Conjuration/Ice               2
+     b - Stone Arrow                  Conjuration/Earth             3
+     c - Ice Form                     Ice/Transmutation             4
+     d - Venom Bolt                   Conjuration/Poison            5
+     e - Bolt of Fire                 Conjuration/Fire              6
+  a book of Burglary (1200 gold)
+  a book of Misfortune (320 gold)
+  a book of Battle (640 gold)
+  a book of Misfortune (320 gold)
+  a book of Enchantments (800 gold)
+  a book of Flames (560 gold)
+  a book of Death (1120 gold)
+(0, 0, D:7)
+  a +0 ring mail
+(2, -1, D:7)
+  an uncursed amulet of harm
+(9, 3, D:7)
+  13 poisoned needles
+(18, -8, D:7)
+  a +0 leather armour
+(34, -13, D:7)
+  9 stones
+(34, -11, D:7)
+  a +0 whip
+  a +0 leather armour
+(35, -10, D:7)
+  a +0 dire flail
+  a +0 plate armour
+  a +0 dagger
+  a +0 robe
+(35, -9, D:7)
+  a +0 whip
+(39, -18, D:7)
+  4 javelins of penetration
+(42, -17, D:7)
+  a +0 trident
+
+Level 8 of the Dungeon
+[Shop] Adghausch's Antique Armour Emporium
+  a +0 scale mail (124 gold)
+  a +0 leather armour (62 gold)
+  a +2 crystal plate armour (2852 gold)
+  a +0 ring mail (124 gold)
+  a +0 cloak (139 gold)
+  a +0 chain mail (139 gold)
+  a +0 chain mail (139 gold)
+  a +0 ring mail (124 gold)
+  a +0 helmet (139 gold)
+  a +0 plate armour (713 gold)
+(0, 0, D:8)
+  a +0 whip
+(5, -12, D:8)
+  a +0 leather armour
+(18, -14, D:8)
+  a +2 dagger of chaos
+  a +2 robe of positive energy
+(20, 30, D:8)
+  a +0 ring mail of fire resistance
+(26, 17, D:8)
+  16 arrows
+(29, 17, D:8)
+  22 stones
+(31, 18, D:8)
+  13 sling bullets
+(34, -3, D:8)
+  a +0 leather armour
+(38, 17, D:8)
+  2 arrows
+(39, 17, D:8)
+  a +0 giant club
+  a +0 war axe
+  a +0 falchion
+  a +0 hand axe
+  an arrow
+  11 stones
+(40, 17, D:8)
+  an arrow
+(41, 17, D:8)
+  an arrow
+(43, 17, D:8)
+  a +0 shortbow
+  15 arrows
+(45, 24, D:8)
+  19 stones
+(46, 15, D:8)
+  4 tomahawks
+
+Level 9 of the Dungeon
+(23, -31, D:9)
+  a +0 leather armour
+(29, -31, D:9)
+  a +0 hand axe
+  a +0 scale mail
+(29, -30, D:9)
+  a +0 flail
+  a +0 leather armour
+  a +0 dagger
+  a +0 robe
+(29, 0, D:9)
+  8 arrows
+(39, -8, D:9)
+  a +0 ring mail
+(42, -3, D:9)
+  a +0 giant club
+  a throwing net
+(52, -45, D:9)
+  a cursed staff of earth
+(53, -36, D:9)
+  a +0 flail
+  a +0 scale mail
+
+Level 10 of the Dungeon
+[Shop] Eczafi Jebu's Magic Scroll Shoppe
+  a scroll of identify (28 gold)
+  a scroll of identify (28 gold)
+  a scroll of identify (28 gold)
+  a scroll of magic mapping (49 gold)
+  a scroll of fog (28 gold)
+  a scroll of remove curse (42 gold)
+  a scroll of holy word (105 gold)
+  a scroll of teleportation (42 gold)
+  a scroll of teleportation (42 gold)
+  a scroll of identify (28 gold)
+(0, 0, D:10)
+  8 silver tomahawks
+(6, -7, D:10)
+  23 arrows
+(9, -14, D:10)
+  a +0 shortbow
+(10, 9, D:10)
+  a +0 giant club
+(33, -25, D:10)
+  21 bolts
+(35, -25, D:10)
+  16 stones
+(38, -39, D:10)
+  2 potions of degeneration
+(44, -21, D:10)
+  19 stones
+(44, -19, D:10)
+  18 stones
+(55, 13, D:10)
+  5 javelins of returning
+  a +0 scale mail
+(62, -30, D:10)
+  21 bolts
+(66, -30, D:10)
+  a +0 leather armour
+(69, -37, D:10)
+  a +0 giant club
+  a +0 giant spiked club
+
+Level 11 of the Dungeon
+[Shop] Etuv's Book Shoppe
+  a book of the Sky (975 gold)
+  a book of Enchantments (750 gold)
+  a book of Ice (975 gold)
+  Sif Muna's Disquisition on the Displaced Blaze (3216 gold)
+    Spells                           Type                      Level
+     a - Apportation                  Translocation                 1
+     b - Ignite Poison                Fire/Transmutation/Poison     3
+     c - Passage of Golubria          Translocation                 4
+     d - Bolt of Magma                Conjuration/Fire/Earth        5
+     e - Malign Gateway               Summoning/Translocation       7
+  a book of Debilitation (600 gold)
+  a book of Beasts (825 gold)
+  a book of Fire (975 gold)
+  a book of Cantrips (300 gold)
+  a book of Maledictions (375 gold)
+  a book of Battle (600 gold)
+  a book of Summonings (1050 gold)
+[Shop] Ozeonemu's Distillery
+  a potion of invisibility (112 gold)
+  a potion of curing (42 gold)
+  a potion of invisibility (112 gold)
+  a potion of haste (140 gold)
+  a potion of mutation (112 gold)
+  a potion of mutation (112 gold)
+  a potion of flight (42 gold)
+  a potion of haste (140 gold)
+  a potion of mutation (112 gold)
+  a potion of lignification (42 gold)
+(0, 0, D:11)
+  a curare-tipped needle
+(0, 1, D:11)
+  a +0 dagger
+  a +0 robe
+(1, 0, D:11)
+  2 curare-tipped needles
+  6 tomahawks of returning
+(2, 0, D:11)
+  a +0 troll leather armour
+  a +1 halberd of flaming
+  a +0 animal skin
+  a curare-tipped needle
+  a +0 hand axe
+  a +0 chain mail
+  a +0 mace
+  a +0 short sword
+  a +0 scale mail
+  a +0 halberd
+  a +0 chain mail
+  2 chunks of flesh
+  a troll corpse
+  a wolf corpse
+  a wolf corpse
+  the gnoll corpse of Grum
+  an orc corpse (skeletalised by now)
+(5, -1, D:11)
+  a throwing net
+(7, -34, D:11)
+  20 bolts
+(7, -9, D:11)
+  an arrow
+(12, -9, D:11)
+  4 arrows
+(13, -9, D:11)
+  a +0 flail
+  a +0 robe
+  a +0 shortbow
+  17 arrows
+  a +0 great sword
+  a +0 robe
+  a cursed +0 scimitar
+  a +0 robe
+  a +4 great sword of freezing
+  a +0 robe
+  a cursed +0 dire flail
+  a +0 robe
+(18, -3, D:11)
+  a curare-tipped needle
+
+the Ecumenical Temple
+
