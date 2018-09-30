@@ -1,6 +1,6 @@
  Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
 
-Oddysee the Blocker (Gargoyle Fighter)              Turns: 9612, Time: 00:23:14
+Oddysee the Blocker (Gargoyle Fighter)              Turns: 9612, Time: 00:23:21
 
 Health: 67/67      AC: 28    Str: 29    XL:     11   Next: 71%
 Magic:  18/18      EV:  8    Int:  6    God:    Okawaru [*****.]
@@ -168,13 +168,6 @@ You have an increased reservoir of magic. (+10% MP)
 
 Message History
 
-Found a scale mail.
-You are near starving!
-You see here 20 sling bullets.
-You see here a sack of spiders.
-You enter the shallow water.
-Moving in this stuff is going to be slow.
-You enter the shallow water.
 Moving in this stuff is going to be slow.
 Partly explored, can't reach some places.
 Partly explored, can't reach some places.
@@ -184,6 +177,13 @@ Partly explored, can't reach some places.
 Partly explored, can't reach some places.
 Partly explored, can't reach some places.
 You eat one of the 24 rations. That ration really hit the spot!
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+Save game and exit? 
+Welcome back, Oddysee the Gargoyle Fighter.
+Okawaru says: Bring me glory in combat!
+Press ? for a list of commands and other information.
 Partly explored, can't reach some places.
 Partly explored, can't reach some places.
 Partly explored, can't reach some places.

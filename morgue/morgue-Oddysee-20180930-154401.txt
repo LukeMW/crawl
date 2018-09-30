@@ -1,0 +1,571 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+84812 Oddysee the Blocker (level 15, -5/97 HPs)
+             Began as a Gargoyle Fighter on Sept 30, 2018.
+             Was the Champion of Okawaru.
+             Slain by a wolf spider (11 damage)
+             ... on level 3 of the Spider Nest.
+             The game lasted 01:01:06 (22415 turns).
+
+Oddysee the Blocker (Gargoyle Fighter)             Turns: 22415, Time: 01:01:06
+
+Health: -5/97      AC: 32    Str: 32    XL:     15   Next: 81%
+Magic:  27/27      EV: 11    Int:  7    God:    Okawaru [******]
+Gold:   892        SH: 15    Dex: 12    Spells: 14/14 levels left
+
+rFire    + + +     SeeInvis +   o - +2 whip (elec)
+rCold    + . .     Gourm    .   c - +0 shield
+rNeg     + . .     Faith    .   T - +1 chain mail {rC+}
+rPois    8         Spirit   .   Q - +1 helmet {SInv}
+rElec    +         Reflect  .   b - +1 cloak
+rCorr    .         Harm     .   H - +0 pair of gloves {Str+3}
+MR       +....                  J - +1 pair of boots
+Stlth    ..........             (no amulet)
+HPRegen  0.26/turn              z - ring "Nungaif" {*Corrode rPois rF+++ Slay+5}
+MPRegen  0.20/turn              D - +6 ring of strength
+
+@: corroded, flying
+A: big wings, slimy green scales 1, dopey 1, high mp 1, negative energy
+resistance 1, electricity resistance, unbreathing, petrification resistance, rot
+immunity, AC +11
+a: Stop Flying, Heroism, Finesse, Renounce Religion
+
+
+You were on level 3 of the Spider Nest.
+You worshipped Okawaru.
+Okawaru was exalted by your worship.
+You were not hungry.
+
+You visited 5 branches of the dungeon, and saw 22 of its levels.
+You also visited: Ossuary.
+
+You collected 2142 gold pieces.
+You spent 1250 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ o - a +2 whip of electrocution (weapon)
+ N - a +4 eveningstar
+Armour
+ b - a +1 cloak (worn)
+ c - a +0 shield (worn)
+ B - a +2 buckler of positive energy
+ G - the cursed +1 chain mail of the Country {rPois rF- rC+++ Str-3}
+   (You found it on level 5 of the Lair of Beasts)   
+   
+   It affects your strength (-3).
+   It makes you vulnerable to fire.
+   It renders you almost immune to cold.
+   It protects you from poison.
+   It has a curse placed upon it.
+ H - a +0 pair of gloves of strength (worn)
+ I - a +0 plate armour
+ J - a +1 pair of boots (worn)
+ Q - a +1 helmet of see invisible (worn)
+ T - a +1 chain mail of cold resistance (worn)
+ V - a scarf of cloud immunity
+Jewellery
+ m - an uncursed ring of protection from cold
+ v - an uncursed amulet of guardian spirit
+ z - the ring "Nungaif" (left hand) {*Corrode rPois rF+++ Slay+5}
+   (You bought it in a shop on level 5 of the Dungeon)   
+   
+   [ring of poison resistance]
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+5).
+   It renders you almost immune to fire.
+   It protects you from poison.
+   It may corrode you when you take damage.
+ D - a +6 ring of strength (right hand)
+ R - an uncursed ring of see invisible
+Wands
+ h - a wand of acid (9)
+ j - a wand of random effects (53)
+ s - a wand of polymorph (16)
+ t - a wand of digging (10)
+ x - a wand of enslavement (30)
+ K - a wand of paralysis (6)
+ L - a wand of disintegration (8)
+ M - a wand of iceblast (12)
+ W - a wand of flame (49)
+Scrolls
+ e - 6 scrolls of identify
+ g - 4 scrolls of blinking
+ k - 3 scrolls of enchant weapon
+ l - 3 scrolls of immolation
+ p - 9 scrolls of teleportation
+ w - 4 scrolls of amnesia
+ y - 5 scrolls of remove curse
+ A - 4 scrolls of enchant armour
+ C - 4 scrolls of magic mapping
+ E - 4 scrolls of fear
+ F - 5 scrolls of fog
+Potions
+ a - 2 potions of berserk rage
+ d - 2 potions of might
+ q - a potion of cancellation
+ r - 12 potions of curing
+ u - 5 potions of mutation
+ O - 4 potions of haste
+ P - a potion of ambrosia
+ U - a potion of agility
+Miscellaneous
+ S - a phantom mirror
+ X - a lightning rod (4/4)
+ Z - a lamp of fire
+Comestibles
+ f - 27 rations
+
+
+   Skills:
+ + Level 12.8 Fighting
+ - Level 12.0 Maces & Flails
+ + Level 13.3 Armour
+ + Level 4.3 Dodging
+ - Level 0.4 Stealth
+ + Level 14.7 Shields
+ + Level 13.1 Invocations
+
+
+You had 14 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          83%         1    ##.....
+ Apportation              Tloc           #.....       83%         1    ##.....
+ Beastly Appendage        Tmut           #.....       83%         1    ##.....
+ Confusing Touch          Hex            #.....       83%         1    ##.....
+ Flame Tongue             Conj/Fire      #....        83%         1    ##.....
+ Magic Dart               Conj           #...         83%         1    ##.....
+ Summon Small Mammal      Summ           #...         83%         1    ##.....
+ Blink                    Tloc           N/A          93%         2    ###....
+ Searing Ray              Conj           #.....       93%         2    ###....
+ Shroud of Golubria       Chrm/Tloc      #.........   93%         2    ###....
+ Sticks to Snakes         Tmut           #.......     93%         2    ###....
+ Throw Flame              Conj/Fire      #.....       93%         2    ###....
+ Confuse                  Hex            #.......     99%         3    ####...
+ Conjure Flame            Conj/Fire      #.......     99%         3    ####...
+ Dazzling Spray           Conj/Hex       #.....       99%         3    ####...
+ Gell's Gravitas          Tloc           #.........   99%         3    ####...
+ Inner Flame              Hex/Fire       #.......     99%         3    ####...
+ Lesser Beckoning         Tloc           #.........   99%         3    ####...
+ Spider Form              Tmut/Pois      #.........   99%         3    ####...
+ Teleport Other           Tloc           #.......     99%         3    ####...
+ Force Lance              Conj/Tloc      #.......     100%        4    #####..
+ Fulminant Prism          Conj/Hex       #.........   100%        4    #####..
+ Ice Form                 Ice/Tmut       #.......     100%        4    #####..
+ Iskenderun's Mystic Bla  Conj           #.......     100%        4    #####..
+ Passage of Golubria      Tloc           N/A          100%        4    #####..
+ Petrify                  Tmut/Erth      #.......     100%        4    #####..
+ Sticky Flame             Conj/Fire      #.......     100%        4    #####..
+ Blade Hands              Tmut           #.........   100%        5    ######.
+ Fireball                 Conj/Fire      #.........   100%        5    ######.
+ Metabolic Englaciation   Hex/Ice        #.........   100%        5    ######.
+ Yara's Violent Unravell  Hex/Tmut       #.........   100%        5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:5            Lair (6/6) D:10
+  Swamp (0/4) Lair:2       Spider (3/4) Lair:4        Slime (0/5) Lair:6
+    Orc (2/2) D:9             Elf (0/3) Orc:2       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:5 (=   D:6 *(   Orc:2 ((=(!}(}
+
+Portals:
+Trove: D:10 (give 13 potions of heal wounds)
+
+Annotations:
+D:8 2 transporters, Oddysee's ghost, novice GrFi
+Lair:3 exclusion: oklob plant
+Lair:5 3 runed doors, Thalamas's ghost, journeyman MiBe
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +11)
+You are immune to poison.
+Your large and strong wings let you fly indefinitely.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+You are partially covered in slimy green scales. (AC +2)
+You are dopey. (Int -2)
+You have an increased reservoir of magic. (+10% MP)
+
+
+Message History
+
+The tarantella splashes around in the water.
+The redback closely misses you. The jumping spider leaps! The wolf spider
+* * * LOW HITPOINT WARNING * * *
+The tarantella bites you but does no damage.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Okay, then.
+You're too confused!
+Unknown command.
+You feel better. You block the tarantella's attack. You block the redback's
+You block the wolf spider's attack. x2; The tarantella closely misses you.
+The tarantella bites you but does no damage.
+A jumping spider comes into view.
+The redback barely misses you.
+The jumping spider hisses angrily.
+The tarantella bites you but does no damage.
+The jumping spider leaps!
+A redback comes into view.
+The wolf spider hits you!
+You die...
+
+      ...... ##....##..
+      ...... #..........
+      ...... #...........
+      ......##...........
+      #.........s.......#
+      #..........^.......
+      ..>.....s...˜.....
+      s§...<.@s˜˜˜˜˜˜#
+      ........ss˜^..˜#
+      ##.....˜˜˜...###
+      #.....##.#...####
+      ##.....#.....^..#
+       ##......^.....##
+        #............##
+....  ..#.............#
+....  #........?†^...##
+#.... #.....#....†..##
+.....##.....###.....#
+
+
+You could see a wolf spider, a jumping spider, 2 tarantellas and 2 redbacks.
+
+Vanquished Creatures
+  Gastronok (Lair:2)
+  An emperor scorpion (Spider:3)
+  A fire dragon (Lair:6)
+  Josephine (Lair:5)
+  4 hydras
+  A catoblepas (Lair:6)
+  3 death yaks (D:9)
+  16 two-headed ogres
+  4 ogre magi (Orc:2)
+  Urug (D:10)
+  Sonja (Lair:2)
+  Nergalle (Orc:1)
+  2 orc knights
+  7 orb spiders
+  An orc sorcerer (Orc:1)
+  12 wolf spiders
+  A cyclops (Orc:1)
+  11 elephants
+  4 black mambas
+  2 moths of wrath (Spider:1)
+  6 torpor snails
+  Psyche (D:8)
+  Joseph (D:7)
+  10 spiny frogs
+  2 rime drakes
+  7 demonic crawlers
+  7 komodo dragons
+  4 trolls
+  A tengu conjurer (D:10)
+  4 tyrant leeches (Lair:6)
+  31 blink frogs
+  14 jumping spiders
+  7 hornets
+  11 hippogriffs
+  6 dream sheep (Lair:4)
+  36 redbacks
+  12 tarantellas (Spider:1)
+  2 wyverns
+  9 yaks
+  4 wraiths (Lair:4)
+  4 wargs
+  16 water moccasins
+  A soldier ant (D:7)
+  4 porcupines
+  12 orc warriors
+  2 ice beasts
+  A sky beast (D:9)
+  A black bear (Lair:4)
+  A phantom (D:9)
+  A necrophage (D:6)
+  9 wolves (Lair:3)
+  9 crocodiles
+  6 centaurs
+  24 ogres
+  A big kobold (D:9)
+  10 bullfrogs
+  14 scorpions
+  4 killer bees (D:9)
+  4 electric eels
+  4 howler monkeys
+  13 jellies
+  2 crimson imps (D:8)
+  A quasit (D:10)
+  2 centaur zombies
+  4 hounds
+  A bullfrog zombie (D:5)
+  3 centaur skeletons
+  3 human zombies (Ossuary)
+  12 orc priests
+  2 bullfrog skeletons
+  3 iguanas
+  A hell rat (D:9)
+  9 orc wizards
+  5 worker ants
+  A big kobold zombie (Ossuary)
+  2 hound zombies
+  A hound skeleton (D:9)
+  3 mummies (Ossuary)
+  3 worker ant zombies
+  3 scorpion zombies (Ossuary)
+  12 adders
+  3 river rats
+  2 shadow imps
+  10 oozes
+  3 worms
+  2 dart slugs
+  5 leopard geckos
+  62 orcs
+  6 bats
+  6 giant cockroaches
+  A gnoll zombie (Ossuary)
+  2 goblins
+  3 hobgoblins
+  10 jackals
+  15 kobolds
+  6 quokkas
+  2 ball pythons
+  3 frilled lizards
+  A giant cockroach zombie (D:5)
+  A goblin zombie (Ossuary)
+  2 hobgoblin zombies (Ossuary)
+  2 kobold zombies (Ossuary)
+  An orc zombie (Ossuary)
+  A quokka skeleton (D:6)
+  8 rats
+  A butterfly (Lair:3)
+  A plant (Lair:6)
+623 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc (Orc:1)
+  3 fungi
+  12 plants
+  7 toadstools (D:3)
+23 creatures vanquished.
+
+Grand Total: 646 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Gargoyle Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+    58 | D:1      | Reached XP level 2. HP: 19/19 MP: 2/2
+   287 | D:1      | Reached XP level 3. HP: 24/24 MP: 3/3
+   609 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
+   609 | D:2      | Found a sacrificial altar of Ru.
+   610 | D:2      | Found a hazy altar of Hepliaklqana.
+   610 | D:2      | Found an ornate altar of the Wu Jian Council.
+   664 | D:2      | Reached skill level 4 in Shields
+  1043 | D:2      | Found a blossoming altar of Fedhas.
+  1282 | D:3      | Reached XP level 4. HP: 29/29 MP: 4/4
+  1537 | D:3      | Reached XP level 5. HP: 31/33 MP: 5/5
+  2146 | D:3      | Found a deep blue altar of Sif Muna.
+  2391 | D:3      | Reached skill level 5 in Shields
+  2452 | D:4      | Reached XP level 6. HP: 34/38 MP: 6/6
+  2476 | D:4      | Reached skill level 1 in Dodging
+  2563 | D:4      | Reached XP level 7. HP: 35/43 MP: 7/7
+  2874 | D:4      | Gained mutation: You have an increased reservoir of magic.
+                  | (+10% MP) [potion of mutation]
+  2874 | D:4      | Gained mutation: You are dopey. (Int -2) [potion of
+                  | mutation]
+  2874 | D:4      | Gained mutation: You are partially covered in slimy green
+                  | scales. (AC +2) [potion of mutation]
+  2898 | D:5      | Entered Level 5 of the Dungeon
+  2956 | D:5      | Found Nugg's Weapon Boutique.
+  2968 | D:5      | Bought a +2 whip of electrocution for 218 gold pieces
+  2979 | D:5      | Found Sabruamu's Jewellery Boutique.
+  2987 | D:5      | Bought a cursed amulet of inaccuracy for 26 gold pieces
+  3004 | D:5      | Reached skill level 6 in Shields
+  3046 | D:5      | Reached skill level 5 in Maces & Flails
+  3332 | D:5      | Found a staircase to the Ecumenical Temple.
+  3341 | Temple   | Entered the Ecumenical Temple
+  3506 | Temple   | Became a worshipper of Warmaster Okawaru
+  3846 | D:6      | Reached skill level 1 in Invocations
+  3846 | D:6      | Reached XP level 8. HP: 48/48 MP: 9/9
+  3887 | D:6      | Reached skill level 5 in Armour
+  4120 | D:6      | Found a sand-covered staircase.
+  4128 | Ossuary  | Entered an ossuary
+  4138 | Ossuary  | Reached * piety under Okawaru
+  4283 | Ossuary  | Reached skill level 7 in Shields
+  4289 | Ossuary  | Reached skill level 5 in Fighting
+  4289 | Ossuary  | Reached XP level 9. HP: 50/54 MP: 12/12
+  4403 | Ossuary  | Reached ** piety under Okawaru
+  4534 | D:6      | Found Quss's General Store.
+  4576 | D:6      | Found Xevinefo's Weapon Emporium.
+  5290 | D:7      | Noticed Joseph
+  5311 | D:7      | Killed Joseph
+  5545 | D:8      | Noticed Psyche
+  5551 | D:8      | Killed Psyche
+  5551 | D:8      | Reached skill level 8 in Shields
+  5570 | D:8      | Found a transporter.
+  5570 | D:8      | Noticed Oddysee's ghost (novice GrFi)
+  5584 | D:8      | Reached *** piety under Okawaru
+  5595 | D:8      | Found a transporter.
+  5613 | D:8      | Reached skill level 5 in Invocations
+  5624 | D:8      | Reached XP level 10. HP: 52/60 MP: 15/15
+  6389 | D:9      | Reached skill level 9 in Shields
+  6434 | D:9      | Reached **** piety under Okawaru
+  6460 | D:9      | Found a staircase to the Orcish Mines.
+  7253 | D:10     | Entered Level 10 of the Dungeon
+  7253 | D:10     | Found a staircase to the Lair.
+  7253 | D:10     | Noticed a death yak
+  7253 | D:10     | Noticed a death yak
+  7253 | D:10     | Noticed a death yak
+  7271 | D:9      | Killed a death yak
+  7354 | D:9      | Killed a death yak
+  7354 | D:9      | Reached XP level 11. HP: 33/66 MP: 17/17
+  7528 | D:9      | Killed a death yak
+  7528 | D:9      | Reached ***** piety under Okawaru
+  7528 | D:9      | Reached skill level 10 in Shields
+  7742 | D:10     | Found a portal to a secret trove of treasure.
+  8456 | D:10     | Noticed Urug
+  8476 | D:10     | Killed Urug
+  8542 | D:10     | Noticed a two-headed ogre
+  8555 | D:10     | Killed a two-headed ogre
+  8725 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  8949 | Lair:1   | Reached skill level 10 in Maces & Flails
+  9094 | Lair:1   | Noticed a six-headed hydra
+  9116 | Lair:1   | Killed a six-headed hydra
+  9931 | Lair:2   | Reached skill level 11 in Shields
+  9942 | Lair:2   | Reached XP level 12. HP: 31/72 MP: 17/19
+ 10219 | Lair:2   | Noticed Gastronok
+ 10244 | Lair:2   | Killed Gastronok
+ 10430 | Lair:2   | Noticed Sonja
+ 10435 | Lair:2   | Killed Sonja
+ 10435 | Lair:2   | Reached ****** piety under Okawaru
+ 10463 | Lair:2   | Found a shimmering altar of Xom.
+ 10568 | Lair:2   | Found a staircase to the Swamp.
+ 11035 | Lair:3   | Noticed a five-headed hydra
+ 11052 | Lair:3   | Killed a five-headed hydra
+ 11471 | Lair:3   | Received a gift from Okawaru
+ 12311 | Lair:4   | Reached skill level 12 in Shields
+ 12311 | Lair:4   | Reached XP level 13. HP: 38/80 MP: 22/22
+ 12629 | Lair:4   | Reached skill level 10 in Armour
+ 12868 | Lair:4   | Reached skill level 10 in Invocations
+ 12987 | Lair:4   | Found a hole to the Spider Nest.
+ 13523 | Lair:5   | Noticed Josephine
+ 13762 | Lair:5   | Killed Josephine
+ 13839 | Lair:5   | Received a gift from Okawaru
+ 13901 | Lair:5   | Got an ichor-stained chain mail
+ 13903 | Lair:5   | Identified the cursed +1 chain mail of the Country {rPois
+                  | rF- rC+++ Str-3} (You found it on level 5 of the Lair of
+                  | Beasts)
+ 14037 | Lair:5   | Noticed Thalamas's ghost (journeyman MiBe)
+ 14106 | Lair:5   | Reached skill level 10 in Fighting
+ 14353 | Lair:5   | Found a runed gate.
+ 14353 | Lair:5   | Found a runed gate.
+ 14353 | Lair:5   | Found a runed gate.
+ 14438 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 14890 | Lair:6   | Gained mutation: Your large and strong wings let you fly
+                  | indefinitely. [Gargoyle growth]
+ 14890 | Lair:6   | Reached XP level 14. HP: 51/88 MP: 24/24
+ 15073 | Lair:6   | Found a staircase to the Slime Pits.
+ 15197 | Lair:6   | Reached skill level 13 in Shields
+ 15297 | Lair:6   | Found a runed door.
+ 16726 | Lair:6   | Received a gift from Okawaru
+ 17194 | D:5      | Bought the ring "Nungaif" {*Corrode rPois rF+++ Slay+5} for
+                  | 1006 gold pieces
+ 17335 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 17401 | Orc:1    | Noticed Nergalle
+ 17510 | Orc:1    | Killed Nergalle
+ 17572 | Orc:1    | Found a roughly hewn altar of Beogh.
+ 17644 | Orc:1    | Paralysed by an orc sorcerer for 6 turns
+ 18085 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 18085 | Orc:2    | Found a staircase to the Elven Halls.
+ 18235 | Orc:2    | Found Nungam's Weapon Shop.
+ 18345 | Orc:2    | Found Xifufue's Weapon Boutique.
+ 18369 | Orc:2    | Found Hitubb's Weapon Boutique.
+ 18398 | Orc:2    | Found Raehen's Gadget Shoppe.
+ 18560 | Orc:2    | Received a gift from Okawaru
+ 18616 | Orc:2    | Found Qiodarr's Jewellery Shoppe.
+ 18616 | Orc:2    | Found Xarih's Distillery.
+ 18616 | Orc:2    | Found Keurun's Gadget Emporium.
+ 18646 | Orc:2    | Reached skill level 14 in Shields
+ 18688 | Orc:2    | Found Silar's Weapon Boutique.
+ 18726 | Orc:2    | Reached XP level 15. HP: 28/96 MP: 26/26
+ 18734 | Orc:2    | HP: 4/96 [orc warrior/morningstar[an orc knight] (8)]
+ 19452 | Spider:1 | Entered Level 1 of the Spider Nest
+ 21272 | Spider:1 | Received a gift from Okawaru
+ 21984 | Spider:2 | Received a gift from Okawaru
+ 22307 | Spider:2 | You are sucked into a shaft!
+ 22337 | Spider:3 | Noticed an emperor scorpion
+ 22363 | Spider:3 | Killed an emperor scorpion
+ 22413 | Spider:3 | HP: 2/97 [wolf spider (4)]
+ 22415 | Spider:3 | Slain by a wolf spider
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 |
+---------------+----------------------------------------------+-----
+Shields        |        4     5     6  7  8  9 11 12    14    | 14.7
+Maces & Flails |              3  4  5  6  8  9 10 11 12       | 12.0
+Armour         |              4        5  6  7  8  9 11 12 13 | 13.3
+Fighting       |                 4     5     6  7  9 10 11 12 | 12.8
+Dodging        |                 1     2     3              4 |  4.3
+Invocations    |                    1  3  5  6  8  9 10 12 13 | 13.1
+Stealth        |                                              |  0.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Flail             |   137 |   162 |    55 |       |       ||   354
+       Whip              |       |       |   311 |   956 |  1833 ||  3100
+Invok: Heroism           |       |       |       |     4 |     2 ||     6
+       Finesse           |       |       |       |     1 |       ||     1
+ Abil: Fly               |       |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |       |       |     5 ||     5
+  Use: Scroll            |     5 |     4 |     6 |     3 |    11 ||    29
+       Potion            |     2 |       |     8 |     3 |     4 ||    17
+ Stab: Petrified         |       |       |       |       |     1 ||     1
+  Eat: Chunk             |     1 |     4 |     8 |    15 |    18 ||    46
+       Ration            |       |       |     1 |     2 |     5 ||     8
+Armor: Scale mail        |    42 |       |       |       |       ||    42
+       Chain mail        |    50 |   201 |   186 |   108 |   770 ||  1315
+       Plate armour      |       |       |       |   325 |    57 ||   382
+Dodge: Dodged            |    41 |    61 |    84 |   219 |   498 ||   903
+Block: Shield            |    79 |   124 |   174 |   549 |  1027 ||  1953
+
