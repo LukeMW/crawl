@@ -1,192 +1,397 @@
- Dungeon Crawl Stone Soup version 0.22.0 (tiles) character file.
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
 
-Oddysee the Covered (Gargoyle Fighter)              Turns: 1665, Time: 00:04:31
+Oddysee the Blocker (Gargoyle Fighter)              Turns: 9612, Time: 00:23:14
 
-Health: 33/33      AC: 13    Str: 20    XL:     5   Next: 2%
-Magic:  5/5        EV:  7    Int:  8    God:    
-Gold:   22         SH:  9    Dex: 10    Spells: 4/4 levels left
+Health: 67/67      AC: 28    Str: 29    XL:     11   Next: 71%
+Magic:  18/18      EV:  8    Int:  6    God:    Okawaru [*****.]
+Gold:   458        SH: 13    Dex: 13    Spells: 10/10 levels left
 
-rFire    + . .     SeeInvis .   a - +1 flail
+rFire    . . .     SeeInvis .   o - +2 whip (elec)
 rCold    . . .     Gourm    .   c - +0 shield
-rNeg     + . .     Faith    .   b - +0 scale mail
+rNeg     + . .     Faith    .   I - +0 plate armour
 rPois    8         Spirit   .   (no helmet)
-rElec    +         Reflect  .   (no cloak)
-rCorr    .         Harm     .   (no gloves)
-MR       .....                  g - +0 pair of boots
+rElec    +         Reflect  .   b - +1 cloak
+rCorr    .         Harm     .   m - +0 pair of gloves (curse)
+MR       .....                  v - +0 pair of boots
 Stlth    ..........             (no amulet)
-HPRegen  0.11/turn              (no ring)
-MPRegen  0.09/turn              (no ring)
+HPRegen  0.21/turn              n - +3 ring of dexterity
+MPRegen  0.16/turn              D - +6 ring of strength
 
 @: no status effects
-A: fire resistance 1, high mp 1, negative energy resistance 1, sense
-surroundings 1, shaggy fur 1, electricity resistance, unbreathing, petrification
-resistance, rot immunity, MP-powered wands, AC +4
-a: no special abilities
+A: slimy green scales 1, dopey 1, high mp 1, negative energy resistance 1,
+electricity resistance, unbreathing, petrification resistance, rot immunity, AC
++8
+a: Heroism, Finesse, Renounce Religion
 
 
-You are on level 2 of the Dungeon.
-You are hungry.
+You are on level 1 of the Lair of Beasts.
+You worship Okawaru.
+Okawaru is extremely pleased with you.
+You are full.
 
-You have visited 1 branch of the dungeon, and seen 2 of its levels.
+You have visited 3 branches of the dungeon, and seen 12 of its levels.
+You have also visited: Ossuary.
 
-You have collected 22 gold pieces.
+You have collected 702 gold pieces.
+You have spent 244 gold pieces at shops.
 
 Inventory:
 
 Hand Weapons
- a - a +1 flail (weapon)
+ a - a battleaxe
+ i - a glowing broad axe
+ o - a +2 whip of electrocution (weapon)
+ J - a war axe of flaming
+ K - a broad axe
+ N - a +4 eveningstar
 Armour
- b - a +0 scale mail (worn)
+ b - a +1 cloak (worn)
  c - a +0 shield (worn)
- g - a +0 pair of boots (worn)
+ l - a +1 cloak
+ m - a cursed +0 pair of gloves (worn)
+ v - a +0 pair of boots (worn)
+ I - a +0 plate armour (worn)
+Jewellery
+ n - a +3 ring of dexterity (left hand)
+ z - a +2 ring of protection
+ B - an uncursed ring of flight
+ D - a +6 ring of strength (right hand)
+Wands
+ h - a wand of acid (9)
+ j - a wand of random effects (53)
+ s - a wand of polymorph (16)
+ t - a wand of digging (14)
+ x - a wand of enslavement (14)
+ L - a wand of disintegration (8)
+Scrolls
+ e - 4 scrolls of identify
+ g - 5 scrolls of blinking
+ k - 2 scrolls of enchant weapon
+ p - 11 scrolls of teleportation
+ w - a scroll of amnesia
+ y - 5 scrolls of remove curse
+ A - 3 scrolls of enchant armour
+ C - 2 scrolls of magic mapping
+ E - 3 scrolls of fear
+ F - a scroll of fog
 Potions
- d - a potion of might
- e - a potion of curing
+ d - 2 potions of might
+ q - a potion of cancellation
+ r - 10 potions of curing
+ u - 2 potions of mutation
+ H - a potion of resistance
+ O - 3 potions of haste
 Comestibles
- f - 5 rations
+ f - 23 rations
 
 
    Skills:
- + Level 4.1 Fighting
- + Level 2.9 Maces & Flails
- + Level 4.2 Armour
- + Level 4.1 Shields
+ + Level 7.0 Fighting
+ + Level 10.1 Maces & Flails
+ + Level 8.1 Armour
+ + Level 3.3 Dodging
+ + Level 0.4 Stealth
+ + Level 10.8 Shields
+ * Level 7.8 Invocations
 
 
-You have 4 spell levels left.
+You have 10 spell levels left.
 You don't know any spells.
-Your spell library is empty.
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          100%        1    ##.....
+ Apportation              Tloc           #.....       100%        1    ##.....
+ Beastly Appendage        Tmut           #.....       100%        1    ##.....
+ Confusing Touch          Hex            #.....       100%        1    ##.....
+ Summon Small Mammal      Summ           #...         100%        1    ##.....
+ Sticks to Snakes         Tmut           #.......     100%        2    ###....
+ Spider Form              Tmut/Pois      #.........   100%        3    ####...
+ Ice Form                 Ice/Tmut       #.......     100%        4    #####..
+ Blade Hands              Tmut           #.........   100%        5    ######.
+
 
 Dungeon Overview and Level Annotations
 
 Branches:
-Dungeon (2/15)            
+Dungeon (10/15)            Temple (1/1) D:5            Lair (1/6) D:10
+    Orc (0/2) D:9         
 
 Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
 Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
 Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 (=   D:6 *(
+
+Portals:
+Trove: D:10 (give 13 potions of heal wounds)
+
+Annotations:
+D:8 2 transporters, Oddysee's ghost, novice GrFi
 
 
 Innate Abilities, Weirdness & Mutations
 
 You are resistant to torment.
-Your stone body is resilient. (AC +4)
+Your stone body is resilient. (AC +8)
 You are immune to poison.
 You resist negative energy. (rN+)
 You are resistant to electric shocks. (rElec)
 You can survive without breathing.
 You are immune to petrification.
 You are immune to rotting.
-Your flesh is heat resistant. (rF+)
+You are partially covered in slimy green scales. (AC +2)
+You are dopey. (Int -2)
 You have an increased reservoir of magic. (+10% MP)
-You passively map a small area around you.
-You are covered in fur. (AC +1)
-You expend magic power (3 MP) to strengthen your wands.
 
 
 Message History
 
-10 stones; a hobgoblin skeleton
-You see here a stone.
-There is a stone staircase leading up here.
-Things that are here:
-a club; a hobgoblin skeleton
-You see here a leather armour.
-Done exploring.
-Done exploring.
-Done exploring.
-Done exploring.
-Okay, then.
-As you read the scroll labeled CASUCILYAREN, it crumbles to dust.
-You feel blessed for a moment. It was a scroll of remove curse.
-As you read the scroll labeled APLOIPNIRA, it crumbles to dust.
-You feel strangely unstable. It was a scroll of teleportation.
-Done exploring.
-You start waiting.
-Your surroundings suddenly seem different.
-Unknown command.
+Found a scale mail.
+You are near starving!
+You see here 20 sling bullets.
+You see here a sack of spiders.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+You eat one of the 25 rations. That ration really hit the spot!
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+You eat one of the 24 rations. That ration really hit the spot!
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
+Partly explored, can't reach some places.
 Save game and exit? 
 
-     #.#      ##.####.###..##
-     #.#      #....>.....>.##
-     #.##     #.######.##.###
- #####..#     #.#    #.##.# #
- #......#     #.#    #.##.###
- #.._...#     #.#    #.##.#..
-##..8..##     #.#  ###.##..(.
-#..._..#      #.#  #........#
-#......#      #.#  #.......÷#
-#.####.#     ##.####........#
-#......#######..............#
-######........@#####.........
-     ###.#######   #.......#.
-       #.#         #.......#.
-       #.#         ####.##.#.
-       #.#            #.##.#.
-       #.#            #.##.#.
-       #.#            #.##.#[
-     ###.####         #.##.#.
-     #......###   #####.##.#.
-     #.#......### #........#.
-     #.#.?......###.####.....
+          ##
+         ##˜˜˜
+         #˜˜˜˜
+        ##˜˜˜#
+##    ###˜˜˜#
+.## ###˜˜˜˜˜###
+.˜###˜˜˜˜˜˜˜˜˜################
+.#˜˜˜˜˜˜˜˜˜˜˜˜.@..............
+.#.˜˜˜˜˜˜˜˜˜˜................^
+.#..˜.˜˜˜˜˜...................
+........˜.....................
+..#.#}##..###.###..##.....####
+....#.##### #.........####.#
+.##.#..#    #.##.P...##  ###
+###.#.##    #####..###
+......#         ##.#
+###.###         ##.#
+#...#           #..#
 
 
 There are no monsters in sight!
 
 Vanquished Creatures
-  5 adders (D:2)
-  An adder zombie (D:1)
-  2 worms (D:2)
+  A hydra (Lair:1)
+  3 death yaks (D:9)
+  A two-headed ogre (D:10)
+  Urug (D:10)
+  Psyche (D:8)
+  Joseph (D:7)
+  A tengu conjurer (D:10)
+  A hornet (D:8)
+  4 hippogriffs
+  2 wyverns
+  2 water moccasins (Lair:1)
+  A soldier ant (D:7)
+  2 porcupines
+  4 orc warriors
+  2 ice beasts
+  A sky beast (D:9)
+  A phantom (D:9)
+  A necrophage (D:6)
+  6 centaurs
+  3 ogres
+  A big kobold (D:9)
+  7 bullfrogs
+  14 scorpions
+  4 killer bees (D:9)
+  4 howler monkeys
+  2 jellies (D:3)
+  2 crimson imps (D:8)
+  A quasit (D:10)
+  2 centaur zombies
+  4 hounds
+  A bullfrog zombie (D:5)
+  3 centaur skeletons
+  3 human zombies (Ossuary)
+  8 orc priests
+  2 bullfrog skeletons
+  3 iguanas
+  A hell rat (D:9)
+  4 orc wizards
+  5 worker ants
+  A big kobold zombie (Ossuary)
+  2 hound zombies
+  A hound skeleton (D:9)
+  3 mummies (Ossuary)
+  3 worker ant zombies
+  3 scorpion zombies (Ossuary)
+  12 adders
+  3 river rats
+  2 shadow imps
+  8 oozes
+  3 worms
   2 dart slugs
-  2 ball pythons
-  2 giant cockroaches
-  7 hobgoblins
-  4 jackals (D:2)
-  A quokka (D:2)
-  A ball python zombie (D:1)
+  5 leopard geckos
+  42 orcs
   6 bats
-  5 frilled lizards
-  4 goblins
-  12 kobolds
-  9 rats
-63 creatures vanquished.
+  6 giant cockroaches
+  A gnoll zombie (Ossuary)
+  2 goblins
+  3 hobgoblins
+  10 jackals
+  15 kobolds
+  6 quokkas
+  2 ball pythons
+  3 frilled lizards
+  A giant cockroach zombie (D:5)
+  A goblin zombie (Ossuary)
+  2 hobgoblin zombies (Ossuary)
+  2 kobold zombies (Ossuary)
+  An orc zombie (Ossuary)
+  A quokka skeleton (D:6)
+  8 rats
+270 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 fungi (D:3)
+  7 toadstools (D:3)
+9 creatures vanquished.
+
+Grand Total: 279 creatures vanquished
 
 Notes
 Turn   | Place    | Note
 -------+----------+-------------------------------------------
      0 | D:1      | Oddysee the Gargoyle Fighter began the quest for the Orb.
      0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
-    96 | D:1      | Reached XP level 2. HP: 15/19 MP: 2/2
-   330 | D:1      | Reached XP level 3. HP: 23/23 MP: 3/3
-   839 | D:1      | Gained mutation: You have an increased reservoir of magic. (+10% MP) [potion of mutation]
-   839 | D:1      | Gained mutation: You expend magic power (3 MP) to strengthen your wands. [potion of mutation]
-   839 | D:1      | Gained mutation: Scrolls take you a little longer to read. [potion of mutation]
-   839 | D:1      | Gained mutation: You are agile. (Dex +2) [potion of mutation]
-   938 | D:2      | Reached XP level 4. HP: 29/29 MP: 4/4
-  1030 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
-  1031 | D:2      | Found a radiant altar of Vehumet.
-  1053 | D:2      | Lost mutation: You are agile. (Dex +2) [potion of mutation]
-  1053 | D:2      | Lost mutation: Scrolls take you a little longer to read. [potion of mutation]
-  1053 | D:2      | Gained mutation: You are covered in fur. (AC +1) [potion of mutation]
-  1053 | D:2      | Gained mutation: You passively map a small area around you. [potion of mutation]
-  1053 | D:2      | Gained mutation: Your flesh is heat resistant. (rF+) [potion of mutation]
-  1296 | D:2      | Reached XP level 5. HP: 32/33 MP: 5/5
-  1522 | D:2      | Found a faded altar of an unknown god.
+    58 | D:1      | Reached XP level 2. HP: 19/19 MP: 2/2
+   287 | D:1      | Reached XP level 3. HP: 24/24 MP: 3/3
+   609 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
+   609 | D:2      | Found a sacrificial altar of Ru.
+   610 | D:2      | Found a hazy altar of Hepliaklqana.
+   610 | D:2      | Found an ornate altar of the Wu Jian Council.
+  1043 | D:2      | Found a blossoming altar of Fedhas.
+  1282 | D:3      | Reached XP level 4. HP: 29/29 MP: 4/4
+  1537 | D:3      | Reached XP level 5. HP: 31/33 MP: 5/5
+  2146 | D:3      | Found a deep blue altar of Sif Muna.
+  2391 | D:3      | Reached skill level 5 in Shields
+  2452 | D:4      | Reached XP level 6. HP: 34/38 MP: 6/6
+  2476 | D:4      | Reached skill level 1 in Dodging
+  2563 | D:4      | Reached XP level 7. HP: 35/43 MP: 7/7
+  2874 | D:4      | Gained mutation: You have an increased reservoir of magic.
+                  | (+10% MP) [potion of mutation]
+  2874 | D:4      | Gained mutation: You are dopey. (Int -2) [potion of
+                  | mutation]
+  2874 | D:4      | Gained mutation: You are partially covered in slimy green
+                  | scales. (AC +2) [potion of mutation]
+  2898 | D:5      | Entered Level 5 of the Dungeon
+  2956 | D:5      | Found Nugg's Weapon Boutique.
+  2968 | D:5      | Bought a +2 whip of electrocution for 218 gold pieces
+  2979 | D:5      | Found Sabruamu's Jewellery Boutique.
+  2987 | D:5      | Bought a cursed amulet of inaccuracy for 26 gold pieces
+  3046 | D:5      | Reached skill level 5 in Maces & Flails
+  3332 | D:5      | Found a staircase to the Ecumenical Temple.
+  3341 | Temple   | Entered the Ecumenical Temple
+  3506 | Temple   | Became a worshipper of Warmaster Okawaru
+  3846 | D:6      | Reached skill level 1 in Invocations
+  3846 | D:6      | Reached XP level 8. HP: 48/48 MP: 9/9
+  3887 | D:6      | Reached skill level 5 in Armour
+  4120 | D:6      | Found a sand-covered staircase.
+  4128 | Ossuary  | Entered an ossuary
+  4138 | Ossuary  | Reached * piety under Okawaru
+  4289 | Ossuary  | Reached skill level 5 in Fighting
+  4289 | Ossuary  | Reached XP level 9. HP: 50/54 MP: 12/12
+  4403 | Ossuary  | Reached ** piety under Okawaru
+  4534 | D:6      | Found Quss's General Store.
+  4576 | D:6      | Found Xevinefo's Weapon Emporium.
+  5290 | D:7      | Noticed Joseph
+  5311 | D:7      | Killed Joseph
+  5545 | D:8      | Noticed Psyche
+  5551 | D:8      | Killed Psyche
+  5570 | D:8      | Found a transporter.
+  5570 | D:8      | Noticed Oddysee's ghost (novice GrFi)
+  5584 | D:8      | Reached *** piety under Okawaru
+  5595 | D:8      | Found a transporter.
+  5613 | D:8      | Reached skill level 5 in Invocations
+  5624 | D:8      | Reached XP level 10. HP: 52/60 MP: 15/15
+  6434 | D:9      | Reached **** piety under Okawaru
+  6460 | D:9      | Found a staircase to the Orcish Mines.
+  7253 | D:10     | Entered Level 10 of the Dungeon
+  7253 | D:10     | Found a staircase to the Lair.
+  7253 | D:10     | Noticed a death yak
+  7253 | D:10     | Noticed a death yak
+  7253 | D:10     | Noticed a death yak
+  7271 | D:9      | Killed a death yak
+  7354 | D:9      | Killed a death yak
+  7354 | D:9      | Reached XP level 11. HP: 33/66 MP: 17/17
+  7528 | D:9      | Killed a death yak
+  7528 | D:9      | Reached ***** piety under Okawaru
+  7528 | D:9      | Reached skill level 10 in Shields
+  7742 | D:10     | Found a portal to a secret trove of treasure.
+  8456 | D:10     | Noticed Urug
+  8476 | D:10     | Killed Urug
+  8542 | D:10     | Noticed a two-headed ogre
+  8555 | D:10     | Killed a two-headed ogre
+  8725 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  8949 | Lair:1   | Reached skill level 10 in Maces & Flails
+  9094 | Lair:1   | Noticed a six-headed hydra
+  9116 | Lair:1   | Killed a six-headed hydra
 
-Skill      XL: |  1  2  3  4 |
----------------+-------------+-----
-Armour         |        4    |  4.2
-Shields        |           4 |  4.1
-Fighting       |           4 |  4.1
-Maces & Flails |             |  2.9
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Shields        |        4     5     6  7  8  9 10 | 10.8
+Maces & Flails |              3  4  5  6  8  9 10 | 10.1
+Armour         |              4        5  6  7  8 |  8.1
+Fighting       |                 4     5     6  7 |  7.0
+Dodging        |                 1     2     3    |  3.3
+Invocations    |                    1  3  5  6  7 |  7.8
+Stealth        |                                  |  0.4
 
-Action                   |  1- 3 |  4- 6 || total
--------------------------+-------+-------++-------
-Melee: Flail             |   139 |    96 ||   235
-  Use: Potion            |     4 |     1 ||     5
-       Scroll            |     1 |     2 ||     3
-  Eat: Chunk             |       |     2 ||     2
-Armor: Scale mail        |    92 |    60 ||   152
-Dodge: Dodged            |    48 |    35 ||    83
-Block: Shield            |    73 |    62 ||   135
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Flail             |   137 |   162 |    55 |       ||   354
+       Whip              |       |       |   311 |   581 ||   892
+Invok: Heroism           |       |       |       |     2 ||     2
+       Finesse           |       |       |       |     1 ||     1
+  Use: Scroll            |     5 |     4 |     6 |     2 ||    17
+       Potion            |     2 |       |     8 |     3 ||    13
+  Eat: Chunk             |     1 |     4 |     8 |    11 ||    24
+       Ration            |       |       |     1 |     2 ||     3
+Armor: Scale mail        |    42 |       |       |       ||    42
+       Chain mail        |    50 |   201 |   186 |   108 ||   545
+       Plate armour      |       |       |       |   137 ||   137
+Dodge: Dodged            |    41 |    61 |    84 |   134 ||   320
+Block: Shield            |    79 |   124 |   174 |   325 ||   702
 
