@@ -1,0 +1,233 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+916 Oddysee the Shield-Bearer (level 8, -11/51 HPs)
+             Began as a Gargoyle Fighter on Sept 30, 2018.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (14 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:08:53 (4729 turns).
+
+Oddysee the Shield-Bearer (Gargoyle Fighter)        Turns: 4729, Time: 00:08:53
+
+Health: -11/51     AC: 19    Str: 21      XL:     8   Next: 9%
+Magic:  8/8        EV:  6    Int:  8 (9)  God:    
+Gold:   255        SH: 10    Dex: 10      Spells: 7/7 levels left
+
+rFire    . . .     SeeInvis .   a - +1 flail
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     + . .     Faith    .   j - +0 chain mail
+rPois    8         Spirit   .   m - +0 helmet
+rElec    +         Reflect  .   g - +1 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             l - amulet of regeneration
+HPRegen  0.57/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: no status effects
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +5
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You were near starving.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 255 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 flail (weapon)
+ h - a +0 battleaxe
+Armour
+ b - a +0 scale mail
+ c - a +0 shield (worn)
+ g - a +1 cloak (worn)
+ j - a +0 chain mail (worn)
+ m - a +0 helmet (worn)
+Jewellery
+ l - an amulet of regeneration (around neck)
+ n - an uncursed amulet of the gourmand
+Wands
+ d - a wand of flame (27)
+Scrolls
+ e - 2 scrolls of enchant weapon
+ k - 7 scrolls of identify
+ o - 2 scrolls of remove curse
+ r - a scroll of magic mapping
+Potions
+ i - 2 potions of haste
+Comestibles
+ f - 6 rations
+
+
+   Skills:
+ + Level 5.8 Fighting
+ + Level 4.8 Maces & Flails
+ + Level 5.9 Armour
+ + Level 5.9 Shields
+
+
+You had 7 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Cheibriados
+Gozag
+Hepliaklqana
+Nemelex Xobeh
+Yredelemnul
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +5)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+Beogh smites you!
+* * * LOW HITPOINT WARNING * * *
+As you read the scroll labeled SEZYFO VYCE, it crumbles to dust.
+Your brain hurts! It was a scroll of random uselessness.
+The orc warrior hits you but does no damage.
+You block the orc's attack. The orc priest barely misses you.
+As you read the scroll labeled MUOHET MAAVIXT, it crumbles to dust.
+You feel aware of your surroundings. It was a scroll of magic mapping. You
+The orc warrior barely misses you.
+As you read the scroll labeled JYADORCH ATONN, it crumbles to dust.
+You hear a loud clanging noise!
+It was a scroll of noise.
+You hear a shout! x2
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+* * * LOW HITPOINT WARNING * * *
+The orc hits you but does no damage.
+The orc priest mumbles some strange prayers to Beogh against you.
+Beogh smites you!
+You die...
+
+,,****,,,,*,,,**,,*>,,,,,*,,,,
+###..#,,,,*,,,,,,,+,,,,,,*,,,,
+..+..#,,,,*,,,**,,*,,,,,,*,,,,
+..#..#,,,,*,,,**,,*,,,,,,*,,,,
+..#..#,...*,,,*,,,*,...,,*,,,,
+.##..#,...######,,*....,,*,,,,
+.##..#,........##+#.....,*,,,,
+.....+,...........%.....,*,,**
+.....#,.................,*****
+.....#,.................,+,,,,
+.....#,......oo.........,*,,,,
+######,.....oo.@...!....,**+**
+#### **##+##+##.....###***,,**
+...#   #......#.....#   *,,,,,
+...#   #......#.....#   *,,,,,
+...#   #......'.....#   *,,,,,
+#########..##.#.....#** **,,*,
+#..##.###..##.##......#  *****
+............#..#......#
+............#..#......#
+################......#
+               *#######
+
+
+You could see an orc warrior, an orc priest and 2 orcs.
+
+Vanquished Creatures
+  Grinder (D:3)
+  Sigmund (D:2)
+  3 ogres (D:4)
+  2 orc priests (D:3)
+  An iguana (D:4)
+  Jessica (D:2)
+  2 worker ants
+  A gnoll (D:2)
+  6 adders
+  3 oozes
+  An adder skeleton (D:4)
+  3 worms
+  2 dart slugs
+  5 leopard geckos
+  3 orcs (D:3)
+  6 giant cockroaches
+  9 hobgoblins
+  2 quokkas
+  10 bats
+  4 frilled lizards
+  6 goblins
+  2 kobolds
+  6 rats
+80 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Gargoyle Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+   309 | D:1      | Reached XP level 2. HP: 18/19 MP: 2/2
+   584 | D:1      | Reached XP level 3. HP: 21/23 MP: 3/3
+   786 | D:2      | Noticed Jessica
+   801 | D:2      | Killed Jessica
+   801 | D:2      | Reached XP level 4. HP: 9/29 MP: 4/4
+  1348 | D:2      | Found a snail-covered altar of Cheibriados.
+  1404 | D:2      | Reached XP level 5. HP: 33/33 MP: 5/5
+  1622 | D:2      | Noticed Sigmund
+  1647 | D:2      | Killed Sigmund
+  1647 | D:2      | Reached XP level 6. HP: 9/39 MP: 6/6
+  1989 | D:2      | Found a hazy altar of Hepliaklqana.
+  2556 | D:3      | Noticed Grinder
+  2557 | D:3      | Paralysed by Grinder for 7 turns
+  2571 | D:3      | Paralysed by Grinder for 5 turns
+  2596 | D:3      | Paralysed by Grinder for 2 turns
+  2604 | D:3      | Paralysed by Grinder for 5 turns
+  2615 | D:3      | Paralysed by Grinder for 4 turns
+  2623 | D:3      | Paralysed by Grinder for 4 turns
+  2628 | D:3      | Killed Grinder
+  2628 | D:3      | Reached skill level 5 in Fighting
+  2628 | D:3      | Reached skill level 5 in Armour
+  2628 | D:3      | Reached skill level 5 in Shields
+  2628 | D:3      | Reached XP level 7. HP: 21/44 MP: 7/7
+  3579 | D:4      | Found an opulent altar of Gozag.
+  3739 | D:4      | Reached XP level 8. HP: 45/51 MP: 8/8
+  4565 | D:5      | Entered Level 5 of the Dungeon
+  4582 | D:5      | Found a basalt altar of Yredelemnul.
+  4601 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  4728 | D:5      | HP: 2/51 [orc priest/divine providence (14)]
+  4729 | D:5      | Killed from afar by an orc priest
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Fighting       |           4     5 |  5.8
+Armour         |           4     5 |  5.9
+Shields        |           4     5 |  5.9
+Maces & Flails |           3     4 |  4.8
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Flail             |   109 |   220 |    98 ||   427
+  Use: Scroll            |     3 |     3 |     5 ||    11
+       Potion            |     1 |     2 |     4 ||     7
+  Eat: Chunk             |       |     6 |     5 ||    11
+Armor: Scale mail        |     7 |       |       ||     7
+       Chain mail        |    78 |   140 |    48 ||   266
+Dodge: Dodged            |    34 |    50 |    19 ||   103
+Block: Shield            |    68 |   112 |    34 ||   214
+

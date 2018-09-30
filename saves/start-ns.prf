@@ -1,6 +1,6 @@
 type = normal
 name = Oddysee
-species = Minotaur
+species = Gargoyle
 background = Fighter
-weapon = war axe
+weapon = flail
 fully_random = no
