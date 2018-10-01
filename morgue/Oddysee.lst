@@ -146,11 +146,11 @@ Level 4 of the Dungeon
   a robe
 
 Level 5 of the Dungeon
-[Shop] Juvich's Book Boutique
+[Shop] Jusoach's Book Boutique
   a book of Necromancy (330 gold)
   a book of Transfigurations (unknown) (605 gold)
   a book of Callings (unknown) (330 gold)
-  a book of Conjurations (unknown) (330 gold)
+  a book of Conjurations (330 gold)
   a book of Debilitation (unknown) (440 gold)
   a book of Geomancy (unknown) (385 gold)
   a book of Cantrips (unknown) (220 gold)
@@ -169,8 +169,8 @@ Level 5 of the Dungeon
      b - Conjure Flame                Conjuration/Fire              3
      c - Iskenderun's Mystic Blast    Conjuration                   4
      d - Venom Bolt                   Conjuration/Poison            5
-  a book of Conjurations (unknown) (330 gold)
-[Shop] Axig Zaid's Antique Armour Emporium
+  a book of Conjurations (330 gold)
+[Shop] Axat Zeov's Antique Armour Emporium
   a chain mail (76 gold)
   a robe (11 gold)
   a chain mail (76 gold)
@@ -181,7 +181,7 @@ Level 5 of the Dungeon
   spiked fire dragon scales (1105 gold)
   a glowing leather armour (85 gold)
   a leather armour (34 gold)
-[Shop] Hetanyny's Book Shop
+[Shop] Hetarono's Book Shop
   a book of Debilitation (unknown) (480 gold)
   a book of Maledictions (unknown) (300 gold)
   a book of Beasts (unknown) (660 gold)
@@ -198,7 +198,7 @@ Level 5 of the Dungeon
      e - Iron Shot                    Conjuration/Earth             6
   a book of the Earth (unknown) (780 gold)
   a book of Clouds (unknown) (540 gold)
-[Shop] Sixurooxay's Antique Armour Shop
+[Shop] Siruluocaf's Antique Armour Shop
   a chain mail (121 gold)
   a cloak (121 gold)
   a plate armour (621 gold)
@@ -208,7 +208,7 @@ Level 5 of the Dungeon
   a shiny ring mail (189 gold)
   a pair of embroidered gloves (202 gold)
   a chain mail (121 gold)
-[Shop] Xero Vuwku's Antique Weapon Shoppe
+[Shop] Xeru Vuwki's Antique Weapon Shoppe
   a falchion (69 gold)
   a dagger (46 gold)
   a rapier (92 gold)
@@ -393,9 +393,6 @@ Level 8 of the Dungeon
   a spear
 
 Level 9 of the Dungeon
-(0, 0, D:9)
-  a killer bee corpse
-  a killer bee corpse
 (0, 35, D:9)
   14 arrows
 (5, 3, D:9)
@@ -435,5 +432,210 @@ Level 9 of the Dungeon
 (50, 14, D:9)
   a ring mail
 
+Level 10 of the Dungeon
+[Shop] Qagoit's Jewellery Boutique
+  the amulet of Ypripoerph {Inacc Int+6} (241 gold)
+    [amulet of inaccuracy]
+    
+    It reduces the accuracy of all your attacks.
+    It affects your intelligence (+6).
+  an uncursed amulet of faith (unknown) (600 gold)
+  an uncursed ring of fire (unknown) (375 gold)
+  an uncursed ring of fire (unknown) (375 gold)
+  a +3 ring of evasion (unknown) (315 gold)
+  an uncursed amulet of guardian spirit (unknown) (450 gold)
+  an uncursed ring of fire (unknown) (375 gold)
+  a +5 ring of intelligence (unknown) (618 gold)
+  an uncursed ring of fire (unknown) (375 gold)
+  an uncursed ring of poison resistance (unknown) (300 gold)
+  an uncursed ring of resist corrosion (unknown) (300 gold)
+(0, 0, D:10)
+  a giant club
+(0, 12, D:10)
+  a large rock
+(0, 13, D:10)
+  a large rock
+(1, 15, D:10)
+  a large rock
+(2, 16, D:10)
+  a large rock
+(14, -24, D:10)
+  a scale mail
+(18, -21, D:10)
+  a dagger
+(34, 12, D:10)
+  a trident
+  a chain mail
+(37, -13, D:10)
+  20 sling bullets
+(46, 17, D:10)
+  a thick jewelled staff
+
+Level 11 of the Dungeon
+[Shop] Beixu's Jewellery Boutique
+  an uncursed ring of resist corrosion (unknown) (300 gold)
+  an uncursed amulet of harm (450 gold)
+  a +3 ring of intelligence (unknown) (235 gold)
+  the amulet "Soineupec" {Spirit Fragile rF+ rN+ Str+5} (796 gold)
+    [amulet of guardian spirit]
+    
+    It causes incoming damage to be split between your health and magic.
+    It affects your strength (+5).
+    It protects you from fire.
+    It protects you from negative energy.
+    It will be destroyed if unequipped.
+  an uncursed ring of ice (375 gold)
+  an uncursed amulet of the acrobat (unknown) (450 gold)
+  the ring of the Mage {Wiz MR++ Int+3} (775 gold)
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    It affects your intelligence (+3).
+    It affects your resistance to hostile enchantments.
+  an uncursed ring of wizardry (unknown) (450 gold)
+  an uncursed ring of magical power (unknown) (300 gold)
+  the amulet of the Four Winds {rN+ MR+++ Clar} (658 gold)
+    [amulet of nothing]
+    
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+    It protects you against confusion.
+  the amulet "Avverim" {Acrobat rPois rF+ rC+} (828 gold)
+    [amulet of the acrobat]
+    
+    It helps you evade while moving and waiting.
+    It protects you from fire.
+    It protects you from cold.
+    It protects you from poison.
+(0, 0, D:11)
+  a halberd
+(2, 12, D:11)
+  an uncursed dagger of venom
+  an uncursed blowgun
+(4, 37, D:11)
+  an uncursed shortbow
+  19 arrows
+(4, 39, D:11)
+  2 arrows
+(5, 10, D:11)
+  a flail
+(5, 37, D:11)
+  a flail
+(14, 1, D:11)
+  a curare-tipped needle
+(15, 1, D:11)
+  a curare-tipped needle
+(16, 1, D:11)
+  a curare-tipped needle
+(16, 2, D:11)
+  a curare-tipped needle
+(25, 39, D:11)
+  a large rock
+(26, 38, D:11)
+  4 large rocks
+(27, 10, D:11)
+  a scale mail
+(29, 42, D:11)
+  a flail
+
 the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a runed falchion
+(13, -9, Lair:1)
+  a giant club
+(16, -2, Lair:1)
+  a war axe
+(21, -12, Lair:1)
+  14 poisoned needles
+(22, -12, Lair:1)
+  18 stones
+(33, -27, Lair:1)
+  18 bolts
+(46, -16, Lair:1)
+  20 stones
+(46, -15, Lair:1)
+  19 stones
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a trident
+(1, 0, Lair:2)
+  16 gold pieces
+(14, 1, Lair:2)
+  a +0 chain mail
+  a +0 scale mail
+(24, 8, Lair:2)
+  a halberd
+(24, 10, Lair:2)
+  a war axe
+(25, 9, Lair:2)
+  a robe
+(25, 10, Lair:2)
+  a flail
+  a robe
+(26, 10, Lair:2)
+  a long sword
+(31, 3, Lair:2)
+  15 bolts
+(32, -12, Lair:2)
+  25 sling bullets
+(32, 29, Lair:2)
+  a short sword
+(38, 30, Lair:2)
+  17 stones
+(41, 25, Lair:2)
+  a potion of degeneration
+(46, 4, Lair:2)
+  a ration
+(47, 1, Lair:2)
+  a wand of polymorph (2)
+  (unseen)
+(47, 2, Lair:2)
+  a scroll of enchant armour
+(47, 3, Lair:2)
+  27 bolts
+(50, 3, Lair:2)
+  21 gold pieces
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  20 arrows
+(4, -36, Lair:3)
+  an uncursed amulet of harm
+(6, -10, Lair:3)
+  an arrow
+(8, -6, Lair:3)
+  a shortbow
+  19 arrows
+(8, -3, Lair:3)
+  an uncursed shortbow
+  18 arrows
+(9, -5, Lair:3)
+  11 arrows
+(9, -4, Lair:3)
+  an uncursed shortbow
+  an uncursed shortbow
+  23 arrows
+(10, -6, Lair:3)
+  an arrow
+(10, -4, Lair:3)
+  2 arrows
+(11, -7, Lair:3)
+  an arrow
+(17, -43, Lair:3)
+  a club
+(17, -40, Lair:3)
+  17 stones
+(21, -27, Lair:3)
+  a plate armour
+(29, 7, Lair:3)
+  19 gold pieces
+(29, 8, Lair:3)
+  23 gold pieces
+(31, 8, Lair:3)
+  12 gold pieces
+(32, 7, Lair:3)
+  a scroll labeled WIENEBLUBLE
 
