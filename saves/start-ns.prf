@@ -1,6 +1,6 @@
 type = normal
-name = Oddysee
-species = Gargoyle
-background = Fighter
-weapon = flail
+name = Zelec
+species = Draconian
+background = Berserker
+weapon = falchion
 fully_random = no
