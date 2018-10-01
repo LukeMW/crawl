@@ -69,20 +69,14 @@ Level 2 of the Dungeon
 Level 3 of the Dungeon
 (0, 0, D:3)
   11 arrows
-(6, 3, D:3)
-  a giant cockroach corpse
 (13, -17, D:3)
   20 arrows
 (13, 0, D:3)
-  a club
   a dagger
-  a goblin corpse (skeletalised by now)
+  a club
 (14, 0, D:3)
   a sling bullet
   a dagger
-  a hobgoblin corpse (skeletalised by now)
-  a goblin corpse (skeletalised by now)
-  a kobold corpse (skeletalised by now)
 (14, 1, D:3)
   a sling bullet
 (14, 15, D:3)
@@ -90,19 +84,17 @@ Level 3 of the Dungeon
 (15, 19, D:3)
   a mace
 (16, -2, D:3)
-  an uncursed dagger
-  an uncursed hunting sling
   8 sling bullets
-  a goblin corpse (skeletalised by now)
+  an uncursed hunting sling
+  an uncursed dagger
 (16, 11, D:3)
+  a +0 troll leather armour {Purgy}
   a club
   an animal skin
-  a helmet
   a club
-  a +0 troll leather armour {Purgy}
 (16, 12, D:3)
-  a dagger
   a club
+  a dagger
 (16, 13, D:3)
   a dagger of venom
 (17, 11, D:3)
@@ -113,26 +105,14 @@ Level 3 of the Dungeon
   19 stones
 (25, 9, D:3)
   21 arrows
-(31, -3, D:3)
-  a jackal skeleton
-(33, -17, D:3)
-  a quokka skeleton
 (34, -4, D:3)
   a robe
 (35, 19, D:3)
   a quarterstaff
 (37, -4, D:3)
   a club
-  an orc corpse (skeletalised by now)
-(37, -3, D:3)
-  a quokka skeleton
-  a rat corpse (skeletalised by now)
-(39, 15, D:3)
-  an adder corpse
 (43, -13, D:3)
   a club
-(43, -12, D:3)
-  an adder corpse
 (44, -18, D:3)
   15 stones
 (56, 18, D:3)
@@ -141,4 +121,319 @@ Level 3 of the Dungeon
   a club
 (63, 14, D:3)
   2 potions of degeneration
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a falchion
+(1, 44, D:4)
+  a hand axe
+(5, -2, D:4)
+  a robe
+(12, 46, D:4)
+  a leather armour
+(23, 18, D:4)
+  a hand axe
+  a ring mail
+  a whip
+  a leather armour
+  a dagger
+  a robe
+(25, -6, D:4)
+  2 tomahawks
+(26, 27, D:4)
+  a flail
+(55, 7, D:4)
+  a robe
+
+Level 5 of the Dungeon
+[Shop] Juvich's Book Boutique
+  a book of Necromancy (330 gold)
+  a book of Transfigurations (unknown) (605 gold)
+  a book of Callings (unknown) (330 gold)
+  a book of Conjurations (unknown) (330 gold)
+  a book of Debilitation (unknown) (440 gold)
+  a book of Geomancy (unknown) (385 gold)
+  a book of Cantrips (unknown) (220 gold)
+  a book of Necromancy (330 gold)
+  a book of the Sky (unknown) (715 gold)
+  the Volume of Freezing Intoxication (724 gold)
+    Spells                           Type                      Level
+     a - Freeze                       Ice                           1
+     b - Ensorcelled Hibernation      Hexes/Ice                     2
+     c - Olgreb's Toxic Radiance      Poison                        4
+     d - Bolt of Cold                 Conjuration/Ice               6
+     e - Ozocubu's Refrigeration      Ice                           6
+  the Volume of Vitriolic Battle Magic (480 gold)
+    Spells                           Type                      Level
+     a - Static Discharge             Conjuration/Air               3
+     b - Conjure Flame                Conjuration/Fire              3
+     c - Iskenderun's Mystic Blast    Conjuration                   4
+     d - Venom Bolt                   Conjuration/Poison            5
+  a book of Conjurations (unknown) (330 gold)
+[Shop] Axig Zaid's Antique Armour Emporium
+  a chain mail (76 gold)
+  a robe (11 gold)
+  a chain mail (76 gold)
+  a leather armour (34 gold)
+  a shimmering chain mail (161 gold)
+  a naga barding (391 gold)
+  a robe (11 gold)
+  spiked fire dragon scales (1105 gold)
+  a glowing leather armour (85 gold)
+  a leather armour (34 gold)
+[Shop] Hetanyny's Book Shop
+  a book of Debilitation (unknown) (480 gold)
+  a book of Maledictions (unknown) (300 gold)
+  a book of Beasts (unknown) (660 gold)
+  a Necronomicon (unknown) (1324 gold)
+  a Young Poisoner's Handbook (unknown) (480 gold)
+  a book of Enchantments (unknown) (600 gold)
+  a book of Battle (unknown) (480 gold)
+  the Collected Works on the Mountains and Flight (780 gold)
+    Spells                           Type                      Level
+     a - Shock                        Conjuration/Air               1
+     b - Sandblast                    Earth                         1
+     c - Conjure Ball Lightning       Conjuration/Air               6
+     d - Freezing Cloud               Conjuration/Ice/Air           6
+     e - Iron Shot                    Conjuration/Earth             6
+  a book of the Earth (unknown) (780 gold)
+  a book of Clouds (unknown) (540 gold)
+[Shop] Sixurooxay's Antique Armour Shop
+  a chain mail (121 gold)
+  a cloak (121 gold)
+  a plate armour (621 gold)
+  a glowing chain mail (202 gold)
+  a leather armour (54 gold)
+  a robe (18 gold)
+  a shiny ring mail (189 gold)
+  a pair of embroidered gloves (202 gold)
+  a chain mail (121 gold)
+[Shop] Xero Vuwku's Antique Weapon Shoppe
+  a falchion (69 gold)
+  a dagger (46 gold)
+  a rapier (92 gold)
+  a whip (57 gold)
+  a dagger (46 gold)
+  a dagger (46 gold)
+  a runed mace (138 gold)
+(0, 0, D:5)
+  the -3 pair of boots "Qaxoilof" {rN+ Str-3 Dex+8}
+    It affects your strength (-3).
+    It affects your dexterity (+8).
+    It protects you from negative energy.
+  an uncursed ring of ice
+(3, 4, D:5)
+  a hunting sling
+(5, 12, D:5)
+  a robe
+(5, 19, D:5)
+  20 bolts
+(5, 24, D:5)
+  a chain mail
+(9, 3, D:5)
+  a tomahawk
+(9, 4, D:5)
+  a mace
+  a whip
+  a tomahawk
+  a leather armour
+(9, 7, D:5)
+  a tomahawk
+(10, 2, D:5)
+  a mace
+(10, 48, D:5)
+  a spear
+(11, 2, D:5)
+  a giant spiked club
+(15, 7, D:5)
+  22 arrows
+(20, 18, D:5)
+  25 arrows
+(20, 19, D:5)
+  a shiny buckler
+(20, 20, D:5)
+  a scroll of immolation
+(20, 21, D:5)
+  16 gold pieces
+(20, 22, D:5)
+  a scroll of enchant armour
+(27, 2, D:5)
+  an uncursed shortbow
+  27 arrows
+(29, 2, D:5)
+  an arrow
+(30, 2, D:5)
+  an arrow
+(31, 2, D:5)
+  an arrow
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a chain mail
+(1, 1, D:6)
+  27 stones
+(15, 39, D:6)
+  a dagger
+  a robe
+(16, 39, D:6)
+  a leather armour
+(17, 38, D:6)
+  a whip
+  a leather armour
+(17, 39, D:6)
+  a flail
+(36, -2, D:6)
+  a robe
+(39, 45, D:6)
+  a ring mail
+(46, -4, D:6)
+  a short sword
+  a leather armour
+(50, 24, D:6)
+  a dagger
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  an arrow
+(0, 1, D:7)
+  2 arrows
+(0, 3, D:7)
+  2 arrows
+(0, 4, D:7)
+  an arrow
+(0, 6, D:7)
+  an uncursed shortbow
+  8 arrows
+(8, 29, D:7)
+  a potion of degeneration
+(10, 10, D:7)
+  a spear
+(16, 9, D:7)
+  a scale mail
+  a trident
+(17, 10, D:7)
+  a club
+  a whip
+  a flail
+  a club
+(18, 9, D:7)
+  a spear
+(27, -10, D:7)
+  a chain mail
+(27, 25, D:7)
+  a dagger
+  a short sword
+  a scale mail
+  a dagger
+  a robe
+  a flail
+(30, -7, D:7)
+  a hand axe
+  an animal skin
+(35, 20, D:7)
+  a cursed +0 chain mail
+  13 arrows
+(39, -1, D:7)
+  a giant club
+(49, 13, D:7)
+  14 arrows
+  an uncursed shortbow
+(51, 11, D:7)
+  a dagger
+  a cloak
+(51, 14, D:7)
+  an arrow
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a ring mail
+(5, 5, D:8)
+  a scroll of noise
+(6, 17, D:8)
+  19 stones
+(12, 6, D:8)
+  2 large rocks
+(16, -2, D:8)
+  a spear
+(17, 2, D:8)
+  a scimitar
+  a throwing net
+  a scale mail
+(19, 26, D:8)
+  16 bolts
+(22, -9, D:8)
+  a scale mail
+(24, 10, D:8)
+  a hand axe
+(28, -22, D:8)
+  a whip
+(30, 3, D:8)
+  a quarterstaff
+  a hunting sling
+  29 sling bullets
+  a glowing leather armour
+(34, -20, D:8)
+  a potion of degeneration
+(34, -15, D:8)
+  an uncursed shortbow
+  11 arrows
+(34, -13, D:8)
+  2 arrows
+(34, 16, D:8)
+  2 stones
+(38, 1, D:8)
+  an uncursed shortbow
+  16 arrows
+(39, 2, D:8)
+  6 arrows
+(39, 3, D:8)
+  a dagger of chaos
+  a glowing robe
+(54, 13, D:8)
+  a spear
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a killer bee corpse
+  a killer bee corpse
+(0, 35, D:9)
+  14 arrows
+(5, 3, D:9)
+  a giant club
+(6, 29, D:9)
+  a scale mail
+(8, 23, D:9)
+  10 stones
+(9, 26, D:9)
+  12 stones
+(14, 35, D:9)
+  a flail
+  a leather armour
+  a dagger
+  a ring mail
+(15, 36, D:9)
+  a short sword
+  a scale mail
+  a club
+(20, -6, D:9)
+  an uncursed blowgun
+  2 poisoned needles
+(21, -7, D:9)
+  a dagger
+(22, -7, D:9)
+  a poisoned needle
+(26, 34, D:9)
+  15 sling bullets
+(26, 37, D:9)
+  a spear
+(27, -5, D:9)
+  a shield
+(28, 23, D:9)
+  a shortbow
+(30, 26, D:9)
+  a leather armour
+(50, 14, D:9)
+  a ring mail
+
+the Ecumenical Temple
 
