@@ -30,10 +30,115 @@ Level 1 of the Dungeon
   a club
 (35, 14, D:1)
   a dagger
-  a goblin skeleton
 (44, 27, D:1)
   a short sword
-  a kobold corpse
 (45, 23, D:1)
   a stone
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a club
+(0, 1, D:2)
+  a dagger of draining
+  19 stones
+(4, -21, D:2)
+  a club
+(8, -8, D:2)
+  a dagger
+(9, -13, D:2)
+  20 stones
+(17, -13, D:2)
+  a pair of gloves
+(23, -2, D:2)
+  a dagger
+(28, -29, D:2)
+  a robe
+(31, -21, D:2)
+  a scale mail
+(36, -28, D:2)
+  a whip
+(39, -17, D:2)
+  18 arrows
+(39, -4, D:2)
+  a short sword
+(43, -30, D:2)
+  a dagger
+(50, -31, D:2)
+  a stone
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  11 arrows
+(6, 3, D:3)
+  a giant cockroach corpse
+(13, -17, D:3)
+  20 arrows
+(13, 0, D:3)
+  a club
+  a dagger
+  a goblin corpse (skeletalised by now)
+(14, 0, D:3)
+  a sling bullet
+  a dagger
+  a hobgoblin corpse (skeletalised by now)
+  a goblin corpse (skeletalised by now)
+  a kobold corpse (skeletalised by now)
+(14, 1, D:3)
+  a sling bullet
+(14, 15, D:3)
+  a spear
+(15, 19, D:3)
+  a mace
+(16, -2, D:3)
+  an uncursed dagger
+  an uncursed hunting sling
+  8 sling bullets
+  a goblin corpse (skeletalised by now)
+(16, 11, D:3)
+  a club
+  an animal skin
+  a helmet
+  a club
+  a +0 troll leather armour {Purgy}
+(16, 12, D:3)
+  a dagger
+  a club
+(16, 13, D:3)
+  a dagger of venom
+(17, 11, D:3)
+  a club
+(21, -11, D:3)
+  a leather armour
+(23, 4, D:3)
+  19 stones
+(25, 9, D:3)
+  21 arrows
+(31, -3, D:3)
+  a jackal skeleton
+(33, -17, D:3)
+  a quokka skeleton
+(34, -4, D:3)
+  a robe
+(35, 19, D:3)
+  a quarterstaff
+(37, -4, D:3)
+  a club
+  an orc corpse (skeletalised by now)
+(37, -3, D:3)
+  a quokka skeleton
+  a rat corpse (skeletalised by now)
+(39, 15, D:3)
+  an adder corpse
+(43, -13, D:3)
+  a club
+(43, -12, D:3)
+  an adder corpse
+(44, -18, D:3)
+  15 stones
+(56, 18, D:3)
+  10 bolts
+(62, 12, D:3)
+  a club
+(63, 14, D:3)
+  2 potions of degeneration
 
