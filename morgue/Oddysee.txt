@@ -1,6 +1,6 @@
  Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
 
-Oddysee the Covered (Deep Dwarf Fighter)             Turns: 563, Time: 00:01:28
+Oddysee the Covered (Deep Dwarf Fighter)             Turns: 573, Time: 00:01:39
 
 Health: 34/34      AC:  6    Str: 20    XL:     3   Next: 5%
 Magic:  3/3        EV: 12    Int:  8    God:    
@@ -72,15 +72,6 @@ You do not regenerate.
 
 Message History
 
-Done exploring.
-Done exploring.
-Done exploring.
-As you read the scroll labeled GUAPLI COSI, it crumbles to dust.
-You feel momentarily disoriented. It was a scroll of magic mapping.
-As you read the scroll labeled VOUSKU TUTI, it crumbles to dust.
-The scroll dissolves into smoke. It was a scroll of fog.
-As you read the scroll labeled WAZURGH OCLA, it crumbles to dust.
-You assume a fearsome visage. Nothing appears to happen. It was a scroll of
 It was a potion of curing. You feel better.
 It was a potion of agility.
 You feel agile all of a sudden.
@@ -92,29 +83,35 @@ Welcome back, Oddysee the Deep Dwarf Fighter.
 Press ? for a list of commands and other information.
 Unknown command.
 Save game and exit? 
+Welcome back, Oddysee the Deep Dwarf Fighter.
+Press ? for a list of commands and other information.
+Done exploring.
+Done exploring.
+Done exploring.
+Saving game... please wait.
+Welcome back, Oddysee the Deep Dwarf Fighter.
+Press ? for a list of commands and other information.
+Save game and exit? 
 
-..##....).....#
-..##.########.#
-..##.#      #.#
-.....#      #.#
-..####      #.#
-..#         #.#
-.(###       #.#
-....##      #.#
-..)..########.##
-.............§§#
-.....########§§#####
-....##      #§§@§§.#
-.....#      ##§###.#
-..##.#       #§# #.#
-..##.####    #.# #.#
-........#    #.# #.#
-.###.##.#   ##.# #.#
-####.##.#   #..###.####
-.....##.#   #.#)......#
-###..##.#   #.#.#####.#
-  #..##.### #.#.#   #.######
-  #.......# #.#.#   #......#
+####
+...#
+##.##
+....#
+##..#############
+ #..##....).....#
+ #..##.########.#
+ #..##.#      #.#
+ #.....#      #@#
+ #..####      #.#
+ #..#         #.#
+ #.(###       #.#
+ #....##      #.#
+ #..)..########Â§##
+##.............Â§Â§#
+#......########Â§Â§#####
+#)....##      #Â§Â§Â§Â§Â§.#
+#......#      ##Â§###.#
+#...##.#       #Â§# #.#
 
 
 There are no monsters in sight!
