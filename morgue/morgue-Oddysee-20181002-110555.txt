@@ -1,0 +1,619 @@
+ Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
+
+152974 Oddysee the Champion of Chaos (level 17, 0/164 HPs)
+             Began as a Deep Dwarf Fighter on Oct 1, 2018.
+             Was the Champion of Makhleb.
+             Succumbed to a naga mage's poison arrow
+             ... on level 4 of the Snake Pit on Oct 2, 2018.
+             The game lasted 01:11:03 (19971 turns).
+
+Oddysee the Champion of Chaos (Deep Dwarf Fighter) Turns: 19971, Time: 01:11:03
+
+Health: 0/164      AC: 30    Str: 21    XL:     17   Next: 3%
+Magic:  0/0        EV:  5    Int: 11    God:    Makhleb [******]
+Gold:   492        SH:  0    Dex: 14    Spells: 16/16 levels left
+
+rFire    + + .     SeeInvis +   c - +0 battleaxe (freeze)
+rCold    + + +     Gourm    .   (shield currently unavailable)
+rNeg     + . .     Faith    .   H - +0 plate armour
+rPois    +         Spirit   .   T - +2 helmet {SInv}
+rElec    .         Reflect  .   v - scarf {rC+ rF+}
+rCorr    .         Harm     .   U - +2 pair of gloves {archery}
+MR       +++..                  m - +2 pair of boots
+Stlth    ..........             i - amulet "Avverim" {Acrobat rPois rF+ rC+}
+HPRegen  0.00/turn              j - ring of protection from magic
+MPRegen  0.07/turn              o - ring of protection from cold
+
+@: lethally poisoned (0 -> -35), non-regenerating, constricted
+A: damage resistance, heal wounds, iridescent scales 1, negative energy
+resistance 1, sense surroundings 2, weak 1, MP-powered wands, no regeneration
+a: Heal Wounds, Minor Destruction, Lesser Servant of Makhleb, Major Destruction,
+Greater Servant of Makhleb, Renounce Religion
+
+
+You were on level 4 of the Snake Pit.
+You worshipped Makhleb.
+Makhleb was exalted by your worship.
+You were not hungry.
+
+You visited 5 branches of the dungeon, and saw 24 of its levels.
+
+You collected 1965 gold pieces.
+You spent 1473 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 war axe of electrocution
+ b - a +0 broad axe
+ c - a +0 battleaxe of freezing (weapon)
+ p - a +2 battleaxe of electrocution
+ t - a +2 whip of freezing
+ D - a +2 trident of pain
+Armour
+ h - a +0 large shield
+ m - a +2 pair of boots (worn)
+ v - a scarf of resistance (worn)
+ z - a +1 cloak
+ H - a +0 plate armour (worn)
+ T - a +2 helmet of see invisible (worn)
+ U - a +2 pair of gloves of archery (worn)
+Jewellery
+ i - the amulet "Avverim" (around neck) {Acrobat rPois rF+ rC+}
+   (You bought it in a shop on level 11 of the Dungeon)   
+   
+   [amulet of the acrobat]
+   
+   It helps you evade while moving and waiting.
+   It protects you from fire.
+   It protects you from cold.
+   It protects you from poison.
+ j - a ring of protection from magic (left hand)
+ o - a ring of protection from cold (right hand)
+ s - a +4 ring of protection
+ R - an uncursed ring of positive energy
+Wands
+ k - a wand of scattershot (7)
+ l - a wand of iceblast (7)
+ w - a wand of enslavement (6)
+ C - a wand of acid (14)
+ E - a wand of polymorph (24)
+ F - a wand of disintegration (30)
+ L - a wand of flame (7)
+ M - a wand of random effects (10)
+ N - a wand of clouds (6)
+ Q - a wand of paralysis (27)
+ V - a wand of digging (10)
+Scrolls
+ e - 8 scrolls of enchant armour
+ n - 8 scrolls of fog
+ q - 2 scrolls of fear
+ x - 2 scrolls of enchant weapon
+ y - 8 scrolls of teleportation
+ A - 13 scrolls of identify
+ B - 5 scrolls of amnesia
+ G - 8 scrolls of remove curse
+ P - a scroll of blinking
+Potions
+ d - 3 potions of might
+ g - a potion of heal wounds
+ r - 3 potions of agility
+ u - 2 potions of resistance
+ I - a potion of cancellation
+ J - 3 potions of ambrosia
+ K - a potion of brilliance
+ O - a potion of haste
+ S - a potion of invisibility
+Comestibles
+ f - 45 rations
+
+
+   Skills:
+ + Level 13.3 Fighting
+ + Level 15.3 Axes
+ + Level 15.5 Armour
+ + Level 2.2 Dodging
+ - Level 15.3 Shields
+ + Level 15.9 Invocations
+
+
+You had 16 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          98%         1    ##.....
+ Beastly Appendage        Tmut           #.....       98%         1    ##.....
+ Flame Tongue             Conj/Fire      #....        98%         1    ##.....
+ Magic Dart               Conj           #...         98%         1    ##.....
+ Pain                     Necr           #...         98%         1    ##.....
+ Blink                    Tloc           N/A          99%         2    ###....
+ Call Imp                 Summ           #.......     99%         2    ###....
+ Corpse Rot               Necr           N/A          99%         2    ###....
+ Searing Ray              Conj           #.....       99%         2    ###....
+ Slow                     Hex            #.......     99%         2    ###....
+ Sticks to Snakes         Tmut           #.......     99%         2    ###....
+ Throw Flame              Conj/Fire      #.....       99%         2    ###....
+ Conjure Flame            Conj/Fire      #.......     100%        3    ####...
+ Dazzling Spray           Conj/Hex       #.....       100%        3    ####...
+ Inner Flame              Hex/Fire       #.......     100%        3    ####...
+ Mephitic Cloud           Conj/Pois/Air  #.......     100%        3    ####...
+ Spider Form              Tmut/Pois      #.........   100%        3    ####...
+ Stone Arrow              Conj/Erth      #.....       100%        3    ####...
+ Vampiric Draining        Necr           #.........   100%        3    ####...
+ Animate Dead             Necr           N/A          100%        4    #####..
+ Force Lance              Conj/Tloc      #.......     100%        4    #####..
+ Fulminant Prism          Conj/Hex       #.........   100%        4    #####..
+ Ice Form                 Ice/Tmut       #.......     100%        4    #####..
+ Iskenderun's Mystic Bla  Conj           #.......     100%        4    #####..
+ Leda's Liquefaction      Hex/Erth       #.........   100%        4    #####..
+ Sticky Flame             Conj/Fire      #.......     100%        4    #####..
+ Blade Hands              Tmut           #.........   100%        5    ######.
+ Fireball                 Conj/Fire      #.........   100%        5    ######.
+ Summon Forest            Summ/Tloc      #.........   100%        5    ######.
+ Hydra Form               Tmut           #.........   100%        6    #######
+ Summon Hydra             Summ           #.........   100%        7    #######
+ Regeneration             Chrm/Necr      Unusable     N/A         3    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:7            Lair (6/6) D:11
+ Shoals (0/4) Lair:3        Snake (4/4) Lair:2        Slime (0/5) Lair:5
+    Orc (2/2) D:11            Elf (0/3) Orc:2       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+Jiyva
+
+Shops:
+D:5 ([::[   D:10 =   D:11 =   Orc:1 (   Orc:2 :%:![
+
+Portals:
+Pandemonium: Orc:2
+
+Annotations:
+Lair:2 3 runed doors, exclusion: 2 oklob plants, Junaliek's ghost, journeyman MiFi
+Lair:3 exclusion: 3 oklob plants
+Snake:2 1 runed door, Elinuc's ghost, adept DEWz
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You resist negative energy. (rN+)
+You passively map the area around you.
+You do not regenerate.
+You are partially covered in iridescent scales. (AC +2)
+You are weak. (Str -2)
+You expend magic power (3 MP) to strengthen your wands.
+
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The naga mage casts a spell.
+The naga mage seems to speed up.
+You closely miss the naga mage.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The naga mage barely misses you.
+The naga mage spits poison at you.
+The splash of poison hits you! You resist. The naga mage closely misses you.
+The naga mage constricts you. The naga mage barely misses you.
+You hit the naga mage but do no damage.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The naga mage hits you with a halberd.
+* * * LOW HITPOINT WARNING * * *
+The naga mage constricts you. The naga mage closely misses you.
+You slash the naga mage! You freeze the naga mage.
+The naga mage is moderately wounded.
+You die...
+
+##......#.............#
+#.......#....#.....#..#   ,
+#.......#............. *   ,
+#........#..#.......     , ,
+......#..##....⌠...###.      *
+..........#.........#..   , ,
+........#....#........# ,  ,
+...............#.......   ,, *
+..#................#...      *
+..##...................     ,*
+..##................... ,*  ,
+..##..(....#.N)@N...... ,   ,*
+..##........())).......   ,
+..##....((((()))....... * ,
+...###......)[......... *
+.... ###...............  ,
+.....  ####...........#    ,
+  ,   , * ##...φ....#.#
+ ,,      * .######.#.#.
+ ,,       .#      ###..  ,
+         ..    , ,   ..,  *
+    *         ,, ,,
+
+
+You could see 2 naga magi.
+
+Vanquished Creatures
+  Vashnia (Snake:4)
+  6 nagarajas
+  Louise (Snake:3)
+  A stone giant (Orc:1)
+  Harold (D:8)
+  20 naga warriors
+  20 anacondas
+  5 hydras
+  A catoblepas (Lair:5)
+  4 two-headed ogres (Orc:1)
+  A death yak (Lair:5)
+  An ogre mage (Orc:1)
+  13 naga sharpshooters
+  Nergalle (Lair:4)
+  Sonja (D:11)
+  3 orc high priests (Orc:2)
+  A soul eater (Orc:2)
+  2 shock serpents
+  3 salamander mystics
+  A gelid demonspawn (Orc:2)
+  10 naga ritualists
+  2 torturous demonspawn (Orc:2)
+  Pikel (D:6)
+  3 orc knights (Orc:2)
+  3 cyclopes
+  10 orc sorcerers (Orc:2)
+  An ugly thing (D:11)
+  9 mana vipers
+  11 salamanders
+  4 guardian serpents
+  Maurice (D:7)
+  20 naga magi
+  7 elephants
+  29 black mambas
+  A torpor snail (Lair:5)
+  Joseph (D:8)
+  Psyche (D:8)
+  A gargoyle (D:11)
+  7 spiny frogs
+  3 rime drakes
+  A hellwing (Orc:2)
+  7 komodo dragons
+  4 polar bears
+  2 trolls (Orc:1)
+  An ice devil (Orc:2)
+  3 meliai (Lair:4)
+  A queen bee (Lair:4)
+  Prince Ribbit (Lair:2)
+  17 blink frogs
+  8 hippogriffs
+  A shadow (D:11)
+  5 wyverns
+  45 yaks
+  A human (D:7)
+  2 basilisks
+  3 hogs (D:7)
+  A chaos spawn (Orc:2)
+  5 wargs
+  52 nagas
+  10 water moccasins
+  10 porcupines
+  24 orc warriors
+  A black bear (D:11)
+  A sky beast (D:10)
+  Purgy (D:3)
+  9 ice beasts
+  A phantom (D:5)
+  An eye of draining (D:11)
+  9 ogres
+  10 centaurs
+  10 wolves
+  12 crocodiles
+  14 bullfrogs
+  A gnoll sergeant (D:7)
+  A water moccasin zombie (D:8)
+  2 wyvern skeletons
+  4 scorpions
+  23 killer bees
+  4 howler monkeys
+  4 crimson imps
+  5 hounds
+  3 bullfrog skeletons
+  6 jellies
+  18 orc wizards
+  17 orc priests
+  6 iguanas
+  10 worker ants
+  A bullfrog simulacrum (D:8)
+  A centaur simulacrum (D:8)
+  A hound zombie (D:5)
+  2 hound skeletons
+  Robin (D:3)
+  5 gnolls (D:7)
+  16 adders
+  2 shadow imps
+  A white imp (D:8)
+  2 howler monkey simulacra (D:8)
+  An ufetubus (D:7)
+  2 oozes
+  An adder zombie (D:7)
+  2 adder skeletons
+  4 worms
+  A dart slug (D:2)
+  5 leopard geckos
+  51 orcs
+  3 ball pythons
+  4 giant cockroaches
+  18 goblins
+  9 hobgoblins
+  15 jackals
+  8 quokkas
+  6 bats
+  4 frilled lizards
+  9 kobolds
+  A quokka skeleton (D:8)
+  9 rats
+  5 plants
+779 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  3 nagarajas (Snake:4)
+  3 dire elephants (Lair:6)
+  A naga warrior (Snake:2)
+  3 naga sharpshooters
+  2 shock serpents
+  A salamander mystic (Snake:3)
+  A sun demon (Orc:2)
+  An orc knight (Orc:2)
+  A centaur zombie (D:11)
+  3 black mambas (Snake:2)
+  A naga mage (Snake:4)
+  An orange demon (Orc:2)
+  2 nagas (Snake:3)
+  6 orc warriors (Orc:2)
+  An ogre (Orc:2)
+  A black bear (D:11)
+  2 orc priests (Orc:2)
+  An orc wizard (Orc:2)
+  6 orcs (Orc:2)
+  A plant (Lair:6)
+41 creatures vanquished.
+
+Vanquished Creatures (others)
+  A naga warrior (Snake:4)
+  2 naga magi (Snake:4)
+  An orc priest (Orc:2)
+  An adder (D:6)
+  A goblin (Orc:1)
+  6 fungi
+  6 plants
+18 creatures vanquished.
+
+Grand Total: 838 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oddysee the Deep Dwarf Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 20/20 MP: 1/1
+    74 | D:1      | Reached XP level 2. HP: 22/27 MP: 2/2
+   450 | D:1      | Reached XP level 3. HP: 27/34 MP: 3/3
+   607 | D:2      | Found an opulent altar of Gozag.
+   738 | D:2      | Found a snail-covered altar of Cheibriados.
+  1185 | D:2      | Reached XP level 4. HP: 27/42 MP: 4/4
+  1345 | D:3      | Found a faded altar of an unknown god.
+  1370 | D:3      | Noticed Purgy
+  1381 | D:3      | Noticed Robin
+  1384 | D:3      | Killed Purgy
+  1384 | D:3      | Reached XP level 5. HP: 26/49 MP: 5/5
+  1391 | D:3      | Killed Robin
+  1585 | D:3      | Found an iron altar of Okawaru.
+  1833 | D:3      | Gained mutation: You are weak. (Str -2) [potion of
+                  | mutation]
+  1833 | D:3      | Gained mutation: You are partially covered in iridescent
+                  | scales. (AC +2) [potion of mutation]
+  1833 | D:3      | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+  1833 | D:3      | Gained mutation: You passively map the area around you.
+                  | [potion of mutation]
+  1963 | D:4      | Reached XP level 6. HP: 40/57 MP: 6/6
+  2742 | D:4      | Reached skill level 5 in Armour
+  2742 | D:4      | Reached skill level 5 in Shields
+  2895 | D:5      | Entered Level 5 of the Dungeon
+  2949 | D:5      | Found Juvich's Book Boutique.
+  2973 | D:5      | Found Axig Zaid's Antique Armour Emporium.
+  2983 | D:5      | Bought a pair of crude boots for 161 gold pieces
+  2995 | D:5      | Identified the cursed -3 pair of boots "Qaxoilof" {rN+
+                  | Str-3 Dex+8} (You bought it in a shop on level 5 of the
+                  | Dungeon)
+  3001 | D:5      | Found Hetanyny's Book Shop.
+  3048 | D:5      | Found Sixurooxay's Antique Armour Shop.
+  3079 | D:5      | Reached XP level 7. HP: 33/66 MP: 7/7
+  3231 | D:5      | Found Xero Vuwku's Antique Weapon Shoppe.
+  3275 | D:5      | Reached skill level 5 in Axes
+  3502 | D:6      | Reached skill level 5 in Fighting
+  3502 | D:6      | Reached XP level 8. HP: 44/74 MP: 8/8
+  3568 | D:6      | Noticed Pikel
+  3613 | D:6      | Killed Pikel
+  4384 | D:7      | Mutation became permanent: You passively map a small area
+                  | around you. [Deep Dwarf growth]
+  4384 | D:7      | Gained mutation: You passively map the area around you.
+                  | [Deep Dwarf growth]
+  4384 | D:7      | Reached XP level 9. HP: 42/82 MP: 8/8
+  4816 | D:7      | Found a staircase to the Ecumenical Temple.
+  4852 | Temple   | Entered the Ecumenical Temple
+  4885 | Temple   | Became a worshipper of Makhleb the Destroyer
+  5244 | D:7      | Found a radiant altar of Vehumet.
+  5244 | D:7      | Found a white marble altar of Elyvilon.
+  5396 | D:8      | Reached skill level 1 in Invocations
+  5396 | D:8      | Noticed Maurice
+  5446 | D:7      | Killed Maurice
+  5532 | D:8      | Noticed a polar bear
+  5533 | D:8      | Noticed Psyche
+  5533 | D:8      | Noticed a polar bear
+  5555 | D:8      | Noticed a polar bear
+  5570 | D:8      | Reached XP level 10. HP: 56/94 MP: 10/10
+  5585 | D:8      | Killed Psyche
+  5665 | D:8      | Noticed Joseph
+  5670 | D:8      | Reached * piety under Makhleb
+  5688 | D:8      | Killed Joseph
+  5838 | D:8      | Noticed Harold
+  5862 | D:8      | Killed Harold
+  5862 | D:8      | Reached skill level 5 in Invocations
+  5904 | D:8      | Found a glowing silver altar of Zin.
+  6519 | D:9      | Reached XP level 11. HP: 80/103 MP: 12/12
+  6693 | D:9      | Reached ** piety under Makhleb
+  6772 | D:9      | Found a shimmering altar of Xom.
+  7127 | D:10     | Entered Level 10 of the Dungeon
+  7383 | D:10     | Reached skill level 10 in Armour
+  7438 | D:10     | Reached skill level 10 in Shields
+  7683 | D:10     | Found Qagoit's Jewellery Boutique.
+  7830 | D:11     | Found a staircase to the Orcish Mines.
+  7848 | D:11     | Reached *** piety under Makhleb
+  7911 | D:11     | Found Beixu's Jewellery Boutique.
+  7925 | D:11     | Noticed a white ugly thing
+  7948 | D:11     | Reached skill level 10 in Axes
+  7966 | D:11     | Killed a white ugly thing
+  8047 | D:11     | Found a staircase to the Lair.
+  8094 | D:11     | Noticed Sonja
+  8174 | D:11     | Killed Sonja
+  8521 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  8694 | Lair:1   | Reached XP level 12. HP: 110/114 MP: 11/11
+  8747 | Lair:1   | Noticed a five-headed hydra
+  8764 | Lair:1   | Killed a five-headed hydra
+  9312 | Lair:2   | Noticed a five-headed hydra
+  9328 | Lair:2   | Killed a five-headed hydra
+  9367 | Lair:2   | Reached **** piety under Makhleb
+  9407 | Lair:2   | Found a staircase to the Snake Pit.
+  9462 | Lair:2   | Noticed Prince Ribbit
+  9498 | Lair:2   | Killed Prince Ribbit
+  9539 | Lair:2   | Found a runed gate.
+  9540 | Lair:2   | Found a runed gate.
+  9544 | Lair:2   | Found a runed gate.
+  9544 | Lair:2   | Noticed Junaliek's ghost (journeyman MiFi)
+  9589 | Lair:2   | Found a white marble altar of Elyvilon.
+ 10380 | Lair:3   | Reached skill level 10 in Invocations
+ 10450 | Lair:3   | Found a staircase to the Shoals.
+ 10568 | Lair:3   | Reached skill level 10 in Fighting
+ 10983 | Lair:4   | Reached XP level 13. HP: 123/123 MP: 13/13
+ 10983 | Lair:4   | Reached ***** piety under Makhleb
+ 11500 | Lair:4   | Noticed Nergalle
+ 11527 | Lair:4   | Killed Nergalle
+ 11930 | Lair:5   | Found a viscous altar of Jiyva.
+ 11932 | Lair:5   | Found a staircase to the Slime Pits.
+ 11972 | Lair:5   | Found a snail-covered altar of Cheibriados.
+ 12480 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 13281 | Lair:6   | Noticed a dire elephant
+ 13281 | Lair:6   | Noticed a dire elephant
+ 13283 | Lair:6   | Noticed a dire elephant
+ 13307 | Lair:6   | HP: 4/124 [dire elephant (5)]
+ 13310 | Lair:6   | Killed a dire elephant
+ 13311 | Lair:6   | Killed a dire elephant
+ 13312 | Lair:6   | Killed a dire elephant
+ 13481 | Lair:6   | Gained mutation: You resist negative energy. (rN+) [Deep
+                  | Dwarf growth]
+ 13481 | Lair:6   | Reached XP level 14. HP: 133/133 MP: 14/14
+ 13669 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 13669 | Orc:1    | Found Peproc's Weapon Emporium.
+ 13726 | Orc:1    | Found a runed door.
+ 13771 | Orc:1    | Found a roughly hewn altar of Beogh.
+ 13896 | Orc:1    | Noticed a stone giant
+ 13925 | Orc:1    | Killed a stone giant
+ 13945 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 13985 | Orc:2    | Found a staircase to the Elven Halls.
+ 14289 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 14311 | Orc:2    | Found Mitoju Ewuph's Book Boutique.
+ 14665 | Orc:2    | Found Emoeru's Food Emporium.
+ 14695 | Orc:2    | Found Bouxesk's Distillery.
+ 14734 | Orc:2    | Reached ****** piety under Makhleb
+ 14790 | Orc:2    | Bought a potion of heal wounds for 50 gold pieces
+ 15033 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 15231 | Orc:2    | Found Fecwip's Antique Armour Boutique.
+ 15231 | Orc:2    | Found Ampueciv's Book Shop.
+ 15231 | Orc:2    | Found a one-way gate leading to the halls of Pandemonium.
+ 15243 | Orc:2    | Bought a glowing helmet for 217 gold pieces
+ 15243 | Orc:2    | Bought a pair of glowing gloves for 217 gold pieces
+ 15359 | D:11     | Bought the amulet "Avverim" {Acrobat rPois rF+ rC+} for 828
+                  | gold pieces
+ 15419 | Snake:1  | Entered Level 1 of the Snake Pit
+ 15636 | Snake:1  | Reached XP level 15. HP: 144/144 MP: 13/15
+ 15655 | Snake:1  | Found a sparkling altar of Nemelex Xobeh.
+ 17164 | Snake:2  | Found a runed door.
+ 17217 | Snake:2  | Noticed Elinuc's ghost (adept DEWz)
+ 18078 | Snake:3  | Found an iron altar of Okawaru.
+ 18079 | Snake:3  | Noticed a nagaraja
+ 18104 | Snake:3  | Killed a nagaraja
+ 18104 | Snake:3  | Reached XP level 16. HP: 79/154 MP: 13/15
+ 18564 | Snake:3  | Noticed Louise
+ 18589 | Snake:3  | Killed Louise
+ 18589 | Snake:3  | Reached skill level 15 in Invocations
+ 19241 | Snake:4  | Entered Level 4 of the Snake Pit
+ 19445 | Snake:4  | Noticed Vashnia
+ 19453 | Snake:4  | Reached skill level 15 in Armour
+ 19453 | Snake:4  | Reached skill level 15 in Shields
+ 19516 | Snake:4  | Killed Vashnia
+ 19693 | Snake:4  | Reached skill level 15 in Axes
+ 19746 | Snake:4  | HP: 6/156 [nagaraja/halberd (8)]
+ 19748 | Snake:4  | HP: 1/156 [poisoned by a naga ritualist (toxic radiance)]
+ 19902 | Snake:4  | Reached skill level 1 in Dodging
+ 19950 | Snake:4  | HP: 6/157 [nagaraja/flail (9)]
+ 19951 | Snake:4  | Reached XP level 17. HP: 7/164 MP: 4/4
+ 19964 | Snake:4  | HP: 8/164 [poisoned by a nagaraja (bolt of poison)]
+ 19970 | Snake:4  | HP: 6/164 [poisoned by a naga mage (poison arrow)]
+ 19971 | Snake:4  | Succumbed to a naga mage's poison arrow
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 |
+---------------+-------------------------------------------------+-----
+Fighting       |     3           4  5  6  7  8  9 10    11 12 13 | 13.3
+Axes           |        3        4  5  6  8  9 10 11 12 13 14 15 | 15.3
+Armour         |           4     5  6  7  8  9 10 11 12 13 14 15 | 15.5
+Shields        |           4     5  6  7  8  9 10 11 12 13 14 15 | 15.3
+Invocations    |                          2  6  8 10 11 13 14 15 | 15.9
+Dodging        |                                               2 |  2.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 || total
+-------------------------+-------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |   129 |   227 |   414 |  1046 |  1296 |   420 ||  3532
+       Whip              |       |       |       |    36 |    46 |       ||    82
+       Battleaxe         |       |       |       |       |       |    60 ||    60
+Invok: Lesser Servant of |       |       |       |     1 |       |       ||     1
+       Greater Servant o |       |       |       |       |     5 |     4 ||     9
+ Abil: Heal Wounds       |       |     2 |     6 |    18 |    22 |    45 ||    93
+  Use: Scroll            |     3 |     6 |     5 |     5 |     7 |     1 ||    27
+       Potion            |     2 |     4 |     3 |     5 |     4 |     3 ||    21
+ Stab: Distracted        |       |       |       |     1 |     1 |       ||     2
+  Eat: Chunk             |       |     8 |     5 |    16 |    22 |     3 ||    54
+       Ration            |       |       |     1 |     2 |       |     2 ||     5
+Armor: Scale mail        |    67 |       |       |       |       |       ||    67
+       Chain mail        |     3 |   173 |   260 |   486 |       |       ||   922
+       Plate armour      |       |       |       |   189 |   978 |   486 ||  1653
+Dodge: Dodged            |    46 |    56 |    93 |   262 |   330 |   177 ||   964
+Block: Shield            |    76 |   120 |   265 |   721 |  1024 |   111 ||  2317
+       Large shield      |       |       |       |       |       |   253 ||   253
+
