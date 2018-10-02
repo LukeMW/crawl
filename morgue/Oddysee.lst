@@ -393,43 +393,43 @@ Level 8 of the Dungeon
   a spear
 
 Level 9 of the Dungeon
-(0, 35, D:9)
+(0, 0, D:9)
   14 arrows
-(5, 3, D:9)
+(5, -32, D:9)
   a giant club
-(6, 29, D:9)
+(6, -6, D:9)
   a scale mail
-(8, 23, D:9)
+(8, -12, D:9)
   10 stones
-(9, 26, D:9)
+(9, -9, D:9)
   12 stones
-(14, 35, D:9)
+(14, 0, D:9)
   a flail
   a leather armour
   a dagger
   a ring mail
-(15, 36, D:9)
+(15, 1, D:9)
   a short sword
   a scale mail
   a club
-(20, -6, D:9)
+(20, -41, D:9)
   an uncursed blowgun
   2 poisoned needles
-(21, -7, D:9)
+(21, -42, D:9)
   a dagger
-(22, -7, D:9)
+(22, -42, D:9)
   a poisoned needle
-(26, 34, D:9)
+(26, -1, D:9)
   15 sling bullets
-(26, 37, D:9)
+(26, 2, D:9)
   a spear
-(27, -5, D:9)
+(27, -40, D:9)
   a shield
-(28, 23, D:9)
+(28, -12, D:9)
   a shortbow
-(30, 26, D:9)
+(30, -9, D:9)
   a leather armour
-(50, 14, D:9)
+(50, -21, D:9)
   a ring mail
 
 Level 10 of the Dungeon
@@ -500,21 +500,14 @@ Level 11 of the Dungeon
     It protects you from negative energy.
     It affects your resistance to hostile enchantments.
     It protects you against confusion.
-  the amulet "Avverim" {Acrobat rPois rF+ rC+} (828 gold)
-    [amulet of the acrobat]
-    
-    It helps you evade while moving and waiting.
-    It protects you from fire.
-    It protects you from cold.
-    It protects you from poison.
 (0, 0, D:11)
   a halberd
 (2, 12, D:11)
   an uncursed dagger of venom
   an uncursed blowgun
 (4, 37, D:11)
-  an uncursed shortbow
   19 arrows
+  an uncursed shortbow
 (4, 39, D:11)
   2 arrows
 (5, 10, D:11)
@@ -539,6 +532,402 @@ Level 11 of the Dungeon
   a flail
 
 the Ecumenical Temple
+
+Level 1 of the Orcish Mines
+[Shop] Peproc's Weapon Emporium
+  16 stones (22 gold)
+  26 bolts (72 gold)
+  17 sling bullets (119 gold)
+  a +0 blowgun (35 gold)
+  a +0 flail (49 gold)
+  a +0 shortbow of velocity (91 gold)
+  19 stones (26 gold)
+  a +0 scimitar (56 gold)
+  a +0 great mace (91 gold)
+  a +0 great mace of holy wrath (191 gold)
+(0, 0, Orc:1)
+  a plate armour
+(1, 1, Orc:1)
+  a robe
+  a dagger of venom
+  a ring mail
+  a club
+(1, 16, Orc:1)
+  a chain mail
+  an enchanted hand axe
+(1, 17, Orc:1)
+  a leather armour
+  a robe
+  a club
+  a dagger
+  a robe
+  a dagger
+  a robe
+  a dagger
+  a dagger
+(2, 16, Orc:1)
+  a large rock
+(2, 17, Orc:1)
+  a chain mail
+  a short sword
+  a giant spiked club
+  a falchion
+  a chain mail
+(3, 16, Orc:1)
+  4 large rocks
+(3, 17, Orc:1)
+  a falchion
+  a leather armour
+  a dagger
+(15, 13, Orc:1)
+  a flail
+  a leather armour
+(16, 14, Orc:1)
+  a chain mail
+  a flail
+(20, 13, Orc:1)
+  a dagger
+  a robe
+  a dagger
+  a robe
+(20, 14, Orc:1)
+  a dagger
+  a robe
+(20, 15, Orc:1)
+  a mace
+  4 tomahawks
+  a chain mail
+(21, 13, Orc:1)
+  a flail
+  a plate armour
+(21, 14, Orc:1)
+  a halberd
+  a plate armour
+(21, 15, Orc:1)
+  a club
+  a hand axe
+  a chain mail
+(34, 14, Orc:1)
+  27 stones
+(35, 16, Orc:1)
+  a scale mail
+(43, 24, Orc:1)
+  a dire flail of venom
+  a dire flail
+  a giant club
+  a great mace
+(43, 25, Orc:1)
+  a war axe
+  a plate armour
+  a giant club
+  a giant spiked club
+(43, 26, Orc:1)
+  a spear
+(44, 23, Orc:1)
+  a spear
+  a robe
+(44, 24, Orc:1)
+  a hand axe
+(44, 26, Orc:1)
+  a spear
+(44, 27, Orc:1)
+  a spear
+(45, 24, Orc:1)
+  a dagger
+  a robe
+  a hand axe
+  a dagger
+  a robe
+  a dagger
+  a robe
+(45, 25, Orc:1)
+  a giant spiked club
+  a giant club
+  a war axe
+  a ring mail
+  a dagger
+  a robe
+(45, 26, Orc:1)
+  a spear
+
+Level 2 of the Orcish Mines
+[Shop] Mitoju Ewuph's Book Boutique
+  a book of Cantrips (unknown) (300 gold)
+  a book of Fire (unknown) (975 gold)
+  a book of the Warp (unknown) (1350 gold)
+  a book of Transfigurations (unknown) (825 gold)
+  a book of the Warp (unknown) (1350 gold)
+  a book of Power (unknown) (675 gold)
+  a book of Unlife (unknown) (975 gold)
+  Baexenk's Almanac of Stolen Souls and Boosts (961 gold)
+    Spells                           Type                      Level
+     a - Infusion                     Charms                        1
+     b - Animate Skeleton             Necromancy                    1
+     c - Corpse Rot                   Necromancy                    2
+     d - Regeneration                 Charms/Necromancy             3
+     e - Dispel Undead                Necromancy                    5
+     f - Ring of Flames               Charms/Fire                   7
+[Shop] Emoeru's Food Emporium
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+[Shop] Bouxesk's Distillery
+  a potion of brilliance (40 gold)
+  a potion of haste (100 gold)
+  a potion of degeneration (10 gold)
+  a potion of lignification (30 gold)
+  a potion of agility (40 gold)
+  a potion of magic (80 gold)
+  a potion of lignification (30 gold)
+[Shop] Fecwip's Antique Armour Boutique
+  a chain mail (130 gold)
+  a ring mail (116 gold)
+  a plate armour (667 gold)
+  a pair of runed gloves (217 gold)
+  a glowing ring mail (203 gold)
+  a chain mail (130 gold)
+  a leather armour (58 gold)
+  a plate armour (667 gold)
+  a buckler (130 gold)
+  a chain mail (130 gold)
+  a chain mail (130 gold)
+[Shop] Ampueciv's Book Shop
+  a book of Conjurations (450 gold)
+  a Necronomicon (unknown) (1656 gold)
+  a book of Battle (unknown) (600 gold)
+  a book of Summonings (unknown) (1050 gold)
+  a book of Frost (unknown) (525 gold)
+  Luockie's Handbook of Attacks (924 gold)
+    Spells                           Type                      Level
+     a - Shock                        Conjuration/Air               1
+     b - Magic Dart                   Conjuration                   1
+     c - Static Discharge             Conjuration/Air               3
+     d - Irradiate                    Conjuration/Transmutation     5
+     e - Iskenderun's Battlesphere    Conjuration/Charms            5
+     f - Bolt of Draining             Conjuration/Necromancy        5
+  a book of Beasts (unknown) (825 gold)
+(0, 0, Orc:2)
+  a dagger
+  a leather armour
+  a hand axe
+(1, 0, Orc:2)
+  a broad axe
+  a plate armour
+(10, 25, Orc:2)
+  a whip
+(10, 26, Orc:2)
+  2 large rocks
+(10, 27, Orc:2)
+  a large rock
+(11, 25, Orc:2)
+  a flail
+(11, 26, Orc:2)
+  a plate armour
+  a battleaxe
+(11, 32, Orc:2)
+  a runed robe
+  a dagger
+(12, 25, Orc:2)
+  a ring mail
+(14, -1, Orc:2)
+  a hand axe
+(14, 31, Orc:2)
+  a giant club
+(16, 11, Orc:2)
+  a plate armour
+  a battleaxe
+(17, 10, Orc:2)
+  a trident
+(17, 11, Orc:2)
+  a robe
+  a dagger
+  a robe
+  a dagger
+(18, 11, Orc:2)
+  a war axe
+(20, 22, Orc:2)
+  a plate armour
+  a halberd
+(24, 18, Orc:2)
+  a plate armour
+  a glowing leather armour
+  a scimitar
+  a flail
+  a short sword
+  a plate armour
+  a great mace
+  a plate armour
+  a war axe
+  a plate armour
+  a whip
+  a leather armour
+(24, 19, Orc:2)
+  a chain mail
+  a mace
+(25, 6, Orc:2)
+  a giant club
+(25, 17, Orc:2)
+  a plate armour
+  a hand axe
+  a mace
+  2 tomahawks
+  a mace
+  a flail
+(26, 16, Orc:2)
+  a war axe
+  a halberd
+  a chain mail
+(26, 17, Orc:2)
+  a hand axe
+  a leather armour
+  a club
+  a leather armour
+  3 tomahawks of dispersal
+  a flail
+  a hand axe
+(26, 21, Orc:2)
+  an enchanted trident
+(27, 16, Orc:2)
+  a tomahawk
+  a club
+  a plate armour
+  a war axe
+  a hand axe
+(28, 14, Orc:2)
+  a chain mail
+  a dagger
+(28, 15, Orc:2)
+  a tomahawk
+(28, 16, Orc:2)
+  a robe
+  a dagger
+(29, 14, Orc:2)
+  a robe
+  a dagger
+(29, 15, Orc:2)
+  a giant club
+(29, 16, Orc:2)
+  3 tomahawks
+  a chain mail
+  a mace
+  a plate armour
+  a dire flail
+(29, 18, Orc:2)
+  a robe
+  a dagger
+(29, 26, Orc:2)
+  a flail
+(30, 16, Orc:2)
+  5 tomahawks of returning
+  a flail
+  a chain mail
+  a halberd
+(30, 17, Orc:2)
+  a short sword
+  a long sword
+  a chain mail
+(31, 16, Orc:2)
+  a runed chain mail
+  an enchanted trident
+(31, 28, Orc:2)
+  a leather armour
+  a trident
+(32, 16, Orc:2)
+  a dagger
+(32, 17, Orc:2)
+  a plate armour
+  a dire flail of venom
+(32, 29, Orc:2)
+  a robe
+  a dagger
+  a war axe
+  a leather armour
+(33, 16, Orc:2)
+  a hand axe
+(33, 24, Orc:2)
+  a +2 pair of gloves
+  a +0 helmet
+(33, 28, Orc:2)
+  a runed robe
+  a dagger
+  a chain mail
+  a mace
+(33, 29, Orc:2)
+  a leather armour
+  a great sword
+(34, 28, Orc:2)
+  a glowing robe
+  an embroidered robe
+  a dagger of venom
+  an enchanted dagger
+(35, 24, Orc:2)
+  a glowing robe
+  a dagger
+(35, 26, Orc:2)
+  an embroidered robe
+  an enchanted dagger
+(35, 30, Orc:2)
+  a robe
+  a dagger
+(38, 27, Orc:2)
+  a plate armour
+  a flail
+  a plate armour
+  a war axe
+  a chain mail
+  a short sword
+  a leather armour
+  a dagger
+  a plate armour
+  a long sword
+(38, 28, Orc:2)
+  a plate armour
+  a trident
+(39, 26, Orc:2)
+  2 tomahawks
+(39, 27, Orc:2)
+  a chain mail
+  a runed robe
+  a dagger
+  a robe
+  a club
+  a dire flail
+  a dagger
+(40, 27, Orc:2)
+  a plate armour
+  5 tomahawks
+  a scimitar
+  a long sword of protection
+  a chain mail
+(43, 29, Orc:2)
+  a giant spiked club
+(44, 34, Orc:2)
+  a hand axe
+  a leather armour
+(45, 24, Orc:2)
+  a mace
+  a plate armour
+(45, 35, Orc:2)
+  a club
+  a hand axe
+(46, 25, Orc:2)
+  a giant club
+  a halberd of venom
+  a shiny chain mail
+(46, 34, Orc:2)
+  an enchanted short sword
+  a leather armour
+(47, 34, Orc:2)
+  a battleaxe
+(47, 35, Orc:2)
+  a dagger
 
 Level 1 of the Lair of Beasts
 (0, 0, Lair:1)
@@ -638,4 +1027,195 @@ Level 3 of the Lair of Beasts
   12 gold pieces
 (32, 7, Lair:3)
   a scroll labeled WIENEBLUBLE
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  a glowing spear
+(6, -18, Lair:4)
+  a dagger
+  a robe
+(17, -15, Lair:4)
+  a scroll of immolation
+(18, -13, Lair:4)
+  a glowing hand axe
+(18, 3, Lair:4)
+  a spear
+(23, -14, Lair:4)
+  a leather armour
+  a war axe
+(24, -14, Lair:4)
+  a robe
+  a hand axe
+(27, -2, Lair:4)
+  15 stones
+(29, -2, Lair:4)
+  18 stones
+(32, -31, Lair:4)
+  10 arrows
+(33, -30, Lair:4)
+  a ring mail
+(35, -24, Lair:4)
+  a long sword
+(37, -16, Lair:4)
+  a leather armour
+  a war axe
+(45, -27, Lair:4)
+  12 poisoned needles
+
+Level 5 of the Lair of Beasts
+(0, 0, Lair:5)
+  27 stones
+(4, 20, Lair:5)
+  a robe
+(9, 19, Lair:5)
+  an uncursed amulet of regeneration
+(14, 46, Lair:5)
+  a hand axe
+(19, 25, Lair:5)
+  23 stones
+(28, 15, Lair:5)
+  a dagger
+(30, 41, Lair:5)
+  a scale mail
+(36, 43, Lair:5)
+  an arbalest
+(43, 2, Lair:5)
+  a leather armour
+
+Level 6 of the Lair of Beasts
+(0, 0, Lair:6)
+  an arbalest
+(2, -11, Lair:6)
+  a morningstar
+(6, -43, Lair:6)
+  a leather armour
+(20, -41, Lair:6)
+  a fustibalus
+(25, -34, Lair:6)
+  18 stones
+(28, -21, Lair:6)
+  18 sling bullets
+(29, -51, Lair:6)
+  a translucent dagger
+(30, -52, Lair:6)
+  a spear
+(30, -50, Lair:6)
+  a cloak
+(37, -35, Lair:6)
+  a leather armour
+(38, -19, Lair:6)
+  a potion of degeneration
+(42, -13, Lair:6)
+  a leather armour
+(44, -33, Lair:6)
+  23 stones
+(45, -30, Lair:6)
+  22 bolts
+(49, -47, Lair:6)
+  a runed dagger
+(56, -33, Lair:6)
+  a +1 hat
+  a +1 pair of gloves
+(61, -43, Lair:6)
+  a scroll of immolation
+(63, -14, Lair:6)
+  a leather armour
+
+Level 1 of the Snake Pit
+(0, 0, Snake:1)
+  a ring mail
+(1, -16, Snake:1)
+  a scimitar of venom
+  a robe
+(2, 5, Snake:1)
+  a hand crossbow
+(5, -45, Snake:1)
+  a bolt
+(8, -45, Snake:1)
+  3 bolts
+(9, -45, Snake:1)
+  an uncursed enchanted arbalest
+  an uncursed war axe
+  8 bolts
+  a robe
+(20, 1, Snake:1)
+  4 needles of frenzy
+(21, -17, Snake:1)
+  18 stones
+(25, -40, Snake:1)
+  a war axe
+  a robe
+(26, -30, Snake:1)
+  a trident of venom
+(27, -31, Snake:1)
+  a club
+(27, -30, Snake:1)
+  a scimitar
+  a war axe
+(29, -29, Snake:1)
+  20 stones
+(29, 5, Snake:1)
+  a short sword
+  a robe
+(32, 1, Snake:1)
+  an uncursed amulet of rage
+  an uncursed amulet of the gourmand
+  a +1 helmet
+(34, -25, Snake:1)
+  a short sword
+  a robe
+(34, -24, Snake:1)
+  a halberd of chopping
+(35, -25, Snake:1)
+  a vampiric trident
+  a robe
+(36, -25, Snake:1)
+  a dire flail
+(36, -23, Snake:1)
+  a hand axe
+(41, -52, Snake:1)
+  a black mamba corpse
+(42, -38, Snake:1)
+  a falchion
+(43, -10, Snake:1)
+  a spear
+(46, -41, Snake:1)
+  an uncursed shortbow
+  an uncursed long sword of electrocution
+  7 arrows
+(47, -42, Snake:1)
+  6 arrows
+(47, -41, Snake:1)
+  a scimitar
+(48, -42, Snake:1)
+  3 arrows
+  a glaive
+  a robe
+(49, -42, Snake:1)
+  2 arrows
+(55, -39, Snake:1)
+  a dagger of venom
+  a robe
+(55, -35, Snake:1)
+  a halberd
+(56, -36, Snake:1)
+  a short sword
+(56, -35, Snake:1)
+  a dire flail
+  a robe
+(56, -30, Snake:1)
+  an arrow
+(57, -33, Snake:1)
+  a spear
+  an uncursed shortbow of flaming
+  13 arrows
+(57, -7, Snake:1)
+  a glaive
+(57, 3, Snake:1)
+  a dagger
+(65, -26, Snake:1)
+  a hand axe of electrocution
+  a robe
+(69, -14, Snake:1)
+  a flail
 

@@ -1,38 +1,38 @@
  Dungeon Crawl Stone Soup version 0.22.1 (tiles) character file.
 
-Oddysee the Protected (Deep Dwarf Fighter)         Turns: 10935, Time: 00:34:55
+Oddysee the Protected (Deep Dwarf Fighter)         Turns: 16559, Time: 00:56:33
 
-Health: 113/116    AC: 27    Str: 21    XL:     12   Next: 93%
-Magic:  12/12      EV:  6    Int: 10    God:    Makhleb [****..]
-Gold:   547        SH: 12    Dex: 13    Spells: 11/11 levels left
+Health: 144/144    AC: 31    Str: 21    XL:     15   Next: 24%
+Magic:  15/15      EV:  7    Int: 10    God:    Makhleb [******]
+Gold:   223        SH: 13    Dex: 14    Spells: 14/14 levels left
 
-rFire    . . .     SeeInvis .   a - +1 war axe (elec)
-rCold    + . .     Gourm    .   c - +0 shield
-rNeg     . . .     Faith    .   H - +0 plate armour
-rPois    .         Spirit   .   i - +0 helmet
+rFire    + . .     SeeInvis +   a - +1 war axe (elec)
+rCold    + + .     Gourm    .   c - +0 shield
+rNeg     + . .     Faith    .   H - +0 plate armour
+rPois    +         Spirit   .   T - +2 helmet {SInv}
 rElec    .         Reflect  .   z - +1 cloak
-rCorr    .         Harm     .   h - +1 pair of gloves
-MR       ++...                  m - +2 pair of boots
-Stlth    ..........             w - amulet of rage
+rCorr    .         Harm     .   U - +2 pair of gloves {archery}
+MR       +++..                  m - +2 pair of boots
+Stlth    ..........             i - amulet "Avverim" {Acrobat rPois rF+ rC+}
 HPRegen  0.00/turn              j - ring of protection from magic
-MPRegen  0.13/turn              o - ring of protection from cold
+MPRegen  0.14/turn              o - ring of protection from cold
 
 @: non-regenerating
-A: damage resistance, heal wounds, iridescent scales 1, sense surroundings 2,
-weak 1, MP-powered wands, no regeneration
+A: damage resistance, heal wounds, iridescent scales 1, negative energy
+resistance 1, sense surroundings 2, weak 1, MP-powered wands, no regeneration
 a: Heal Wounds, Minor Destruction, Lesser Servant of Makhleb, Major Destruction,
-Renounce Religion, Evoke Berserk Rage
+Greater Servant of Makhleb, Renounce Religion
 
 
-You are on level 3 of the Lair of Beasts.
+You are on level 1 of the Snake Pit.
 You worship Makhleb.
-Makhleb is greatly pleased with you.
-You are not hungry.
+Makhleb is exalted by your worship.
+You are hungry.
 
-You have visited 3 branches of the dungeon, and seen 15 of its levels.
+You have visited 5 branches of the dungeon, and seen 21 of its levels.
 
-You have collected 708 gold pieces.
-You have spent 161 gold pieces at shops.
+You have collected 1696 gold pieces.
+You have spent 1473 gold pieces at shops.
 
 Inventory:
 
@@ -40,93 +40,117 @@ Hand Weapons
  a - a +1 war axe of electrocution (weapon)
  b - a broad axe
  t - a +2 whip of freezing
+ v - a battleaxe
  D - a runed trident
 Armour
  c - a +0 shield (worn)
- h - a +1 pair of gloves (worn)
- i - a +0 helmet (worn)
- l - a +1 hat
  m - a +2 pair of boots (worn)
  z - a +1 cloak (worn)
  H - a +0 plate armour (worn)
+ T - a +2 helmet of see invisible (worn)
+ U - a +2 pair of gloves of archery (worn)
 Jewellery
+ i - the amulet "Avverim" (around neck) {Acrobat rPois rF+ rC+}
+   (You bought it in a shop on level 11 of the Dungeon)   
+   
+   [amulet of the acrobat]
+   
+   It helps you evade while moving and waiting.
+   It protects you from fire.
+   It protects you from cold.
+   It protects you from poison.
  j - a ring of protection from magic (left hand)
  o - a ring of protection from cold (right hand)
- s - an uncursed amulet of the gourmand
- w - an amulet of rage (around neck)
  N - a +2 ring of dexterity
+ R - an uncursed ring of positive energy
 Wands
  k - a wand of scattershot (7)
+ l - a wand of iceblast (7)
  C - a wand of acid (14)
  E - a wand of polymorph (24)
  F - a wand of disintegration (18)
  L - a wand of flame (7)
  M - a wand of random effects (10)
+ Q - a wand of paralysis (27)
+ V - a wand of digging (10)
 Scrolls
- e - 5 scrolls of enchant armour
+ e - 7 scrolls of enchant armour
  n - 8 scrolls of fog
  q - 2 scrolls of fear
- v - a scroll of magic mapping
- x - a scroll of enchant weapon
- y - 4 scrolls of teleportation
- A - 10 scrolls of identify
- B - 3 scrolls of amnesia
- G - 5 scrolls of remove curse
+ x - 2 scrolls of enchant weapon
+ y - 7 scrolls of teleportation
+ A - 11 scrolls of identify
+ B - 4 scrolls of amnesia
+ G - 7 scrolls of remove curse
+ P - a scroll of blinking
 Potions
  d - 3 potions of might
- g - 4 potions of heal wounds
- p - 2 potions of curing
+ g - 3 potions of heal wounds
+ p - a potion of curing
  r - 2 potions of agility
  u - 2 potions of resistance
  I - a potion of cancellation
- J - a potion of ambrosia
+ J - 2 potions of ambrosia
  K - a potion of brilliance
+ O - a potion of haste
+ S - a potion of invisibility
 Comestibles
- f - 23 rations
+ f - 38 rations
 
 
    Skills:
- + Level 10.0 Fighting
- + Level 11.4 Axes
- + Level 11.7 Armour
- + Level 11.7 Shields
- + Level 10.2 Invocations
+ + Level 12.0 Fighting
+ + Level 13.7 Axes
+ + Level 13.9 Armour
+ + Level 13.9 Shields
+ + Level 13.7 Invocations
 
 
-You have 11 spell levels left.
+You have 14 spell levels left.
 You don't know any spells.
 Your spell library contains the following spells:
 
  Spells                   Type           Power        Failure   Level  Hunger
- Animate Skeleton         Necr           N/A          100%        1    ##.....
- Beastly Appendage        Tmut           #.....       100%        1    ##.....
- Flame Tongue             Conj/Fire      #....        100%        1    ##.....
- Magic Dart               Conj           #...         100%        1    ##.....
- Pain                     Necr           #...         100%        1    ##.....
+ Animate Skeleton         Necr           N/A          99%         1    ##.....
+ Beastly Appendage        Tmut           #.....       99%         1    ##.....
+ Flame Tongue             Conj/Fire      #....        99%         1    ##.....
+ Magic Dart               Conj           #...         99%         1    ##.....
+ Pain                     Necr           #...         99%         1    ##.....
+ Blink                    Tloc           N/A          100%        2    ###....
+ Call Imp                 Summ           #.......     100%        2    ###....
+ Corpse Rot               Necr           N/A          100%        2    ###....
  Searing Ray              Conj           #.....       100%        2    ###....
+ Slow                     Hex            #.......     100%        2    ###....
  Sticks to Snakes         Tmut           #.......     100%        2    ###....
  Throw Flame              Conj/Fire      #.....       100%        2    ###....
  Conjure Flame            Conj/Fire      #.......     100%        3    ####...
  Dazzling Spray           Conj/Hex       #.....       100%        3    ####...
  Inner Flame              Hex/Fire       #.......     100%        3    ####...
+ Mephitic Cloud           Conj/Pois/Air  #.......     100%        3    ####...
  Spider Form              Tmut/Pois      #.........   100%        3    ####...
+ Stone Arrow              Conj/Erth      #.....       100%        3    ####...
  Vampiric Draining        Necr           #.........   100%        3    ####...
  Animate Dead             Necr           N/A          100%        4    #####..
  Force Lance              Conj/Tloc      #.......     100%        4    #####..
  Fulminant Prism          Conj/Hex       #.........   100%        4    #####..
  Ice Form                 Ice/Tmut       #.......     100%        4    #####..
  Iskenderun's Mystic Bla  Conj           #.......     100%        4    #####..
+ Leda's Liquefaction      Hex/Erth       #.........   100%        4    #####..
  Sticky Flame             Conj/Fire      #.......     100%        4    #####..
  Blade Hands              Tmut           #.........   100%        5    ######.
  Fireball                 Conj/Fire      #.........   100%        5    ######.
+ Summon Forest            Summ/Tloc      #.........   100%        5    ######.
+ Hydra Form               Tmut           #.........   100%        6    #######
+ Summon Hydra             Summ           #.........   100%        7    #######
  Regeneration             Chrm/Necr      Unusable     N/A         3    N/A
 
 
 Dungeon Overview and Level Annotations
 
 Branches:
-Dungeon (11/15)            Temple (1/1) D:7            Lair (3/6) D:11
- Shoals (0/4) Lair:3        Snake (0/4) Lair:2          Orc (0/2) D:11
+Dungeon (11/15)            Temple (1/1) D:7            Lair (6/6) D:11
+ Shoals (0/4) Lair:3        Snake (1/4) Lair:2        Slime (0/5) Lair:5
+    Orc (2/2) D:11            Elf (0/3) Orc:2       
 
 Altars:
 Ashenzari
@@ -151,9 +175,14 @@ Xom
 Yredelemnul
 Zin
 The Shining One
+Beogh
+Jiyva
 
 Shops:
-D:5 ([::[   D:10 =   D:11 =
+D:5 ([::[   D:10 =   D:11 =   Orc:1 (   Orc:2 :%:![
+
+Portals:
+Pandemonium: Orc:2
 
 Annotations:
 Lair:2 3 runed doors, exclusion: 2 oklob plants, Junaliek's ghost, journeyman MiFi
@@ -164,6 +193,7 @@ Innate Abilities, Weirdness & Mutations
 
 You are resistant to damage.
 You can heal yourself by infusing magical energy.
+You resist negative energy. (rN+)
 You passively map the area around you.
 You do not regenerate.
 You are partially covered in iridescent scales. (AC +2)
@@ -173,101 +203,127 @@ You expend magic power (3 MP) to strengthen your wands.
 
 Message History
 
-P - a large malachite amulet
 As you read the scroll of identify, it crumbles to dust.
-P - an uncursed amulet of harm
-You drop an uncursed amulet of harm.
-q - 2 scrolls of fear (gained 1)
-Found a club and 17 stones.
-Found a stone staircase leading down.
-All of the chunks of flesh in your inventory have rotted away.
-Marking area around the oklob plant as unsafe for travelling.
-An oklob plant comes into view.
-Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+h - a +1 helmet
+You drop a +1 helmet.
+You drop an uncursed amulet of the gourmand.
+You drop an uncursed amulet of rage.
+Things that are here:
+a short sword; a robe
+Things that are here:
+a short sword; a robe
+You see here 4 needles of frenzy.
+You are feeling hungry.
+You see here a hand crossbow.
+Done exploring.
+Done exploring.
+Done exploring.
+Done exploring.
 Okay, then.
-Put on which piece of jewellery? (? for menu, Esc to quit)
 Okay, then.
-Okay, then.
-Okay, then.
-Okay, then.
-Put on which piece of jewellery? (? for menu, Esc to quit)
-Okay, then.
+Search for what [Enter for "cloa", or ? for help]? .
 Save game and exit? 
 
-.##   ###.......#..........+.#
-..### #.##..............###..#
-..#P###.#.....................
-.................#.#.#..+#....
-.............................#
-..........#.P................#
-........####...#..........#<..
-........P##....#.............#
-..........#....#..........#..#
-...............##.#.P#..P.P...
-.............................#
-.......#..P.P#.@..............
-##..#..#$..?P##..##.#..#####.#
-########$.$., #.########   ###
-       #P. P *###
-       #.,
-       # , ,
-         *   *
+ ##.## #...........
+ #.#.###...........
+ ##...#............
+ #.................
+##.................
+#..[....#..........
+#......###.........
+#.......##.........
+#.......###.......#
+#.......###......##
+##...)...#####.....
+ ###@##..#  #.#####
+   #####.#  ###   #
+       ###
 
 
 There are no monsters in sight!
 
 Vanquished Creatures
+  A stone giant (Orc:1)
   Harold (D:8)
-  2 hydras
+  A naga warrior (Snake:1)
+  6 anacondas
+  5 hydras
+  A catoblepas (Lair:5)
+  4 two-headed ogres (Orc:1)
+  A death yak (Lair:5)
+  An ogre mage (Orc:1)
+  2 naga sharpshooters (Snake:1)
+  Nergalle (Lair:4)
   Sonja (D:11)
+  3 orc high priests (Orc:2)
+  A soul eater (Orc:2)
+  A shock serpent (Snake:1)
+  A gelid demonspawn (Orc:2)
+  2 naga ritualists (Snake:1)
+  2 torturous demonspawn (Orc:2)
   Pikel (D:6)
-  2 cyclopes
+  3 orc knights (Orc:2)
+  3 cyclopes
+  10 orc sorcerers (Orc:2)
   An ugly thing (D:11)
+  4 mana vipers (Snake:1)
+  2 salamanders (Snake:1)
+  A guardian serpent (Snake:1)
   Maurice (D:7)
-  3 elephants (Lair:2)
+  4 naga magi (Snake:1)
+  7 elephants
+  13 black mambas
+  A torpor snail (Lair:5)
   Joseph (D:8)
   Psyche (D:8)
   A gargoyle (D:11)
-  4 spiny frogs
-  2 rime drakes
-  3 komodo dragons
-  3 polar bears (D:8)
+  7 spiny frogs
+  3 rime drakes
+  A hellwing (Orc:2)
+  7 komodo dragons
+  4 polar bears
+  2 trolls (Orc:1)
+  An ice devil (Orc:2)
+  3 meliai (Lair:4)
+  A queen bee (Lair:4)
   Prince Ribbit (Lair:2)
-  7 blink frogs
-  4 hippogriffs
+  17 blink frogs
+  8 hippogriffs
   A shadow (D:11)
-  3 wyverns
-  29 yaks
+  5 wyverns
+  45 yaks
   A human (D:7)
-  A basilisk (Lair:1)
+  2 basilisks
   3 hogs (D:7)
-  5 nagas (Lair:2)
-  3 water moccasins
-  8 porcupines
-  An orc warrior (D:10)
+  A chaos spawn (Orc:2)
+  5 wargs
+  20 nagas
+  9 water moccasins
+  10 porcupines
+  24 orc warriors
   A black bear (D:11)
   A sky beast (D:10)
   Purgy (D:3)
   9 ice beasts
   A phantom (D:5)
   An eye of draining (D:11)
-  4 ogres
+  9 ogres
   10 centaurs
-  7 wolves
-  8 crocodiles
-  11 bullfrogs
+  10 wolves
+  12 crocodiles
+  14 bullfrogs
   A gnoll sergeant (D:7)
   A water moccasin zombie (D:8)
   2 wyvern skeletons
   4 scorpions
-  12 killer bees
+  23 killer bees
   4 howler monkeys
   4 crimson imps
   5 hounds
   3 bullfrog skeletons
   6 jellies
-  3 orc wizards
-  An orc priest (D:9)
+  18 orc wizards
+  17 orc priests
   6 iguanas
   10 worker ants
   A bullfrog simulacrum (D:8)
@@ -287,10 +343,10 @@ Vanquished Creatures
   4 worms
   A dart slug (D:2)
   5 leopard geckos
-  20 orcs
+  51 orcs
   A ball python (D:2)
   4 giant cockroaches
-  15 goblins
+  18 goblins
   9 hobgoblins
   15 jackals
   8 quokkas
@@ -299,21 +355,33 @@ Vanquished Creatures
   9 kobolds
   A quokka skeleton (D:8)
   9 rats
-  A plant (Lair:3)
-359 creatures vanquished.
+  5 plants
+630 creatures vanquished.
 
 Vanquished Creatures (collateral kills)
+  3 dire elephants (Lair:6)
+  A sun demon (Orc:2)
+  An orc knight (Orc:2)
   A centaur zombie (D:11)
+  An orange demon (Orc:2)
+  6 orc warriors (Orc:2)
+  An ogre (Orc:2)
   A black bear (D:11)
-2 creatures vanquished.
+  2 orc priests (Orc:2)
+  An orc wizard (Orc:2)
+  6 orcs (Orc:2)
+  A plant (Lair:6)
+25 creatures vanquished.
 
 Vanquished Creatures (others)
+  An orc priest (Orc:2)
   An adder (D:6)
-  4 fungi (D:11)
-  4 plants
-9 creatures vanquished.
+  A goblin (Orc:1)
+  6 fungi
+  6 plants
+15 creatures vanquished.
 
-Grand Total: 370 creatures vanquished
+Grand Total: 670 creatures vanquished
 
 Notes
 Turn   | Place    | Note
@@ -419,29 +487,73 @@ Turn   | Place    | Note
  10380 | Lair:3   | Reached skill level 10 in Invocations
  10450 | Lair:3   | Found a staircase to the Shoals.
  10568 | Lair:3   | Reached skill level 10 in Fighting
+ 10983 | Lair:4   | Reached XP level 13. HP: 123/123 MP: 13/13
+ 10983 | Lair:4   | Reached ***** piety under Makhleb
+ 11500 | Lair:4   | Noticed Nergalle
+ 11527 | Lair:4   | Killed Nergalle
+ 11930 | Lair:5   | Found a viscous altar of Jiyva.
+ 11932 | Lair:5   | Found a staircase to the Slime Pits.
+ 11972 | Lair:5   | Found a snail-covered altar of Cheibriados.
+ 12480 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 13281 | Lair:6   | Noticed a dire elephant
+ 13281 | Lair:6   | Noticed a dire elephant
+ 13283 | Lair:6   | Noticed a dire elephant
+ 13307 | Lair:6   | HP: 4/124 [dire elephant (5)]
+ 13310 | Lair:6   | Killed a dire elephant
+ 13311 | Lair:6   | Killed a dire elephant
+ 13312 | Lair:6   | Killed a dire elephant
+ 13481 | Lair:6   | Gained mutation: You resist negative energy. (rN+) [Deep
+                  | Dwarf growth]
+ 13481 | Lair:6   | Reached XP level 14. HP: 133/133 MP: 14/14
+ 13669 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 13669 | Orc:1    | Found Peproc's Weapon Emporium.
+ 13726 | Orc:1    | Found a runed door.
+ 13771 | Orc:1    | Found a roughly hewn altar of Beogh.
+ 13896 | Orc:1    | Noticed a stone giant
+ 13925 | Orc:1    | Killed a stone giant
+ 13945 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 13985 | Orc:2    | Found a staircase to the Elven Halls.
+ 14289 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 14311 | Orc:2    | Found Mitoju Ewuph's Book Boutique.
+ 14665 | Orc:2    | Found Emoeru's Food Emporium.
+ 14695 | Orc:2    | Found Bouxesk's Distillery.
+ 14734 | Orc:2    | Reached ****** piety under Makhleb
+ 14790 | Orc:2    | Bought a potion of heal wounds for 50 gold pieces
+ 15033 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 15231 | Orc:2    | Found Fecwip's Antique Armour Boutique.
+ 15231 | Orc:2    | Found Ampueciv's Book Shop.
+ 15231 | Orc:2    | Found a one-way gate leading to the halls of Pandemonium.
+ 15243 | Orc:2    | Bought a glowing helmet for 217 gold pieces
+ 15243 | Orc:2    | Bought a pair of glowing gloves for 217 gold pieces
+ 15359 | D:11     | Bought the amulet "Avverim" {Acrobat rPois rF+ rC+} for 828
+                  | gold pieces
+ 15419 | Snake:1  | Entered Level 1 of the Snake Pit
+ 15636 | Snake:1  | Reached XP level 15. HP: 144/144 MP: 13/15
+ 15655 | Snake:1  | Found a sparkling altar of Nemelex Xobeh.
 
-Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
----------------+-------------------------------------+-----
-Fighting       |     3           4  5  6  7  8  9 10 | 10.0
-Axes           |        3        4  5  6  8  9 10 11 | 11.4
-Armour         |           4     5  6  7  8  9 10 11 | 11.7
-Shields        |           4     5  6  7  8  9 10 11 | 11.7
-Invocations    |                          2  6  8 10 | 10.2
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 |
+---------------+----------------------------------------------+-----
+Fighting       |     3           4  5  6  7  8  9 10    11 12 | 12.0
+Axes           |        3        4  5  6  8  9 10 11 12 13    | 13.7
+Armour         |           4     5  6  7  8  9 10 11 12 13    | 13.9
+Shields        |           4     5  6  7  8  9 10 11 12 13    | 13.9
+Invocations    |                          2  6  8 10 11 13    | 13.7
 
-Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
--------------------------+-------+-------+-------+-------++-------
-Melee: War axe           |   129 |   227 |   414 |  1034 ||  1804
-       Whip              |       |       |       |    36 ||    36
-Invok: Lesser Servant of |       |       |       |     1 ||     1
- Abil: Heal Wounds       |       |     2 |     6 |    18 ||    26
-  Use: Scroll            |     3 |     6 |     5 |     5 ||    19
-       Potion            |     2 |     4 |     3 |     5 ||    14
- Stab: Distracted        |       |       |       |     1 ||     1
-  Eat: Chunk             |       |     8 |     5 |    16 ||    29
-       Ration            |       |       |     1 |     2 ||     3
-Armor: Scale mail        |    67 |       |       |       ||    67
-       Chain mail        |     3 |   173 |   260 |   486 ||   922
-       Plate armour      |       |       |       |   176 ||   176
-Dodge: Dodged            |    46 |    56 |    93 |   258 ||   453
-Block: Shield            |    76 |   120 |   265 |   702 ||  1163
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |   129 |   227 |   414 |  1046 |   923 ||  2739
+       Whip              |       |       |       |    36 |    46 ||    82
+Invok: Lesser Servant of |       |       |       |     1 |       ||     1
+       Greater Servant o |       |       |       |       |     3 ||     3
+ Abil: Heal Wounds       |       |     2 |     6 |    18 |    14 ||    40
+  Use: Scroll            |     3 |     6 |     5 |     5 |     4 ||    23
+       Potion            |     2 |     4 |     3 |     5 |     3 ||    17
+ Stab: Distracted        |       |       |       |     1 |       ||     1
+  Eat: Chunk             |       |     8 |     5 |    16 |    16 ||    45
+       Ration            |       |       |     1 |     2 |       ||     3
+Armor: Scale mail        |    67 |       |       |       |       ||    67
+       Chain mail        |     3 |   173 |   260 |   486 |       ||   922
+       Plate armour      |       |       |       |   189 |   704 ||   893
+Dodge: Dodged            |    46 |    56 |    93 |   262 |   229 ||   686
+Block: Shield            |    76 |   120 |   265 |   721 |   709 ||  1891
 
